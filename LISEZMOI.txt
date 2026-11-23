@@ -1,0 +1,18 @@
+Application de révision L1 SPS
+
+LANCER
+- Ordinateur : ouvre index.html dans ton navigateur.
+- Téléphone : copie le dossier sur un hébergement statique gratuit (Netlify Drop, GitHub Pages…), ouvre le lien, puis « Ajouter à l’écran d’accueil » : l’application fonctionne ensuite hors ligne.
+
+MODES
+- Chapitres : série de 10, questions non vues, questions ratées, tout le chapitre.
+- Examen blanc : 50 questions réparties entre tous les chapitres, minuteur, note sur 20, correction.
+- Erreurs : les questions ratées ; une question sort après 2 bonnes réponses d’affilée.
+- Plus : ajout de questions, durée de l’examen, sauvegarde et restauration de la progression.
+
+AJOUTER DES QUESTIONS (biologie moléculaire, autres cours)
+Option 1, dans l’application : Plus > Ajouter des questions > choisir un fichier .json (format indiqué à l’écran).
+Option 2, dans le dossier : déposer le fichier dans data/questions/, l’ajouter à data/chapitres.json si c’est un nouveau chapitre, puis lancer « python3 build.py ».
+Vérification : « python3 valider.py <chapitre> ».
+
+Format des données : data/format.md

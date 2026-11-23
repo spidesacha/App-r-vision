@@ -1,0 +1,2317 @@
+[
+ {
+  "id": "bc06-q001",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "mitose : 1 cellule mère → 2 cellules filles identiques",
+  "enonce": "La mitose est :",
+  "propositions": [
+   "un mécanisme de fusion de deux cellules",
+   "un mécanisme qui produit deux cellules différentes",
+   "un mécanisme qui donne quatre cellules haploïdes",
+   "un mécanisme de division qui donne, à partir d’une cellule mère, deux cellules filles identiques entre elles"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "La mitose est la multiplication d’une cellule préexistante, appelée cellule mère.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc06-q002",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "cellules filles : mêmes informations génétiques",
+  "enonce": "Quelle est la particularité génétique des deux cellules filles issues d’une mitose ?",
+  "propositions": [
+   "Elles n’ont pas d’information génétique",
+   "Elles possèdent la moitié des informations génétiques",
+   "Elles possèdent les mêmes informations génétiques que la cellule mère",
+   "Elles possèdent des informations génétiques différentes l’une de l’autre"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les deux cellules filles sont identiques entre elles.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc06-q003",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "cellule mère",
+  "enonce": "Comment appelle-t-on la cellule qui se divise lors d’une mitose ?",
+  "propositions": [
+   "La cellule germinale",
+   "La cellule mère",
+   "La cellule fille",
+   "La cellule haploïde"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "La mitose est la multiplication d’une cellule préexistante.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc06-q004",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "cycle cellulaire : G1, S, G2 et M",
+  "enonce": "De quelles phases le cycle cellulaire est-il composé ?",
+  "propositions": [
+   "G1, S et G2 (l’interphase) et la phase M (la mitose)",
+   "G0, G1 et G2",
+   "S et M uniquement",
+   "G1 et M uniquement"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "G1, S et G2 constituent l’interphase.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc06-q005",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "phase M = mitose proprement dite",
+  "enonce": "Quelle phase du cycle cellulaire correspond à la mitose proprement dite ?",
+  "propositions": [
+   "La phase G2",
+   "La phase S",
+   "La phase G1",
+   "La phase M"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les phases G1, S et G2 constituent l’interphase.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc06-q006",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "ordre",
+  "fait": "ordre des phases de la mitose",
+  "enonce": "Quel est l’ordre des phases de la mitose ?",
+  "propositions": [
+   "Télophase, prophase, métaphase, anaphase",
+   "Métaphase, prophase, anaphase, télophase",
+   "Prophase, métaphase, anaphase, télophase",
+   "Prophase, anaphase, métaphase, télophase"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "La mitose compte quatre phases successives.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc06-q007",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "interphase : période entre deux divisions",
+  "enonce": "Qu’est-ce que l’interphase ?",
+  "propositions": [
+   "La phase de séparation des chromatides",
+   "La dernière phase de la mitose",
+   "La phase de la division du noyau",
+   "La période entre deux divisions cellulaires"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Elle comprend les phases G1, S et G2.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc06-q008",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "interphase : volume, gènes, ADN",
+  "enonce": "Quelles sont les caractéristiques de l’interphase ?",
+  "propositions": [
+   "La condensation de la chromatine en chromosomes",
+   "La séparation des chromatides sœurs",
+   "Un accroissement du volume cellulaire, l’expression des gènes et la duplication de l’ADN (acide désoxyribonucléique)",
+   "La reformation de l’enveloppe nucléaire"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Ces trois événements ont lieu entre deux divisions.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc06-q009",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "G1 : Growth 1",
+  "enonce": "Que signifie G1 ?",
+  "propositions": [
+   "Une phase de séparation des pôles",
+   "Une phase de division du cytoplasme",
+   "Growth 1 : la cellule croît et vit normalement",
+   "Une phase de synthèse d’ADN (acide désoxyribonucléique)"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "G vient de l’anglais Growth.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc06-q010",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "G1 : cellules filles prennent leur taille finale",
+  "enonce": "Que font les cellules filles issues de la mitose précédente pendant la phase G1 ?",
+  "propositions": [
+   "Elles prennent leur taille finale",
+   "Elles répliquent leur ADN (acide désoxyribonucléique)",
+   "Elles condensent leurs chromosomes",
+   "Elles se divisent à nouveau"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Les cellules filles issues de la mitose précédente sont plus petites.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc06-q011",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "phase S : synthèse d’ADN",
+  "enonce": "Que signifie la lettre S de la phase S ?",
+  "propositions": [
+   "Synthèse de nouvelles molécules d’ADN (acide désoxyribonucléique)",
+   "Synthèse d’organites",
+   "Séparation des pôles",
+   "Séparation des chromatides"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "C’est pendant cette phase que l’ADN est dupliqué.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc06-q012",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "G2 : croissance et organites",
+  "enonce": "Que fait la cellule en phase G2 ?",
+  "propositions": [
+   "Elle réplique son ADN (acide désoxyribonucléique)",
+   "Elle sépare ses chromatides",
+   "Elle forme le fuseau",
+   "Elle croît pour avoir suffisamment d’organites pour sa descendance"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "G2 signifie Growth 2.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc06-q013",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "centrosome : deux centrioles et matériel péricentriolaire",
+  "enonce": "De quoi le centrosome (MTOC) est-il composé ?",
+  "propositions": [
+   "D’un seul centriole",
+   "D’un nucléole et d’un ribosome",
+   "De deux centrioles perpendiculaires entourés de matériel péricentriolaire",
+   "De deux noyaux"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "MTOC : centre organisateur de microtubules.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 8
+  }
+ },
+ {
+  "id": "bc06-q014",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "signification de MTOC",
+  "enonce": "Que signifie MTOC pour le centrosome ?",
+  "propositions": [
+   "Chaîne de transfert d’oxygène cellulaire",
+   "Complexe de transport des organites cellulaires",
+   "Centre organisateur des microtubules (Microtubule Organizing Center)",
+   "Centre de multiplication des ovocytes"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Le centrosome est le centre organisateur des microtubules.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 8
+  }
+ },
+ {
+  "id": "bc06-q015",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "matrice centrosomale",
+  "enonce": "Qu’est-ce que la matrice centrosomale ?",
+  "propositions": [
+   "Un réseau de microfilaments d’actine",
+   "Le noyau du centrosome",
+   "L’enveloppe du centrosome",
+   "Le matériel amorphe formé du matériel péricentriolaire et d’une paire de centrioles"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Elle abrite la nucléation des microtubules.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 9
+  }
+ },
+ {
+  "id": "bc06-q016",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "anneau de gamma-tubuline : nucléation",
+  "enonce": "Que contient le centrosome qui permet la nucléation des microtubules ?",
+  "propositions": [
+   "Des ribosomes",
+   "Des histones",
+   "Le complexe en anneau de γ-tubuline",
+   "Des lamines"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "La nucléation est le point de départ de la formation des microtubules.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 9
+  }
+ },
+ {
+  "id": "bc06-q017",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "réseau radiaire de microtubules",
+  "enonce": "Quelle organisation de microtubules le centrosome possède-t-il ?",
+  "propositions": [
+   "Aucun réseau",
+   "Un réseau parallèle de microfilaments",
+   "Un réseau radiaire de microtubules, avec des extrémités + et −",
+   "Un réseau circulaire de lamines"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les microtubules sont nucléés à partir du centrosome.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 9
+  }
+ },
+ {
+  "id": "bc06-q018",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "trois fonctions du centrosome",
+  "enonce": "Quelles sont les trois fonctions du centrosome en mitose ?",
+  "propositions": [
+   "Former l’enveloppe nucléaire, synthétiser les lipides et digérer les chromosomes",
+   "Former les deux pôles du fuseau, donner un centrosome à chaque cellule fille et déterminer le plan de division cytoplasmique",
+   "Dupliquer le noyau, fabriquer les ribosomes et exporter l’acide ribonucléique",
+   "Répliquer l’ADN (acide désoxyribonucléique), condenser la chromatine et fabriquer les nucléoles"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Le centrosome aide à la formation des pôles du fuseau.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc06-q019",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "plan de division cytoplasmique",
+  "enonce": "Que détermine le centrosome ?",
+  "propositions": [
+   "Le plan de division cytoplasmique",
+   "Le nombre de chromosomes",
+   "La forme du noyau",
+   "Le type cellulaire"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Chaque cellule fille a son centrosome.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc06-q020",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "cycle du centrosome : duplication puis séparation",
+  "enonce": "Comment le cours définit-il le cycle du centrosome ?",
+  "propositions": [
+   "Une fusion suivie d’une disparition",
+   "Une disparition suivie d’une réplication",
+   "Une séparation suivie d’une fusion",
+   "Une duplication suivie d’une séparation"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Le centrosome se duplique en interphase.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 11
+  }
+ },
+ {
+  "id": "bc06-q021",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "interphase : centrosome dupliqué",
+  "enonce": "Que se passe-t-il pour le centrosome pendant l’interphase ?",
+  "propositions": [
+   "Il se divise en quatre noyaux",
+   "Il se dissout",
+   "Il disparaît",
+   "Il est dupliqué, mais les deux copies restent ensemble"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Il est dupliqué pendant la phase S.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 11
+  }
+ },
+ {
+  "id": "bc06-q022",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "début de phase M : le centrosome se scinde",
+  "enonce": "Que se passe-t-il pour le centrosome au début de la phase M ?",
+  "propositions": [
+   "Il est dupliqué",
+   "Il fusionne avec le noyau",
+   "Il disparaît",
+   "Il se scinde en deux"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Chaque paire de centrioles devient un centre organisateur des microtubules.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 11
+  }
+ },
+ {
+  "id": "bc06-q023",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "paire de centrioles → centre organisateur",
+  "enonce": "Que devient chaque paire de centrioles au début de la mitose ?",
+  "propositions": [
+   "Un chromosome",
+   "Un centre organisateur des microtubules",
+   "Un nucléole",
+   "Un kinétochore"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les centrosomes s’éloignent ensuite l’un de l’autre.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 11
+  }
+ },
+ {
+  "id": "bc06-q024",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "asters",
+  "enonce": "Comment appelle-t-on les faisceaux de microtubules irradiant en étoile autour de chaque centrosome ?",
+  "propositions": [
+   "Les kinétochores",
+   "Les nucléoles",
+   "Les chromatides",
+   "Les asters"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les asters forment les pôles du fuseau mitotique.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 11
+  }
+ },
+ {
+  "id": "bc06-q025",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "centrosome dupliqué en S : deux paires",
+  "enonce": "Que contient le centrosome dupliqué en phase S ?",
+  "propositions": [
+   "Deux paires de centrioles",
+   "Quatre noyaux",
+   "Un nucléole",
+   "Un seul centriole"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Les centrioles sont dupliqués en phase S.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 12
+  }
+ },
+ {
+  "id": "bc06-q026",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "prophase : chromatine → chromosome",
+  "enonce": "Que devient le matériel génétique en prophase ?",
+  "propositions": [
+   "Il est dégradé",
+   "Il passe de la forme chromatine à la forme chromosome",
+   "Il est exporté hors du noyau",
+   "Il passe de la forme chromosome à la forme chromatine"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "C’est la condensation de l’ADN (acide désoxyribonucléique).",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc06-q027",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "prophase : nucléoles disparaissent",
+  "enonce": "Que deviennent les nucléoles en prophase ?",
+  "propositions": [
+   "Ils fusionnent avec le centrosome",
+   "Ils se dupliquent",
+   "Ils apparaissent",
+   "Ils disparaissent"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Ils se reforment en télophase.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc06-q028",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "cohésine entre chromatides sœurs",
+  "enonce": "Quelle protéine relie les deux chromatides sœurs d’un chromosome au niveau du centromère ?",
+  "propositions": [
+   "La cohésine",
+   "La dynéine",
+   "La kinésine",
+   "La lamine"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Les chromatides sœurs sont reliées par leur centromère.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc06-q029",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "centrosome de prophase : 4 centrioles",
+  "enonce": "Combien de centrioles le centrosome contient-il en prophase, avant de se diviser en deux ?",
+  "propositions": [
+   "1",
+   "2",
+   "4",
+   "8"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Il se divise ensuite en deux centrosomes.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc06-q030",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "centrosomes migrent vers les pôles",
+  "enonce": "Que fait chacun des deux centrosomes en prophase ?",
+  "propositions": [
+   "Il reste près du noyau",
+   "Il fusionne avec l’autre centrosome",
+   "Il entre dans le nucléole",
+   "Il migre vers un pôle de la cellule"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les deux centrosomes forment les pôles.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc06-q031",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "fuseau mitotique : réorganisation du cytosquelette",
+  "enonce": "D’où provient le fuseau mitotique ?",
+  "propositions": [
+   "De la réorganisation du cytosquelette de microtubules",
+   "Du Golgi",
+   "Du nucléole",
+   "De la paroi"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Il se forme en prophase.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc06-q032",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "prométaphase : membrane nucléaire en vésicules",
+  "enonce": "Que devient la membrane nucléaire en prométaphase ?",
+  "propositions": [
+   "Elle se renforce",
+   "Elle se désagrège sous forme de vésicules",
+   "Elle se reforme",
+   "Elle se duplique"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Elle se reforme en fin de télophase.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc06-q033",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "kinétochores aux centromères",
+  "enonce": "Où se forment les kinétochores ?",
+  "propositions": [
+   "Au niveau des centromères",
+   "Sur le nucléole",
+   "Dans le cytosol",
+   "Aux pôles"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Ils se forment en prométaphase.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc06-q034",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "kinétochore : complexe protéique",
+  "enonce": "Qu’est-ce qu’un kinétochore ?",
+  "propositions": [
+   "Un complexe protéique spécialisé auquel s’accrochent certains microtubules",
+   "Un type de microtubule astral",
+   "Un organite membranaire",
+   "Une protéine qui relie les chromatides"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Chaque chromatide est ainsi reliée à un pôle.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc06-q035",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "mouvements agités en prométaphase",
+  "enonce": "Pourquoi les chromosomes ont-ils des mouvements agités en prométaphase ?",
+  "propositions": [
+   "Ils sont répliqués",
+   "Les microtubules exercent des tensions sur eux",
+   "La membrane nucléaire se reforme",
+   "Ils sont dégradés"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les tensions viennent des microtubules reliés aux pôles.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc06-q036",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "chaque chromatide reliée à un pôle",
+  "enonce": "À quoi chaque chromatide est-elle reliée à la fin de la prométaphase ?",
+  "propositions": [
+   "À un nucléole",
+   "À la membrane plasmique",
+   "À l’autre chromatide sœur seulement",
+   "À un pôle, par l’intermédiaire des microtubules"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Cela entraîne des mouvements agités.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc06-q037",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "trois classes de microtubules",
+  "enonce": "Combien de classes de microtubules le fuseau comprend-il ?",
+  "propositions": [
+   "2",
+   "1",
+   "4",
+   "3"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les microtubules astraux, du kinétochore et chevauchants.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc06-q038",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "microtubules astraux : pôles et orientation",
+  "enonce": "Quel est le rôle des microtubules astraux ?",
+  "propositions": [
+   "Séparer les pôles et orienter le fuseau dans la cellule",
+   "Dégrader les chromatides",
+   "Assurer la symétrie bipolaire",
+   "Fixer les chromosomes au fuseau"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Ils irradient dans toutes les directions.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc06-q039",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "microtubules kinétochoriens : fixent les chromosomes",
+  "enonce": "Quel est le rôle des microtubules du kinétochore ?",
+  "propositions": [
+   "Orienter le fuseau",
+   "Former les asters",
+   "Séparer les pôles",
+   "Fixer les chromosomes au fuseau"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Ils sont liés au kinétochore.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc06-q040",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "microtubules chevauchants : symétrie bipolaire",
+  "enonce": "Quel est le rôle des microtubules chevauchants (polaires) ?",
+  "propositions": [
+   "Irradier dans toutes les directions",
+   "Fixer les chromosomes",
+   "Constituer le kinétochore",
+   "Assurer la symétrie bipolaire du fuseau"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "On les appelle aussi microtubules polaires.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc06-q041",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "extrémités − vers le centrosome",
+  "enonce": "Vers quoi sont orientées toutes les extrémités − des microtubules du fuseau ?",
+  "propositions": [
+   "Vers le noyau",
+   "Vers l’équateur",
+   "Vers la membrane",
+   "Vers le centrosome"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les extrémités + sont dirigées vers les chromosomes.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 19
+  }
+ },
+ {
+  "id": "bc06-q042",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "plaque équatoriale",
+  "enonce": "Comment appelle-t-on l’alignement des chromosomes à l’équateur de la cellule en métaphase ?",
+  "propositions": [
+   "La plaque nucléaire",
+   "L’aster",
+   "Le fuseau",
+   "La plaque équatoriale"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les chromosomes sont alignés selon leur centromère.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 21
+  }
+ },
+ {
+  "id": "bc06-q043",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "métaphase : alignement selon le centromère",
+  "enonce": "Selon quelle partie du chromosome les chromosomes sont-ils alignés en métaphase ?",
+  "propositions": [
+   "Leur centromère",
+   "Leur nucléole",
+   "Leurs bras longs",
+   "Leurs télomères"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Ils se déplacent vers l’équateur.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 21
+  }
+ },
+ {
+  "id": "bc06-q044",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "anaphase : phase très rapide",
+  "enonce": "Comment est l’anaphase ?",
+  "propositions": [
+   "La phase la plus longue",
+   "Une phase très rapide",
+   "Une phase réversible",
+   "Une phase sans mouvement"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les chromatides se séparent et migrent vers les pôles.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 22
+  }
+ },
+ {
+  "id": "bc06-q045",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "anaphase : séparation des chromatides",
+  "enonce": "Que se passe-t-il en anaphase ?",
+  "propositions": [
+   "Les chromosomes se condensent",
+   "L’enveloppe nucléaire se reforme",
+   "Les chromatides sœurs se séparent et migrent vers les pôles opposés",
+   "Le centrosome se duplique"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "C’est une phase très rapide.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 22
+  }
+ },
+ {
+  "id": "bc06-q046",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "chromatides tirées par les microtubules",
+  "enonce": "Par quoi les chromatides sœurs sont-elles tirées en anaphase ?",
+  "propositions": [
+   "Les kératines",
+   "Les microtubules, en direction du pôle auquel elles sont rattachées",
+   "Les lamines",
+   "Les microfilaments d’actine"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Elles sont tirées vers le pôle auquel elles sont rattachées.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 22
+  }
+ },
+ {
+  "id": "bc06-q047",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "télophase : microtubules disparaissent",
+  "enonce": "Que deviennent les microtubules en télophase ?",
+  "propositions": [
+   "Ils se fixent au noyau",
+   "Ils se forment",
+   "Ils disparaissent",
+   "Ils se multiplient"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les chromatides commencent à se décondenser.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc06-q048",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "télophase : inverse de la prophase",
+  "enonce": "Comment le cours caractérise-t-il la télophase par rapport à la prophase ?",
+  "propositions": [
+   "C’est l’inverse de la prophase",
+   "C’est la phase la plus rapide",
+   "C’est la phase de condensation",
+   "C’est la même phase"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "L’enveloppe nucléaire et les nucléoles se reforment.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc06-q049",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "télophase : décondensation",
+  "enonce": "Que deviennent les chromatides sœurs en télophase ?",
+  "propositions": [
+   "Elles se condensent",
+   "Elles se dupliquent",
+   "Elles sont dégradées",
+   "Elles commencent à se décondenser"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "L’enveloppe nucléaire et les nucléoles commencent à se reformer.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc06-q050",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "enveloppe nucléaire : se reforme en fin de télophase",
+  "enonce": "Quand l’enveloppe nucléaire se reforme-t-elle ?",
+  "propositions": [
+   "En fin de télophase",
+   "En anaphase",
+   "En prophase",
+   "En métaphase"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Elle disparaît au cours de la prophase.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 26
+  }
+ },
+ {
+  "id": "bc06-q051",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "enveloppe nucléaire : disparaît en prophase",
+  "enonce": "À quel moment l’enveloppe nucléaire disparaît-elle ?",
+  "propositions": [
+   "Au cours de la prophase",
+   "Au cours de l’interphase",
+   "Au cours de la télophase",
+   "Au cours de l’anaphase"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Elle se reforme en fin de télophase.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 26
+  }
+ },
+ {
+  "id": "bc06-q052",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "absence d’enveloppe : séparation des chromosomes",
+  "enonce": "Que permet l’absence d’enveloppe nucléaire pendant la mitose ?",
+  "propositions": [
+   "Le déplacement et la séparation des chromosomes en deux lots répartis aux deux pôles",
+   "La réplication de l’ADN (acide désoxyribonucléique)",
+   "La traduction des protéines",
+   "La transcription des gènes"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Il n’y a pas de métabolisme de l’ADN pendant la mitose.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 26
+  }
+ },
+ {
+  "id": "bc06-q053",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "chromosome en début de mitose : 2 chromatides",
+  "enonce": "Comment sont formés les chromosomes en début de mitose ?",
+  "propositions": [
+   "D’un seul brin d’acide ribonucléique",
+   "De deux chromatides unies au niveau des centromères",
+   "De quatre chromatides",
+   "D’une seule chromatide"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Ils sont répliqués avant la mitose.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 26
+  }
+ },
+ {
+  "id": "bc06-q054",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "après l’anaphase : 1 chromatide",
+  "enonce": "Combien de chromatides chaque chromosome a-t-il après l’anaphase ?",
+  "propositions": [
+   "Deux",
+   "Une seule",
+   "Aucune",
+   "Quatre"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les deux chromatides de chaque chromosome se séparent et forment deux lots de chromosomes.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 26
+  }
+ },
+ {
+  "id": "bc06-q055",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "squelette cytoplasmique en interphase",
+  "enonce": "De quoi est formé le squelette cytoplasmique de la cellule en dehors de la mitose ?",
+  "propositions": [
+   "De filaments d’actine concentrés au centre",
+   "De microtubules organisés en fuseau",
+   "Essentiellement de microtubules dispersés dans la cellule",
+   "De lamines"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Pendant la mitose, les microtubules s’organisent de manière particulière.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 27
+  }
+ },
+ {
+  "id": "bc06-q056",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "centrosomes : près du noyau puis opposés",
+  "enonce": "Comment se disposent les deux centrosomes au début de la mitose ?",
+  "propositions": [
+   "Aux deux pôles d’emblée",
+   "Dans le noyau",
+   "Contre la membrane plasmique",
+   "Près du noyau, puis l’un d’eux migre du côté opposé"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Chaque centrosome forme alors un réseau de microtubules.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 27
+  }
+ },
+ {
+  "id": "bc06-q057",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "microtubules du fuseau : déplacement orienté",
+  "enonce": "Que permettent les microtubules du fuseau de division ?",
+  "propositions": [
+   "La dégradation de la chromatine",
+   "La synthèse des chromosomes",
+   "La reformation du nucléole",
+   "Le déplacement orienté des chromosomes"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Le fuseau se dispose au niveau du noyau.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 27
+  }
+ },
+ {
+  "id": "bc06-q058",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "colchicine : fuseau et répartition anarchique",
+  "enonce": "Quel effet la colchicine a-t-elle sur la mitose ?",
+  "propositions": [
+   "Elle empêche la formation du fuseau et entraîne une répartition anarchique des chromosomes",
+   "Elle bloque la réplication de l’ADN (acide désoxyribonucléique) en phase S",
+   "Elle détruit la cohésine",
+   "Elle empêche la disparition de l’enveloppe nucléaire"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "La colchicine est une drogue cellulaire.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 27
+  }
+ },
+ {
+  "id": "bc06-q059",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "cas_pratique",
+  "fait": "colchicine : cas pratique",
+  "enonce": "Une cellule traitée par la colchicine entre en mitose. Quelle observation est attendue ?",
+  "propositions": [
+   "Le centrosome ne se duplique pas",
+   "Les chromosomes sont répartis de façon anarchique entre les deux cellules filles",
+   "Les chromosomes ne se condensent pas",
+   "Les chromosomes sont répartis de façon identique entre les deux cellules filles"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Sans fuseau, les chromosomes ne sont pas déplacés de façon orientée.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 27
+  }
+ },
+ {
+  "id": "bc06-q060",
+  "chapitre": "bc06",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "identification métaphase : plan équatorial",
+  "enonce": "Une cellule observée au microscope présente ses chromosomes alignés sur un plan équatorial. De quelle phase s’agit-il ?",
+  "propositions": [
+   "L’anaphase",
+   "La télophase",
+   "La métaphase",
+   "La prophase"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les chromosomes forment la plaque équatoriale.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 21
+  }
+ },
+ {
+  "id": "bc06-q061",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "mitose : multiplication, 2 filles identiques",
+  "enonce": "Parmi ces affirmations sur la mitose, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les cellules filles ont les mêmes informations génétiques que la cellule mère.",
+   "Elle donne 4 cellules haploïdes.",
+   "C’est la multiplication d’une cellule préexistante.",
+   "Elle donne 2 cellules filles identiques entre elles.",
+   "Elle ne concerne que les cellules germinales."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3
+  ],
+  "explication": "La cellule qui se divise est la cellule mère.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc06-q062",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "cycle cellulaire : interphase et phase M",
+  "enonce": "Quelles associations phase du cycle – composition sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Interphase : prophase, métaphase, anaphase",
+   "Phase M : G1 et G2",
+   "Interphase : G1, S et G2",
+   "Phase M : la mitose proprement dite"
+  ],
+  "bonnes": [
+   2,
+   3
+  ],
+  "explication": "Le cycle comprend l’interphase et la phase M.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc06-q063",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "ordre",
+  "fait": "phases de la mitose",
+  "enonce": "Quelles phases font partie de la mitose ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Anaphase",
+   "Métaphase",
+   "Phase S",
+   "Télophase",
+   "Prophase"
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "La phase S fait partie de l’interphase.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc06-q064",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "interphase : caractéristiques",
+  "enonce": "Parmi ces affirmations sur l’interphase, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle comprend un accroissement du volume cellulaire.",
+   "Elle comprend la séparation des chromatides.",
+   "C’est la période entre les divisions cellulaires.",
+   "Elle comprend la duplication de l’ADN (acide désoxyribonucléique).",
+   "Elle comprend l’expression des gènes."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explication": "Elle est subdivisée en G1, S et G2.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc06-q065",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "G1, S, G2",
+  "enonce": "Quelles associations phase – événement sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "G1 : la cellule croît et vit normalement",
+   "G1 : synthèse de nouvelles molécules d’ADN (acide désoxyribonucléique)",
+   "S : synthèse de nouvelles molécules d’ADN (acide désoxyribonucléique)",
+   "G2 : la cellule croît pour avoir assez d’organites",
+   "S : séparation des chromatides"
+  ],
+  "bonnes": [
+   0,
+   2,
+   3
+  ],
+  "explication": "Ces phases constituent l’interphase.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc06-q066",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "centrosome : composition",
+  "enonce": "Parmi ces affirmations sur le centrosome, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La matrice centrosomale comprend le matériel péricentriolaire et une paire de centrioles.",
+   "Il est composé d’un seul centriole.",
+   "Les centrioles sont entourés de matériel péricentriolaire.",
+   "Il est composé de deux centrioles perpendiculaires.",
+   "Il contient le complexe en anneau de γ-tubuline, qui permet la nucléation."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explication": "C’est le centre organisateur des microtubules.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 9
+  }
+ },
+ {
+  "id": "bc06-q067",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "fonctions du centrosome",
+  "enonce": "Quelles sont des fonctions du centrosome ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Faire en sorte que chaque cellule fille ait son centrosome",
+   "Aider à former les deux pôles du fuseau",
+   "Déterminer le plan de division cytoplasmique",
+   "Fabriquer les nucléoles",
+   "Répliquer les chromosomes"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "Le centrosome organise les microtubules.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc06-q068",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "ordre",
+  "fait": "cycle du centrosome",
+  "enonce": "Quelles étapes du cycle du centrosome sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Interphase : duplication, les deux copies restent ensemble",
+   "Les centrosomes s’éloignent et forment des asters",
+   "Chaque paire de centrioles devient un centre organisateur des microtubules",
+   "Interphase : le centrosome disparaît",
+   "Début de phase M : le centrosome se scinde en deux"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "Le cycle est une duplication puis une séparation.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 11
+  }
+ },
+ {
+  "id": "bc06-q069",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "asters",
+  "enonce": "Parmi ces affirmations sur les asters, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les asters sont des faisceaux de microtubules irradiant en étoile autour de chaque centrosome.",
+   "Ce sont des chromosomes.",
+   "Ils forment les pôles du fuseau mitotique.",
+   "Ce sont des kinétochores."
+  ],
+  "bonnes": [
+   0,
+   2
+  ],
+  "explication": "Ils se forment lorsque les centrosomes s’éloignent.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 11
+  }
+ },
+ {
+  "id": "bc06-q070",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "centrosome en phase S",
+  "enonce": "Quelles affirmations sur le centrosome en phase S sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Le centrosome contient un seul centriole.",
+   "Le centrosome dupliqué contient deux paires de centrioles.",
+   "Les centrioles sont dupliqués.",
+   "Le centrosome disparaît."
+  ],
+  "bonnes": [
+   1,
+   2
+  ],
+  "explication": "La duplication a lieu en interphase.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 12
+  }
+ },
+ {
+  "id": "bc06-q071",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "prophase : événements",
+  "enonce": "Parmi ces affirmations sur la prophase, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les nucléoles disparaissent.",
+   "Chaque centrosome migre vers un pôle.",
+   "Les chromatides sœurs se séparent.",
+   "Les chromatides sœurs sont reliées par la cohésine.",
+   "L’ADN (acide désoxyribonucléique) passe de la forme chromatine à la forme chromosome."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "La séparation des chromatides a lieu en anaphase.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc06-q072",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "identification de la prophase",
+  "enonce": "Une cellule présente des chromosomes condensés, des nucléoles disparus et deux centrosomes migrant vers les pôles. Quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle est en anaphase.",
+   "Le fuseau mitotique est en cours de formation.",
+   "Les chromatides sœurs sont reliées par la cohésine.",
+   "Elle est en prophase.",
+   "L’enveloppe nucléaire est reformée."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "L’enveloppe nucléaire disparaît en prophase et se reforme en télophase.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc06-q073",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "prométaphase : événements",
+  "enonce": "Parmi ces affirmations sur la prométaphase, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "L’enveloppe nucléaire se reforme.",
+   "Les chromosomes ont des mouvements agités.",
+   "Des kinétochores se forment au niveau des centromères.",
+   "Certains microtubules s’accrochent aux kinétochores.",
+   "La membrane nucléaire se désagrège sous forme de vésicules."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explication": "L’enveloppe nucléaire se reforme en télophase.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc06-q074",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "kinétochores : propriétés",
+  "enonce": "Quelles affirmations sur les kinétochores sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ce sont des organites entourés d’une membrane.",
+   "Ce sont des complexes protéiques spécialisés.",
+   "Ils se forment aux pôles.",
+   "Des microtubules s’y accrochent.",
+   "Ils se forment au niveau des centromères."
+  ],
+  "bonnes": [
+   1,
+   3,
+   4
+  ],
+  "explication": "Ils permettent de relier chaque chromatide à un pôle.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc06-q075",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "classes de microtubules du fuseau",
+  "enonce": "Quelles associations classe de microtubules – rôle sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Chevauchants : symétrie bipolaire du fuseau",
+   "Chevauchants : fixation au kinétochore",
+   "Astraux : fixation des chromosomes",
+   "Astraux : séparation des pôles et orientation du fuseau",
+   "Kinétochoriens : fixation des chromosomes au fuseau"
+  ],
+  "bonnes": [
+   0,
+   3,
+   4
+  ],
+  "explication": "Il y a trois classes de microtubules.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc06-q076",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "microtubules du fuseau",
+  "enonce": "Parmi ces affirmations sur les microtubules du fuseau, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il existe 3 classes.",
+   "Il existe 2 classes.",
+   "Toutes les extrémités + sont orientées vers le centrosome.",
+   "Toutes les extrémités − sont orientées vers le centrosome.",
+   "Les microtubules astraux irradient dans toutes les directions."
+  ],
+  "bonnes": [
+   0,
+   3,
+   4
+  ],
+  "explication": "Les extrémités − sont vers le centrosome.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 19
+  }
+ },
+ {
+  "id": "bc06-q077",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "métaphase : événements",
+  "enonce": "Parmi ces affirmations sur la métaphase, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ils forment la plaque équatoriale.",
+   "Les chromosomes se déplacent vers l’équateur de la cellule.",
+   "Ils sont regroupés aux pôles.",
+   "Ils sont alignés selon leur centromère.",
+   "Les chromatides sœurs sont déjà séparées."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3
+  ],
+  "explication": "Les chromatides se séparent en anaphase.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 21
+  }
+ },
+ {
+  "id": "bc06-q078",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "identification de la métaphase",
+  "enonce": "Une cellule présente des chromosomes alignés sur un plan équatorial par leur centromère. Quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "L’enveloppe nucléaire est reformée.",
+   "Elle est en métaphase.",
+   "Les chromosomes sont reliés aux pôles par des microtubules.",
+   "Les chromosomes ont encore deux chromatides.",
+   "Elle est en télophase."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "Les chromatides se séparent ensuite en anaphase.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 21
+  }
+ },
+ {
+  "id": "bc06-q079",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "anaphase : événements",
+  "enonce": "Parmi ces affirmations sur l’anaphase, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elles migrent vers les pôles opposés.",
+   "Les microtubules les tirent vers le pôle auquel elles sont rattachées.",
+   "Les chromosomes se condensent.",
+   "Les chromatides sœurs se séparent.",
+   "C’est une phase très rapide."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "La condensation a lieu en prophase.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 22
+  }
+ },
+ {
+  "id": "bc06-q080",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "identification de l’anaphase",
+  "enonce": "Une cellule en division montre deux lots de chromosomes migrant vers les pôles opposés. Quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle est en anaphase.",
+   "Chaque chromosome n’a plus qu’une chromatide.",
+   "L’enveloppe nucléaire se reforme.",
+   "Les microtubules du fuseau tirent les chromatides.",
+   "Elle est en prophase."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3
+  ],
+  "explication": "L’enveloppe nucléaire se reforme en télophase.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 22
+  }
+ },
+ {
+  "id": "bc06-q081",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "télophase : événements",
+  "enonce": "Parmi ces affirmations sur la télophase, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les chromosomes se condensent.",
+   "L’enveloppe nucléaire commence à se reformer.",
+   "Les nucléoles commencent à se reformer.",
+   "Les chromatides commencent à se décondenser.",
+   "Les microtubules disparaissent."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explication": "La télophase est l’inverse de la prophase.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc06-q082",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "prophase et télophase",
+  "enonce": "Quelles affirmations opposant prophase et télophase sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "En prophase, l’enveloppe nucléaire se reforme.",
+   "En prophase, les nucléoles disparaissent ; en télophase, ils se reforment.",
+   "En prophase, les chromosomes se condensent ; en télophase, ils se décondensent.",
+   "En télophase, le fuseau se forme.",
+   "La télophase est l’inverse de la prophase."
+  ],
+  "bonnes": [
+   1,
+   2,
+   4
+  ],
+  "explication": "La télophase suit l’anaphase.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 24
+  }
+ },
+ {
+  "id": "bc06-q083",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "enveloppe nucléaire pendant la mitose",
+  "enonce": "Parmi ces affirmations sur l’enveloppe nucléaire pendant la mitose, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Son absence permet la séparation des chromosomes en deux lots.",
+   "Elle se reforme en fin de télophase.",
+   "Elle disparaît au cours de la prophase.",
+   "Elle persiste pendant toute la mitose.",
+   "Elle disparaît en télophase."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "Les chromosomes sont répartis aux deux pôles.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 26
+  }
+ },
+ {
+  "id": "bc06-q084",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "chromatides : début et anaphase",
+  "enonce": "Parmi ces affirmations sur les chromosomes, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "En début de mitose, les chromosomes ont deux chromatides unies au niveau des centromères.",
+   "Les deux lots de chromosomes ont chacun une chromatide par chromosome.",
+   "Lors de l’anaphase, les deux chromatides de chaque chromosome se séparent.",
+   "Les chromosomes sont formés d’une seule chromatide en début de mitose."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "Les deux lots sont répartis aux deux pôles.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 26
+  }
+ },
+ {
+  "id": "bc06-q085",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "état des chromosomes au cours de la mitose",
+  "enonce": "Quelles associations moment – état du chromosome sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Début de mitose : 1 chromatide",
+   "Début de mitose : 2 chromatides",
+   "Après l’anaphase : 2 chromatides",
+   "Prophase : passage de chromatine à chromosome",
+   "Après l’anaphase : 1 chromatide"
+  ],
+  "bonnes": [
+   1,
+   3,
+   4
+  ],
+  "explication": "Le passage de chromatine à chromosome a lieu en prophase.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 26
+  }
+ },
+ {
+  "id": "bc06-q086",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "cytosquelette pendant la mitose",
+  "enonce": "Parmi ces affirmations sur le cytosquelette pendant la mitose, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les microtubules du fuseau permettent le déplacement orienté des chromosomes.",
+   "Chaque centrosome forme un réseau de microtubules en fuseau.",
+   "Le squelette cytoplasmique est formé essentiellement de microtubules dispersés.",
+   "Les deux centrosomes se disposent près du noyau puis l’un migre du côté opposé.",
+   "Le fuseau est formé de filaments d’actine."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explication": "Les microtubules s’organisent de manière particulière pendant la mitose.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 27
+  }
+ },
+ {
+  "id": "bc06-q087",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "drogue empêchant la formation du fuseau",
+  "enonce": "Une drogue empêche la formation du fuseau de division. Quelles conséquences sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La répartition des chromosomes entre les deux cellules filles est anarchique.",
+   "L’enveloppe nucléaire ne disparaît jamais.",
+   "Les chromosomes ne peuvent pas être déplacés de façon orientée.",
+   "La réplication de l’ADN (acide désoxyribonucléique) est bloquée en phase S.",
+   "La drogue décrite dans le cours est la colchicine."
+  ],
+  "bonnes": [
+   0,
+   2,
+   4
+  ],
+  "explication": "La colchicine est une drogue cellulaire.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 27
+  }
+ },
+ {
+  "id": "bc06-q088",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "ordre",
+  "fait": "ordre des phases du cycle",
+  "enonce": "Parmi ces enchaînements, lesquels sont exacts ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Prophase avant métaphase",
+   "Anaphase avant métaphase",
+   "G1 avant S",
+   "S avant G2",
+   "G2 avant la mitose"
+  ],
+  "bonnes": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explication": "L’interphase (G1, S, G2) précède la mitose.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc06-q089",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "identification G1",
+  "enonce": "Une cellule vient de terminer la mitose et reprend sa taille finale. Quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle est en phase S.",
+   "Elle est en phase G1.",
+   "Les cellules filles étaient plus petites que la cellule mère.",
+   "Elle est en phase M.",
+   "Elle fait partie de l’interphase."
+  ],
+  "bonnes": [
+   1,
+   2,
+   4
+  ],
+  "explication": "En G1, la cellule croît et vit normalement.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc06-q090",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "identification phase S",
+  "enonce": "Une cellule duplique son ADN (acide désoxyribonucléique). Quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle est en phase S.",
+   "Elle est en prophase.",
+   "Elle appartient à l’interphase.",
+   "Elle est en phase M."
+  ],
+  "bonnes": [
+   0,
+   2
+  ],
+  "explication": "Les centrioles sont aussi dupliqués en phase S.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc06-q091",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "centrosome : réseau et nucléation",
+  "enonce": "Quelles affirmations sur le centrosome (centre organisateur des microtubules) sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il contient le complexe en anneau de γ-tubuline.",
+   "Il organise un réseau de microfilaments d’actine.",
+   "Il organise un réseau radiaire de microtubules.",
+   "Les microtubules ont des extrémités + et −."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3
+  ],
+  "explication": "Ce complexe permet la nucléation.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 9
+  }
+ },
+ {
+  "id": "bc06-q092",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "centrosome et cellules filles",
+  "enonce": "Parmi ces affirmations sur la répartition du centrosome, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les deux centrosomes forment les pôles du fuseau.",
+   "Seule une cellule fille reçoit un centrosome.",
+   "Le centrosome détermine le plan de division cytoplasmique.",
+   "Chaque cellule fille reçoit son centrosome."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3
+  ],
+  "explication": "Le centrosome joue un rôle dans la formation des pôles.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc06-q093",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "centrosome en prophase",
+  "enonce": "Quelles affirmations sur le centrosome en prophase sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il contient 4 centrioles.",
+   "Il se divise en deux.",
+   "Il reste immobile.",
+   "Chacun des deux centrosomes migre vers un pôle.",
+   "Il contient 2 centrioles."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3
+  ],
+  "explication": "Le fuseau se forme à partir du cytosquelette de microtubules.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc06-q094",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "chromosomes reliés aux pôles",
+  "enonce": "Quelles affirmations sur le lien chromosomes–pôles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les chromosomes sont immobiles.",
+   "Chaque chromatide est reliée à un pôle par des microtubules.",
+   "Les chromosomes ont alors des mouvements agités.",
+   "Les deux chromatides sont reliées au même pôle.",
+   "Les microtubules exercent des tensions."
+  ],
+  "bonnes": [
+   1,
+   2,
+   4
+  ],
+  "explication": "C’est la fin de la prométaphase.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc06-q095",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "identification",
+  "fait": "éléments liés au fuseau",
+  "enonce": "Quels éléments sont liés au fuseau mitotique ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les lamines",
+   "Les kinétochores",
+   "Les centrosomes",
+   "Les asters",
+   "Les nucléoles"
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "Les trois classes de microtubules assurent le fonctionnement du fuseau.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc06-q096",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "cycle cellulaire : affirmations",
+  "enonce": "Quelles affirmations sur le cycle cellulaire sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "G1, S et G2 constituent l’interphase.",
+   "L’interphase fait partie de la mitose.",
+   "La mitose comporte 4 phases.",
+   "La phase M correspond à la mitose proprement dite."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3
+  ],
+  "explication": "La mitose est une étape importante dans la vie d’une cellule.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc06-q097",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "ordre",
+  "fait": "événements par phase (1)",
+  "enonce": "Quelles associations phase – événement (de la prophase à l’anaphase) sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Métaphase : alignement des chromosomes à l’équateur",
+   "Télophase : séparation des chromatides",
+   "Prophase : disparition des nucléoles",
+   "Anaphase : séparation des chromatides",
+   "Prométaphase : désagrégation de la membrane nucléaire"
+  ],
+  "bonnes": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explication": "Ces événements s’enchaînent dans l’ordre des phases.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 22
+  }
+ },
+ {
+  "id": "bc06-q098",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "ordre",
+  "fait": "événements par phase (2)",
+  "enonce": "Quelles associations phase – événement (télophase et prophase) sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Prophase : formation du fuseau mitotique",
+   "Prophase : reformation de l’enveloppe nucléaire",
+   "Télophase : disparition des microtubules",
+   "Télophase : reformation de l’enveloppe nucléaire"
+  ],
+  "bonnes": [
+   0,
+   2,
+   3
+  ],
+  "explication": "La télophase est l’inverse de la prophase.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc06-q099",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "cellules filles : affirmations",
+  "enonce": "Quelles affirmations sur les cellules filles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elles possèdent la moitié de l’information génétique.",
+   "Elles sont identiques entre elles.",
+   "Elles possèdent les mêmes informations génétiques que la cellule mère.",
+   "Elles sont différentes l’une de l’autre."
+  ],
+  "bonnes": [
+   1,
+   2
+  ],
+  "explication": "Elles sont plus petites que la cellule mère.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc06-q100",
+  "chapitre": "bc06",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "changements nucléaires pendant la division",
+  "enonce": "Quels changements concernent le noyau pendant la division cellulaire ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La duplication de l’ADN (acide désoxyribonucléique) en métaphase",
+   "Le passage de l’état de chromatine à l’état de chromosome",
+   "La disparition de l’enveloppe nucléaire en prophase",
+   "La reformation de l’enveloppe en fin de télophase"
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "La duplication de l’ADN a lieu en phase S.",
+  "source": {
+   "chapitre": "bc06",
+   "diapo": 26
+  }
+ }
+]

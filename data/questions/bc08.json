@@ -1,0 +1,2323 @@
+[
+ {
+  "id": "bc08-q001",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "apoptose : mort cellulaire programmée",
+  "enonce": "L’apoptose est :",
+  "propositions": [
+   "une mort cellulaire programmée",
+   "un transport membranaire",
+   "une mort cellulaire accidentelle",
+   "une division cellulaire"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "C’est un mécanisme régulateur essentiel.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc08-q002",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "apoptose : régulateur et homéostasie",
+  "enonce": "Pourquoi dit-on que l’apoptose est un mécanisme régulateur essentiel ?",
+  "propositions": [
+   "Elle réplique l’ADN (acide désoxyribonucléique)",
+   "Elle intervient dans l’homéostasie tissulaire",
+   "Elle fabrique les lipides",
+   "Elle produit de l’énergie"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "L’apoptose est une mort cellulaire programmée.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc08-q003",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "caractéristiques de l’apoptose",
+  "enonce": "Quelles caractéristiques l’apoptose présente-t-elle ?",
+  "propositions": [
+   "Une réorganisation nucléaire, des altérations de la membrane plasmique et une fragmentation en corps apoptotiques",
+   "Une fusion avec une cellule voisine",
+   "Un gonflement et un éclatement de la cellule",
+   "Une division en deux cellules filles"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "La cellule se fragmente en corps apoptotiques.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc08-q004",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "aboutissement : corps apoptotiques",
+  "enonce": "Quel est l’aboutissement de l’apoptose ?",
+  "propositions": [
+   "L’éclatement de la membrane plasmique",
+   "L’ultime fragmentation de la cellule en corps apoptotiques",
+   "La production de gamètes",
+   "La formation de deux cellules filles"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les corps apoptotiques sont ensuite phagocytés.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc08-q005",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "production en excès et remodelage",
+  "enonce": "Quel est l’effet de la production en excès de cellules au cours du développement ?",
+  "propositions": [
+   "Elle conduit à une division cellulaire accrue",
+   "Elle n’a pas de conséquence",
+   "Elle conduit à l’élimination des mitochondries",
+   "Elle conduit au remodelage des organes et des tissus par apoptose"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Le développement s’accompagne d’une production de cellules en excès.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc08-q006",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "C. elegans : 131 sur 1 090",
+  "enonce": "Combien de cellules somatiques meurent chez Caenorhabditis elegans au cours du développement ?",
+  "propositions": [
+   "10 sur 100",
+   "500 sur 1 090",
+   "131 sur 1 090",
+   "1 sur 1 000"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "C’est un modèle expérimental.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc08-q007",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "C. elegans : modèle expérimental",
+  "enonce": "Pourquoi Caenorhabditis elegans est-il cité dans le cours ?",
+  "propositions": [
+   "C’est un modèle expérimental pour l’étude de l’apoptose",
+   "C’est un champignon",
+   "C’est un virus",
+   "C’est un organisme procaryote"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Une partie de ses cellules meurt au cours du développement.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc08-q008",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "doigts : tissu interdigital",
+  "enonce": "Comment les doigts se séparent-ils au cours du développement des membres ?",
+  "propositions": [
+   "Par division des cellules interdigitales",
+   "Par nécrose du tissu osseux",
+   "Par fusion des cellules",
+   "Par destruction du tissu mésenchymateux interdigital"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "C’est un exemple d’apoptose.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc08-q009",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "queue du têtard",
+  "enonce": "Quelle disparition lors de la métamorphose de la grenouille est un exemple d’ablation tissulaire par apoptose ?",
+  "propositions": [
+   "Les yeux",
+   "Les pattes",
+   "Les poumons",
+   "La queue du têtard"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Autre exemple : la différenciation des organes reproducteurs.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc08-q010",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "canaux de Wolff ou de Müller",
+  "enonce": "Quels canaux sont éliminés lors de la différenciation des organes reproducteurs ?",
+  "propositions": [
+   "Les canaux lactifères",
+   "Les canaux de Wolff ou de Müller",
+   "Les canaux déférents seulement",
+   "Les canaux biliaires"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Cette élimination se fait par apoptose.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc08-q011",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "homéostasie : nombre constant",
+  "enonce": "Que signifie homéostasie cellulaire chez l’adulte ?",
+  "propositions": [
+   "Le nombre de cellules double sans cesse",
+   "Aucune cellule ne meurt",
+   "Le nombre de cellules reste constant",
+   "Les cellules sont immortelles"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les cellules produites sont compensées par les cellules éliminées.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc08-q012",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "100 000 cellules par seconde",
+  "enonce": "Combien de cellules sont produites par seconde par mitose chez l’Homme, selon le cours ?",
+  "propositions": [
+   "10",
+   "100 000, nombre compensé par les cellules éliminées par apoptose",
+   "10 millions",
+   "1 000"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "C’est l’illustration de l’homéostasie cellulaire.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc08-q013",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "thymus : cellules T auto-réactives",
+  "enonce": "Que fait l’apoptose dans le thymus ?",
+  "propositions": [
+   "Elle élimine les cellules T auto-réactives, ce qui permet la tolérance du soi",
+   "Elle produit les lymphocytes B",
+   "Elle détruit les neurones",
+   "Elle élimine les hématies"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Le répertoire T se constitue par sélection clonale.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc08-q014",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "apoptose et lymphocytes B",
+  "enonce": "Quelle sélection l’apoptose assure-t-elle aussi pour la réponse immunitaire ?",
+  "propositions": [
+   "La sélection des hématies",
+   "La sélection des spermatozoïdes",
+   "La sélection des lymphocytes B",
+   "La sélection des plaquettes"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les lymphocytes B sont responsables de la réponse immunitaire.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc08-q015",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "répertoire T : thymus",
+  "enonce": "Dans quel organe se constitue le répertoire T par sélection clonale ?",
+  "propositions": [
+   "Le foie",
+   "Le thymus",
+   "La rate",
+   "Le cœur"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "L’apoptose y est responsable de la délétion des cellules T auto-réactives.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc08-q016",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "dommages sévères de l’ADN",
+  "enonce": "Quelle situation entraîne la destruction d’une cellule par apoptose ?",
+  "propositions": [
+   "Une division normale",
+   "Des dommages sévères de l’ADN (acide désoxyribonucléique)",
+   "Une synthèse normale de protéines",
+   "Un cycle cellulaire bien régulé"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les cellules infectées et auto-immunes sont aussi détruites.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc08-q017",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "cellules infectées détruites",
+  "enonce": "Quelles cellules sont détruites par apoptose parmi celles du cours ?",
+  "propositions": [
+   "Les cellules infectées",
+   "Les cellules saines",
+   "Les cellules en G1 uniquement",
+   "Les cellules en mitose uniquement"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Les cellules à caractère auto-immun sont aussi concernées.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc08-q018",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "signal mitogène inapproprié",
+  "enonce": "Que provoque un signal mitogène inapproprié ?",
+  "propositions": [
+   "Sa fusion",
+   "Sa méiose",
+   "Sa division normale",
+   "L’apoptose de la cellule"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Il concerne le cycle cellulaire.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc08-q019",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "défaut d’apoptose : cancer",
+  "enonce": "Quelle pathologie est associée à un défaut d’apoptose ?",
+  "propositions": [
+   "L’ischémie",
+   "Le SIDA (syndrome d’immunodéficience acquise)",
+   "Le cancer",
+   "La maladie neurodégénérative"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Autres exemples : maladie auto-immune, propagation d’infections virales.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 6
+  }
+ },
+ {
+  "id": "bc08-q020",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "excès d’apoptose : neurodégénérative",
+  "enonce": "Quelle pathologie est associée à un excès d’apoptose ?",
+  "propositions": [
+   "La maladie neurodégénérative",
+   "Le cancer",
+   "La propagation des infections virales",
+   "La maladie auto-immune"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Autres exemples : SIDA (syndrome d’immunodéficience acquise), ischémie.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 6
+  }
+ },
+ {
+  "id": "bc08-q021",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "ischémie : excès d’apoptose",
+  "enonce": "Quel processus pathologique est associé à l’ischémie dans le cours ?",
+  "propositions": [
+   "Un excès d’apoptose",
+   "Une synthèse d’anticorps",
+   "Une division cellulaire accrue",
+   "Un défaut d’apoptose"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Le dysfonctionnement du programme apoptotique entraîne diverses pathologies.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 6
+  }
+ },
+ {
+  "id": "bc08-q022",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "apoptose : processus actif",
+  "enonce": "L’apoptose est un processus :",
+  "propositions": [
+   "actif",
+   "passif",
+   "toujours inflammatoire",
+   "accidentel"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "La cellule joue un rôle actif.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 8
+  }
+ },
+ {
+  "id": "bc08-q023",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "apoptose : cellules isolées",
+  "enonce": "Sur quelles cellules l’apoptose intervient-elle ?",
+  "propositions": [
+   "Sur des cellules isolées",
+   "Sur des tissus entiers uniquement",
+   "Sur des groupes de cellules voisines",
+   "Sur des organes entiers"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "La nécrose touche des groupes de cellules voisines.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 8
+  }
+ },
+ {
+  "id": "bc08-q024",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "chromatine condensée puis ADN fragmenté",
+  "enonce": "Que devient la chromatine lors de l’apoptose ?",
+  "propositions": [
+   "Elle se décondense",
+   "Elle reste inchangée",
+   "Elle se condense, puis l’ADN (acide désoxyribonucléique) est fragmenté",
+   "Elle fusionne avec la membrane"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Le noyau est aussi fragmenté.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 8
+  }
+ },
+ {
+  "id": "bc08-q025",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "organites intacts",
+  "enonce": "Que deviennent les organites lors de l’apoptose ?",
+  "propositions": [
+   "Ils sont digérés par le noyau",
+   "Leur intégrité est maintenue : ils ne sont pas expulsés dans le milieu extracellulaire",
+   "Ils éclatent",
+   "Ils sont expulsés"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Cela évite toute inflammation.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 8
+  }
+ },
+ {
+  "id": "bc08-q026",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "membrane plasmique intègre",
+  "enonce": "Que devient la membrane plasmique lors de l’apoptose ?",
+  "propositions": [
+   "Elle fusionne avec le noyau",
+   "Son intégrité est maintenue, ce qui protège les cellules alentour",
+   "Elle disparaît",
+   "Elle se rompt"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les corps apoptotiques sont phagocytés.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 8
+  }
+ },
+ {
+  "id": "bc08-q027",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "bourgeonnements : corps apoptotiques",
+  "enonce": "Que forme la cellule apoptotique par bourgeonnement ?",
+  "propositions": [
+   "Des noyaux",
+   "Des gamètes",
+   "Des mitochondries",
+   "Des corps apoptotiques"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Ils sont ensuite phagocytés.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 8
+  }
+ },
+ {
+  "id": "bc08-q028",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "corps apoptotiques phagocytés",
+  "enonce": "Que deviennent les corps apoptotiques ?",
+  "propositions": [
+   "Ils sont gardés dans la cellule",
+   "Ils sont dégradés par le noyau",
+   "Ils sont phagocytés",
+   "Ils sont rejetés dans le sang"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Il n’y a pas de processus inflammatoire.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 8
+  }
+ },
+ {
+  "id": "bc08-q029",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "pas d’inflammation",
+  "enonce": "L’apoptose provoque-t-elle une inflammation ?",
+  "propositions": [
+   "Non, il n’y a pas de processus inflammatoire",
+   "Oui, toujours",
+   "Oui, parfois",
+   "Seulement chez la grenouille"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "La nécrose provoque une réaction inflammatoire.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 8
+  }
+ },
+ {
+  "id": "bc08-q030",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "contraction cellulaire",
+  "enonce": "Quelle modification de la cellule apparaît au début de l’apoptose ?",
+  "propositions": [
+   "Une contraction cellulaire",
+   "Un gonflement cellulaire",
+   "Une fusion",
+   "Une division"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Elle est suivie de la condensation de la chromatine.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 8
+  }
+ },
+ {
+  "id": "bc08-q031",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "ordre",
+  "fait": "modélisation : signal, contrôle, exécution",
+  "enonce": "Quelles sont les trois étapes de la modélisation de l’apoptose ?",
+  "propositions": [
+   "G1, S et G2",
+   "Le signal apoptotique, le contrôle et l’exécution",
+   "L’initiation, l’élongation et la terminaison",
+   "La transcription, la traduction et la division"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Ce sont les étapes du modèle présenté dans le cours.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 9
+  }
+ },
+ {
+  "id": "bc08-q032",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "ordre",
+  "fait": "première étape : signal apoptotique",
+  "enonce": "Quelle est la première étape de la modélisation de l’apoptose ?",
+  "propositions": [
+   "La phagocytose",
+   "Le contrôle",
+   "Le signal apoptotique",
+   "L’exécution"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Viennent ensuite le contrôle puis l’exécution.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 9
+  }
+ },
+ {
+  "id": "bc08-q033",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "induction : cellules produites en excès",
+  "enonce": "Quelle élimination l’induction de l’apoptose cible-t-elle dans le cours ?",
+  "propositions": [
+   "La fusion de cellules",
+   "La production de cellules",
+   "L’élimination de cellules produites en excès, comme des lymphocytes et des neurones",
+   "L’élimination de cellules en division normale"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Des stimulus ou des signaux déclenchent l’induction.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc08-q034",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "stimulus toxique : virus, produit chimique, radiation",
+  "enonce": "Quels exemples de stimulus toxique le cours cite-t-il ?",
+  "propositions": [
+   "Les protéines alimentaires",
+   "L’eau",
+   "La lumière visible",
+   "Un virus, un produit chimique ou une radiation ionisante"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Ils peuvent induire l’apoptose.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc08-q035",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "signal extracellulaire : TNFα",
+  "enonce": "Quel signal extracellulaire de mort cellulaire est cité ?",
+  "propositions": [
+   "Le cytochrome C",
+   "Le TNFα (facteur de nécrose tumorale alpha)",
+   "Bax (protéine X associée à Bcl-2)",
+   "Bcl-2 (B-cell lymphoma 2)"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Il fait partie des signaux de mort cellulaire.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc08-q036",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "défaut de signalisation du cycle",
+  "enonce": "Quelle autre cause peut déclencher l’induction de l’apoptose ?",
+  "propositions": [
+   "Un excès de nutriments",
+   "Un défaut de signalisation du cycle cellulaire",
+   "Un excès de lipides",
+   "Une division trop rapide"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Un ADN (acide désoxyribonucléique) endommagé peut aussi l’induire.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc08-q037",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "phase latente : heures à jours",
+  "enonce": "Combien de temps dure la phase latente du contrôle de l’apoptose ?",
+  "propositions": [
+   "De quelques heures à quelques jours",
+   "Quelques secondes",
+   "Un an",
+   "Quelques minutes"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Son début est réversible.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 11
+  }
+ },
+ {
+  "id": "bc08-q038",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "phase latente réversible",
+  "enonce": "Comment est le processus au début de la phase latente ?",
+  "propositions": [
+   "Ignoré",
+   "Irréversible",
+   "Terminé",
+   "Réversible, grâce à un facteur de survie"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "La phase latente est la phase de contrôle.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 11
+  }
+ },
+ {
+  "id": "bc08-q039",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "Bcl-2 anti-apoptotique",
+  "enonce": "Quelle protéine est anti-apoptotique ?",
+  "propositions": [
+   "Bax (protéine X associée à Bcl-2)",
+   "Le cytochrome C",
+   "Bcl-2 (B-cell lymphoma 2)",
+   "La caspase 8"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Elle s’oppose à la mort cellulaire.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 11
+  }
+ },
+ {
+  "id": "bc08-q040",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "Bax pro-apoptotique",
+  "enonce": "Quelle protéine est pro-apoptotique ?",
+  "propositions": [
+   "Un facteur de survie",
+   "La phase latente",
+   "Bax (protéine X associée à Bcl-2)",
+   "Bcl-2 (B-cell lymphoma 2)"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Bcl-2 est anti-apoptotique.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 11
+  }
+ },
+ {
+  "id": "bc08-q041",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "caspases : exécution",
+  "enonce": "Que sont les caspases dans le cours ?",
+  "propositions": [
+   "Des acteurs de l’exécution de l’apoptose",
+   "Des acides ribonucléiques",
+   "Des pores",
+   "Des lipides"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Elles interviennent dans l’exécution.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 11
+  }
+ },
+ {
+  "id": "bc08-q042",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "mitochondries : facteurs pro-apoptotiques",
+  "enonce": "Que contiennent les mitochondries vis-à-vis de l’apoptose ?",
+  "propositions": [
+   "Uniquement des facteurs anti-apoptotiques",
+   "Du cholestérol seulement",
+   "De nombreux facteurs pro-apoptotiques",
+   "Aucun facteur"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Elles participent à l’exécution.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 11
+  }
+ },
+ {
+  "id": "bc08-q043",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "apoptose conservée au cours de l’évolution",
+  "enonce": "L’apoptose est un processus :",
+  "propositions": [
+   "apparu récemment",
+   "propre à l’Homme",
+   "propre aux bactéries",
+   "conservé au cours de l’évolution"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "On l’observe de Caenorhabditis elegans à l’Homme.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 12
+  }
+ },
+ {
+  "id": "bc08-q044",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "deux mécanismes d’induction",
+  "enonce": "Combien de mécanismes différents peuvent induire l’apoptose ?",
+  "propositions": [
+   "2 : des signaux intracellulaires ou extracellulaires",
+   "3",
+   "1",
+   "4"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Ce sont les voies intracellulaire et extracellulaire.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 13
+  }
+ },
+ {
+  "id": "bc08-q045",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "procaspase 8 : voie extracellulaire",
+  "enonce": "Quelle procaspase est recrutée dans la voie extracellulaire ?",
+  "propositions": [
+   "La procaspase 3",
+   "La caspase effectrice",
+   "La procaspase 9",
+   "La procaspase 8"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "La voie intracellulaire fait intervenir la procaspase 9.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc08-q046",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "DISC recrute la procaspase 8",
+  "enonce": "Par quoi la procaspase 8 est-elle recrutée dans la voie extracellulaire ?",
+  "propositions": [
+   "Par le cytochrome C",
+   "Par le DISC (Death Inducing Signaling Complex), via ses domaines DED (Death Effector Domain)",
+   "Par Bcl-2 (B-cell lymphoma 2)",
+   "Par l’apoptosome"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "La procaspase 8 s’agrège ensuite.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc08-q047",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "DISC initié par TNFα",
+  "enonce": "Le DISC (complexe de signalisation induisant la mort) est initié par :",
+  "propositions": [
+   "l’apoptosome",
+   "la nécrose",
+   "la fixation de ligands de la famille du TNFα (facteur de nécrose tumorale alpha)",
+   "le cytochrome C"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Cela provoque la trimérisation du récepteur.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc08-q048",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "trimérisation du récepteur",
+  "enonce": "Que provoque la fixation des ligands de la famille du TNFα (facteur de nécrose tumorale alpha) ?",
+  "propositions": [
+   "La dimérisation de Bax (protéine X associée à Bcl-2)",
+   "L’agrégation de Bcl-2 (B-cell lymphoma 2)",
+   "La trimérisation du récepteur",
+   "Le relargage du cytochrome C"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "FADD (Fas Associated Death Domain) s’associe ensuite au complexe.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc08-q049",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "FADD s’associe à la procaspase 8",
+  "enonce": "Quelle protéine s’associe à la procaspase 8 via les domaines DED (Death Effector Domain) ?",
+  "propositions": [
+   "FADD (Fas Associated Death Domain)",
+   "Bcl-2 (B-cell lymphoma 2)",
+   "Le cytochrome C",
+   "Bax (protéine X associée à Bcl-2)"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Cette association provoque l’agrégation de la procaspase 8.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc08-q050",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "agrégation de la procaspase 8",
+  "enonce": "Quelle conséquence a l’association de la procaspase 8 et de FADD (Fas Associated Death Domain) ?",
+  "propositions": [
+   "L’agrégation de la procaspase 8",
+   "La libération du cytochrome C",
+   "La phagocytose",
+   "La dégradation de la procaspase 8"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Les procaspases 8 se rapprochent.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc08-q051",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "activation mutuelle par autoprotéolyse",
+  "enonce": "Comment les procaspases 8 agrégées s’activent-elles ?",
+  "propositions": [
+   "Par fixation de Bcl-2 (B-cell lymphoma 2)",
+   "Par phosphorylation de Bax (protéine X associée à Bcl-2)",
+   "Par glycosylation",
+   "Par activation mutuelle (autoprotéolyse)"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Cela produit la caspase 8 active.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 16
+  }
+ },
+ {
+  "id": "bc08-q052",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "caspase 8 active les caspases effectrices",
+  "enonce": "Que fait la caspase 8 active ?",
+  "propositions": [
+   "Elle active Bcl-2 (B-cell lymphoma 2)",
+   "Elle répare l’ADN (acide désoxyribonucléique)",
+   "Elle clive et active des caspases effectrices",
+   "Elle fabrique le cytochrome C"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "C’est la suite de la voie extracellulaire.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 16
+  }
+ },
+ {
+  "id": "bc08-q053",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "voie intracellulaire = voie mitochondriale",
+  "enonce": "Comment appelle-t-on la voie intracellulaire de l’apoptose ?",
+  "propositions": [
+   "La voie mitochondriale",
+   "La voie du DISC (complexe de signalisation induisant la mort)",
+   "La voie lysosomale",
+   "La voie membranaire"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Elle fait intervenir la procaspase 9.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc08-q054",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "procaspase 9 : voie mitochondriale",
+  "enonce": "Quelle procaspase est activée dans la voie mitochondriale ?",
+  "propositions": [
+   "La procaspase 9",
+   "La procaspase 8",
+   "La caspase 8",
+   "La procaspase 3"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Elle est activée par des signaux pro-apoptotiques mitochondriaux.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc08-q055",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "cytochrome C relargué",
+  "enonce": "Quelle protéine mitochondriale est relarguée dans la voie intracellulaire ?",
+  "propositions": [
+   "Le cytochrome C",
+   "La lamine",
+   "L’actine",
+   "Bcl-2 (B-cell lymphoma 2)"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Il permet la formation de l’apoptosome.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc08-q056",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "apoptosome",
+  "enonce": "Qu’est-ce que l’apoptosome ?",
+  "propositions": [
+   "Un complexe protéique cytoplasmique formé sous l’influence du cytochrome C",
+   "Une vacuole",
+   "Un organite entouré d’une membrane",
+   "Un lysosome"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Il active la procaspase 9.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc08-q057",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "nécrose : mort passive",
+  "enonce": "La nécrose est :",
+  "propositions": [
+   "une division",
+   "une mort cellulaire passive",
+   "une mort programmée",
+   "un mécanisme actif"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Par opposition à l’apoptose, processus actif.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc08-q058",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "nécrose : causes",
+  "enonce": "Quelle situation déclenche la nécrose ?",
+  "propositions": [
+   "Un signal de survie",
+   "Le développement",
+   "Le vieillissement uniquement",
+   "Un traumatisme, une infection, un poison ou une ischémie (embolie)"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "L’apoptose est déclenchée par des infections, des maladies, le vieillissement, au cours du développement.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc08-q059",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "nécrose : groupes de cellules",
+  "enonce": "La nécrose concerne :",
+  "propositions": [
+   "des cellules isolées",
+   "le noyau seulement",
+   "des groupes de cellules voisines",
+   "une seule cellule"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "L’apoptose intervient dans des cellules isolées.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc08-q060",
+  "chapitre": "bc08",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "nécrose : inflammation et rupture des membranes",
+  "enonce": "Quelle conséquence la nécrose a-t-elle sur l’environnement ?",
+  "propositions": [
+   "Aucune réaction",
+   "Une phagocytose silencieuse",
+   "Une division",
+   "Une réaction inflammatoire, à cause de la rupture des membranes"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Il n’y a pas de réaction inflammatoire dans l’apoptose.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc08-q061",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "apoptose : généralités",
+  "enonce": "Parmi ces affirmations sur l’apoptose, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle se termine par une fragmentation en corps apoptotiques.",
+   "Elle intervient dans l’homéostasie tissulaire.",
+   "C’est une mort cellulaire programmée.",
+   "C’est un mécanisme régulateur essentiel.",
+   "C’est une mort accidentelle."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explication": "Elle se caractérise par une réorganisation nucléaire et des altérations de la membrane plasmique.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc08-q062",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "caractéristiques de l’apoptose",
+  "enonce": "Quelles caractéristiques sont celles de l’apoptose ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Réorganisation nucléaire",
+   "Rupture de la membrane plasmique",
+   "Réaction inflammatoire",
+   "Ultime fragmentation en corps apoptotiques",
+   "Altérations de la membrane plasmique"
+  ],
+  "bonnes": [
+   0,
+   3,
+   4
+  ],
+  "explication": "La rupture de la membrane et l’inflammation caractérisent la nécrose.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc08-q063",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "apoptose au cours du développement",
+  "enonce": "Parmi ces affirmations sur le développement, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les cellules sont produites en excès.",
+   "L’apoptose remodèle les organes et les tissus.",
+   "Aucune cellule ne meurt au cours du développement.",
+   "131 cellules sur 1 090 meurent chez Caenorhabditis elegans."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3
+  ],
+  "explication": "C’est un modèle expérimental.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc08-q064",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "identification",
+  "fait": "exemples d’apoptose au développement",
+  "enonce": "Quels exemples d’apoptose au cours du développement sont cités ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La séparation des doigts",
+   "La formation des gamètes",
+   "La digestion de la paroi de l’ovule",
+   "La disparition de la queue du têtard",
+   "L’élimination des canaux de Wolff ou de Müller"
+  ],
+  "bonnes": [
+   0,
+   3,
+   4
+  ],
+  "explication": "La queue disparaît lors de la métamorphose de la grenouille.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc08-q065",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "séparation des doigts",
+  "enonce": "À propos de la séparation des doigts, quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle est due à une nécrose.",
+   "Elle a lieu au cours de la formation des membres.",
+   "Elle résulte de la destruction du tissu mésenchymateux interdigital.",
+   "C’est un exemple d’apoptose.",
+   "Elle résulte d’une division cellulaire accrue."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "C’est un exemple de remodelage tissulaire.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc08-q066",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "homéostasie cellulaire chez l’adulte",
+  "enonce": "Parmi ces affirmations sur l’homéostasie cellulaire, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Un nombre équivalent est éliminé par apoptose.",
+   "La mitose ne produit aucune cellule.",
+   "Le nombre de cellules est constant chez l’adulte.",
+   "100 000 cellules sont produites par seconde par mitose."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3
+  ],
+  "explication": "L’apoptose compense la mitose.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc08-q067",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "thymus et sélection",
+  "enonce": "Parmi ces affirmations sur le thymus, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Cela permet la tolérance du soi.",
+   "L’apoptose participe à la sélection des lymphocytes B.",
+   "Elle élimine toutes les cellules T.",
+   "L’apoptose délète les cellules T auto-réactives.",
+   "Le répertoire T s’y constitue."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "La sélection est clonale.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc08-q068",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "cas de destruction par apoptose",
+  "enonce": "Dans quels cas l’apoptose détruit-elle des cellules ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Cellules infectées",
+   "Signal mitogène inapproprié",
+   "Dommages sévères de l’ADN (acide désoxyribonucléique)",
+   "Division normale",
+   "Caractère auto-immun"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "Ces cas sont cités dans le cours.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc08-q069",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "pathologies : défaut et excès",
+  "enonce": "Quelles associations anomalie – pathologie sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Excès d’apoptose : cancer",
+   "Défaut d’apoptose : cancer",
+   "Défaut d’apoptose : maladie auto-immune",
+   "Excès d’apoptose : ischémie",
+   "Excès d’apoptose : maladie neurodégénérative"
+  ],
+  "bonnes": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explication": "Le dysfonctionnement du programme apoptotique est à l’origine de pathologies diverses.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 6
+  }
+ },
+ {
+  "id": "bc08-q070",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "défaut d’apoptose",
+  "enonce": "Quelles pathologies sont associées à un défaut d’apoptose ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La propagation des infections virales",
+   "Les maladies neurodégénératives",
+   "Le cancer",
+   "Les maladies auto-immunes",
+   "L’ischémie"
+  ],
+  "bonnes": [
+   0,
+   2,
+   3
+  ],
+  "explication": "Les maladies neurodégénératives relèvent d’un excès d’apoptose.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 6
+  }
+ },
+ {
+  "id": "bc08-q071",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "excès d’apoptose",
+  "enonce": "Quelles pathologies sont associées à un excès d’apoptose ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Le SIDA (syndrome d’immunodéficience acquise)",
+   "Les maladies auto-immunes",
+   "Le cancer",
+   "Les maladies neurodégénératives",
+   "L’ischémie"
+  ],
+  "bonnes": [
+   0,
+   3,
+   4
+  ],
+  "explication": "Le cancer relève d’un défaut d’apoptose.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 6
+  }
+ },
+ {
+  "id": "bc08-q072",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "déroulement de l’apoptose",
+  "enonce": "Parmi ces affirmations sur le déroulement de l’apoptose, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les organites gardent leur intégrité.",
+   "La membrane plasmique garde son intégrité.",
+   "Il n’y a pas de processus inflammatoire.",
+   "Elle touche des cellules isolées.",
+   "La membrane plasmique se rompt."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explication": "La rupture de la membrane caractérise la nécrose.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 8
+  }
+ },
+ {
+  "id": "bc08-q073",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "ordre",
+  "fait": "événements de l’apoptose",
+  "enonce": "Quels événements se produisent lors de l’apoptose ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Fragmentation de l’ADN (acide désoxyribonucléique)",
+   "Formation de corps apoptotiques",
+   "Contraction cellulaire",
+   "Éclatement de la membrane plasmique",
+   "Condensation de la chromatine"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "Les corps apoptotiques sont ensuite phagocytés.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 8
+  }
+ },
+ {
+  "id": "bc08-q074",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "corps apoptotiques",
+  "enonce": "Quelles affirmations sur les corps apoptotiques sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ils provoquent une inflammation.",
+   "Leur élimination ne provoque pas d’inflammation.",
+   "Ils sont expulsés dans le milieu sans phagocytose.",
+   "Ils se forment par bourgeonnements cellulaires.",
+   "Ils sont phagocytés."
+  ],
+  "bonnes": [
+   1,
+   3,
+   4
+  ],
+  "explication": "La membrane plasmique reste intègre.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 8
+  }
+ },
+ {
+  "id": "bc08-q075",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "ordre",
+  "fait": "trois étapes de la modélisation",
+  "enonce": "Quelles affirmations sur la modélisation de l’apoptose sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La première étape est le signal apoptotique.",
+   "La troisième est l’exécution.",
+   "La première étape est l’exécution.",
+   "Elle comprend trois étapes.",
+   "La deuxième est le contrôle."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "Le contrôle comprend une phase latente.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 9
+  }
+ },
+ {
+  "id": "bc08-q076",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "induction de l’apoptose",
+  "enonce": "Parmi ces affirmations sur l’induction de l’apoptose, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Un ADN (acide désoxyribonucléique) endommagé peut l’induire.",
+   "Elle élimine des cellules produites en excès (lymphocytes, neurones).",
+   "Un stimulus toxique peut l’induire.",
+   "Un excès de nutriments l’induit.",
+   "Des signaux extracellulaires comme le TNFα (facteur de nécrose tumorale alpha) peuvent l’induire."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "Un défaut de signalisation du cycle cellulaire peut aussi l’induire.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc08-q077",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "stimulus toxiques",
+  "enonce": "Quels stimulus toxiques sont cités ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Une radiation ionisante",
+   "Un produit chimique",
+   "Un excès d’eau",
+   "Un virus",
+   "La lumière visible"
+  ],
+  "bonnes": [
+   0,
+   1,
+   3
+  ],
+  "explication": "Ils font partie des inducteurs de l’apoptose.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc08-q078",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "contrôle de l’apoptose : phase latente",
+  "enonce": "Parmi ces affirmations sur la phase latente, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Son début est réversible.",
+   "Elle dure quelques secondes.",
+   "Un facteur de survie peut interrompre le processus.",
+   "Elle est toujours irréversible.",
+   "Elle dure de quelques heures à quelques jours."
+  ],
+  "bonnes": [
+   0,
+   2,
+   4
+  ],
+  "explication": "C’est la phase de contrôle de l’apoptose.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 11
+  }
+ },
+ {
+  "id": "bc08-q079",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "Bcl-2, Bax et caspases",
+  "enonce": "Quelles associations protéine – rôle sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Bax (protéine X associée à Bcl-2) : anti-apoptotique",
+   "Caspases : exécution de l’apoptose",
+   "Bax (protéine X associée à Bcl-2) : pro-apoptotique",
+   "Bcl-2 (B-cell lymphoma 2) : anti-apoptotique",
+   "Bcl-2 (B-cell lymphoma 2) : pro-apoptotique"
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "Les mitochondries contiennent des facteurs pro-apoptotiques.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 11
+  }
+ },
+ {
+  "id": "bc08-q080",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "exécution de l’apoptose",
+  "enonce": "Parmi ces affirmations sur l’exécution de l’apoptose, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les caspases participent à l’exécution.",
+   "Les mitochondries contiennent de nombreux facteurs pro-apoptotiques.",
+   "Les caspases sont des lipides.",
+   "Les mitochondries ne contiennent aucun facteur pro-apoptotique."
+  ],
+  "bonnes": [
+   0,
+   1
+  ],
+  "explication": "Les caspases sont des protéases.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 11
+  }
+ },
+ {
+  "id": "bc08-q081",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "mécanismes d’induction",
+  "enonce": "Parmi ces affirmations sur l’induction de l’apoptose, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "L’apoptose est un processus conservé au cours de l’évolution.",
+   "Elle n’existe que chez l’Homme.",
+   "Deux mécanismes différents peuvent l’induire.",
+   "Il n’existe qu’un seul mécanisme.",
+   "Les signaux peuvent être intracellulaires ou extracellulaires."
+  ],
+  "bonnes": [
+   0,
+   2,
+   4
+  ],
+  "explication": "Les deux voies : extracellulaire et intracellulaire.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 13
+  }
+ },
+ {
+  "id": "bc08-q082",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "voie extracellulaire : DISC",
+  "enonce": "Parmi ces affirmations sur la voie extracellulaire, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Le récepteur se trimérise.",
+   "La procaspase 8 est recrutée via ses domaines DED (Death Effector Domain).",
+   "Le DISC (complexe de signalisation induisant la mort) est initié par la fixation de ligands de la famille du TNFα (facteur de nécrose tumorale alpha).",
+   "FADD (Fas Associated Death Domain) s’associe à la procaspase 8.",
+   "Le cytochrome C initie le DISC (complexe de signalisation induisant la mort)."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explication": "Le DISC initie la voie extracellulaire.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc08-q083",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "ordre",
+  "fait": "étapes de la voie extracellulaire",
+  "enonce": "Quelles étapes de la voie extracellulaire sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Agrégation de la procaspase 8",
+   "Trimérisation du récepteur",
+   "Association de FADD (Fas Associated Death Domain) et de la procaspase 8",
+   "Fixation des ligands de la famille du TNFα (facteur de nécrose tumorale alpha)",
+   "Relargage du cytochrome C"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explication": "Le cytochrome C intervient dans la voie intracellulaire.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc08-q084",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "voie extracellulaire : caspases",
+  "enonce": "Parmi ces affirmations sur la fin de la voie extracellulaire, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elles sont activées par le cytochrome C.",
+   "Elles s’activent mutuellement par autoprotéolyse.",
+   "Plusieurs procaspases 8 sont proches.",
+   "La caspase 8 est active.",
+   "Elle clive et active des caspases effectrices."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explication": "Le cytochrome C intervient dans l’autre voie.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 16
+  }
+ },
+ {
+  "id": "bc08-q085",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "voie intracellulaire",
+  "enonce": "Parmi ces affirmations sur la voie intracellulaire, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "On l’appelle voie mitochondriale.",
+   "La procaspase 9 est activée par des signaux pro-apoptotiques mitochondriaux.",
+   "La procaspase 8 est activée par l’apoptosome.",
+   "Le cytochrome C est relargué par la mitochondrie.",
+   "L’apoptosome se forme sous l’influence du cytochrome C."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "L’apoptosome est un complexe protéique cytoplasmique.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc08-q086",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "les deux voies de l’apoptose",
+  "enonce": "Quelles associations voie – élément sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Voie intracellulaire : procaspase 9",
+   "Voie extracellulaire : cytochrome C",
+   "Voie intracellulaire : apoptosome",
+   "Voie extracellulaire : procaspase 8",
+   "Voie extracellulaire : récepteurs des ligands de la famille du TNFα (facteur de nécrose tumorale alpha)"
+  ],
+  "bonnes": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explication": "Le cytochrome C est relargué par la mitochondrie.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc08-q087",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "nécrose : caractéristiques",
+  "enonce": "Quelles caractéristiques décrivent la nécrose ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Pas d’activité endonucléasique observée",
+   "Concerne des groupes de cellules voisines",
+   "Déclenchée par des traumatismes, infections, poisons ou ischémie",
+   "Rupture des membranes",
+   "Formation de corps apoptotiques"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explication": "La nécrose est une mort passive.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc08-q088",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "apoptose : caractéristiques",
+  "enonce": "Quelles caractéristiques décrivent l’apoptose ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Pas de réaction inflammatoire",
+   "Intervient dans des cellules isolées",
+   "Activité endonucléasique",
+   "Déclenchée par des infections, des maladies, le vieillissement, au cours du développement",
+   "Rupture des membranes"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explication": "L’apoptose est un processus actif.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc08-q089",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "organites dans l’apoptose et la nécrose",
+  "enonce": "Parmi ces affirmations sur les organites, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Dans la nécrose, certains organites se dilatent.",
+   "Dans la nécrose, les organites restent intacts.",
+   "Dans l’apoptose, les organites restent en général intacts.",
+   "Dans l’apoptose, les organites se dilatent.",
+   "Dans la nécrose, il y a une dilatation cytoplasmique."
+  ],
+  "bonnes": [
+   0,
+   2,
+   4
+  ],
+  "explication": "La nécrose entraîne la rupture des membranes.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc08-q090",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "apoptose et nécrose : caractère",
+  "enonce": "Quelles associations processus – caractère sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Apoptose : mort active",
+   "Apoptose : condensation nucléaire et cytoplasmique",
+   "Nécrose : cellules isolées",
+   "Nécrose : réaction inflammatoire",
+   "Nécrose : mort passive"
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "La nécrose touche des groupes de cellules voisines.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc08-q091",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "activité endonucléasique",
+  "enonce": "Quelles associations processus – activité endonucléasique sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Nécrose : activité endonucléasique observée",
+   "Apoptose : activité endonucléasique",
+   "Nécrose : pas d’activité endonucléasique observée",
+   "Apoptose : pas d’activité endonucléasique"
+  ],
+  "bonnes": [
+   1,
+   2
+  ],
+  "explication": "L’apoptose fragmente l’ADN (acide désoxyribonucléique).",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc08-q092",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "identification d’une nécrose",
+  "enonce": "Une cellule présente une rupture des membranes et une réaction inflammatoire. Quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle peut concerner des groupes de cellules voisines.",
+   "Il s’agit probablement d’une nécrose.",
+   "Des corps apoptotiques sont phagocytés.",
+   "Il s’agit d’une apoptose.",
+   "C’est une mort passive."
+  ],
+  "bonnes": [
+   0,
+   1,
+   4
+  ],
+  "explication": "Dans l’apoptose, il n’y a pas de réaction inflammatoire.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc08-q093",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "identification d’une apoptose",
+  "enonce": "Une cellule se contracte, sa chromatine se condense et des corps apoptotiques se forment. Quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Aucune inflammation n’est attendue.",
+   "Il s’agit d’une apoptose.",
+   "Il s’agit d’une nécrose.",
+   "Les corps apoptotiques seront phagocytés.",
+   "Sa membrane plasmique reste intègre."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "C’est un processus actif.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 8
+  }
+ },
+ {
+  "id": "bc08-q094",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "thymus : lymphocyte auto-réactif",
+  "enonce": "Un lymphocyte T auto-réactif est détecté dans le thymus. Quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Cela permet la tolérance du soi.",
+   "Il est phagocyté après nécrose.",
+   "Il est éliminé par apoptose.",
+   "Il est multiplié par mitose."
+  ],
+  "bonnes": [
+   0,
+   2
+  ],
+  "explication": "C’est la délétion des cellules T auto-réactives.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc08-q095",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "tumeur et apoptose",
+  "enonce": "Une tumeur échappe à l’apoptose. Quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Un excès d’apoptose est associé au cancer.",
+   "Un défaut d’apoptose est associé au cancer.",
+   "Les cellules sont toutes détruites.",
+   "Les cellules anormales ne sont pas éliminées."
+  ],
+  "bonnes": [
+   1,
+   3
+  ],
+  "explication": "Un défaut d’apoptose est aussi associé aux maladies auto-immunes.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 6
+  }
+ },
+ {
+  "id": "bc08-q096",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "ischémie et neurones",
+  "enonce": "Une ischémie entraîne la mort de nombreux neurones. Quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Un excès d’apoptose est associé à l’ischémie.",
+   "Un excès d’apoptose est associé aux maladies neurodégénératives.",
+   "Un défaut d’apoptose est associé au SIDA (syndrome d’immunodéficience acquise).",
+   "Un défaut d’apoptose est associé à l’ischémie."
+  ],
+  "bonnes": [
+   0,
+   1
+  ],
+  "explication": "L’ischémie est classée parmi les excès d’apoptose.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 6
+  }
+ },
+ {
+  "id": "bc08-q097",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "facteur de survie en phase latente",
+  "enonce": "Une cellule reçoit un facteur de survie au début de la phase latente. Quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Bax (protéine X associée à Bcl-2) est anti-apoptotique.",
+   "L’exécution est déjà terminée.",
+   "Bcl-2 (B-cell lymphoma 2) peut s’opposer à la mort cellulaire.",
+   "Le processus est encore réversible."
+  ],
+  "bonnes": [
+   2,
+   3
+  ],
+  "explication": "La phase latente est la phase de contrôle.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 11
+  }
+ },
+ {
+  "id": "bc08-q098",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "cytochrome C relargué",
+  "enonce": "Le cytochrome C est relargué par une mitochondrie. Quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La procaspase 8 est activée par le DISC (complexe de signalisation induisant la mort).",
+   "La procaspase 9 est activée.",
+   "La voie extracellulaire est activée.",
+   "L’apoptosome se forme.",
+   "La voie intracellulaire est activée."
+  ],
+  "bonnes": [
+   1,
+   3,
+   4
+  ],
+  "explication": "La voie intracellulaire est la voie mitochondriale.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc08-q099",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "rôles de l’apoptose",
+  "enonce": "Quels rôles l’apoptose joue-t-elle ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Élimination de cellules infectées",
+   "Régulation de l’homéostasie tissulaire",
+   "Remodelage des organes au cours du développement",
+   "Synthèse des lipides",
+   "Production d’énergie"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "Elle intervient chez l’adulte et pendant le développement.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc08-q100",
+  "chapitre": "bc08",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "conservation de l’apoptose",
+  "enonce": "Que montre la présence de l’apoptose chez des espèces très différentes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "L’apoptose est apparue récemment.",
+   "L’apoptose est propre à l’Homme.",
+   "L’apoptose est conservée au cours de l’évolution.",
+   "C’est aussi un mécanisme du développement de Caenorhabditis elegans."
+  ],
+  "bonnes": [
+   2,
+   3
+  ],
+  "explication": "Caenorhabditis elegans est un modèle expérimental.",
+  "source": {
+   "chapitre": "bc08",
+   "diapo": 12
+  }
+ }
+]

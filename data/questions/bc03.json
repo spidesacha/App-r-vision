@@ -1,0 +1,2334 @@
+[
+ {
+  "id": "bc03-q001",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "membrane plasmique : membrane qui délimite la cellule",
+  "enonce": "Comment appelle-t-on la membrane qui délimite la cellule ?",
+  "propositions": [
+   "La membrane nucléaire",
+   "Le tonoplaste",
+   "La paroi",
+   "La membrane plasmique"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les membranes des organites portent le nom de l’organite concerné.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc03-q002",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "organisation des membranes",
+  "enonce": "Comment les membranes cellulaires sont-elles organisées ?",
+  "propositions": [
+   "En une seule couche symétrique de lipides",
+   "En monocouches de protéines",
+   "En couches de sucres",
+   "En doubles couches phospholipidiques où s’insèrent, de façon asymétrique et inhomogène, d’autres structures"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Ces structures caractérisent chaque membrane.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc03-q003",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "feuillet clair : 3 nm",
+  "enonce": "En microscopie électronique, quelle est l’épaisseur du feuillet clair d’une membrane ?",
+  "propositions": [
+   "8 nm",
+   "2,5 nm",
+   "3 nm",
+   "30 nm"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Il est entouré de deux feuillets sombres de 2,5 nm.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc03-q004",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "feuillets polaires : 2,5 nm",
+  "enonce": "Quelle est l’épaisseur de chacun des deux feuillets polaires (sombres) d’une membrane ?",
+  "propositions": [
+   "3 nm",
+   "2,5 nm",
+   "8 nm",
+   "0,25 nm"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Le feuillet apolaire mesure 3 nm.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 20
+  }
+ },
+ {
+  "id": "bc03-q005",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "triple feuillet : polaires autour d’un apolaire",
+  "enonce": "Comment est constitué le triple feuillet d’une membrane ?",
+  "propositions": [
+   "Deux couches apolaires de part et d’autre d’une couche polaire",
+   "Deux couches polaires (osmiophiles) de part et d’autre d’une couche apolaire (osmiophobe)",
+   "Une couche de glucides entre deux couches de lipides",
+   "Trois couches de protéines"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "C’est l’aspect observé en microscopie électronique.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc03-q006",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "revêtement procaryote : membrane, paroi, capsule",
+  "enonce": "De quoi est formé le revêtement cellulaire des cellules procaryotes ?",
+  "propositions": [
+   "De la membrane nucléaire et de la paroi",
+   "De la membrane plasmique et du cell coat uniquement",
+   "De la paroi et du glycocalyx",
+   "De la membrane plasmique, de la paroi et de la capsule"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "La capsule est inconstante.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 6
+  }
+ },
+ {
+  "id": "bc03-q007",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "membrane plasmique procaryote : perméabilité sélective",
+  "enonce": "Quel rôle joue la membrane plasmique procaryote ?",
+  "propositions": [
+   "Elle assure la perméabilité sélective : des perméases commandent les entrées",
+   "Elle contient le noyau",
+   "Elle réalise la photosynthèse",
+   "Elle fabrique uniquement la paroi"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Elle intervient aussi dans l’exportation de substances comme les toxines et les enzymes.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc03-q008",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "membrane plasmique procaryote : 8 nm",
+  "enonce": "Quelle est l’épaisseur moyenne de la membrane plasmique procaryote ?",
+  "propositions": [
+   "8 µm",
+   "80 nm",
+   "0,8 nm",
+   "8 nm"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Elle est épaisse de 8 nm en moyenne.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc03-q009",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "rôle de la paroi bactérienne",
+  "enonce": "Quel rôle joue la paroi bactérienne ?",
+  "propositions": [
+   "Elle réalise la respiration",
+   "Elle protège la cellule, maintient la pression osmotique et confère sa forme à la bactérie",
+   "Elle fabrique les lipides",
+   "Elle contient le chromosome"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "C’est une structure de protection, un exosquelette.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 9
+  }
+ },
+ {
+  "id": "bc03-q010",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "coloration de Gram : deux groupes de bactéries",
+  "enonce": "Que permet la coloration de Gram ?",
+  "propositions": [
+   "Colorer le noyau en violet",
+   "Mesurer la pression osmotique",
+   "Distinguer deux grands groupes de bactéries selon leur paroi",
+   "Compter les mitochondries"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les bactéries Gram+ retiennent le colorant, les Gram− non.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 9
+  }
+ },
+ {
+  "id": "bc03-q011",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "Gram+ retiennent le colorant",
+  "enonce": "Quelles bactéries retiennent le colorant de Gram ?",
+  "propositions": [
+   "Aucune bactérie",
+   "Toutes les bactéries",
+   "Les bactéries Gram+ (Gram positif)",
+   "Les bactéries Gram− (Gram négatif)"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "L’appartenance à l’une ou l’autre classe dépend de la structure de la paroi.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 9
+  }
+ },
+ {
+  "id": "bc03-q012",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "peptidoglycane : filet autour de la cellule",
+  "enonce": "Comment s’appelle la molécule qui entoure la cellule bactérienne tel un énorme filet ?",
+  "propositions": [
+   "La cellulose",
+   "Le cholestérol",
+   "Le peptidoglycane",
+   "La chitine"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Il repose directement sur la membrane plasmique.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 12
+  }
+ },
+ {
+  "id": "bc03-q013",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "peptidoglycane ancré par l’acide téichoïque",
+  "enonce": "Par quelles molécules le peptidoglycane est-il ancré dans la membrane plasmique ?",
+  "propositions": [
+   "Des histones",
+   "Des molécules d’acide téichoïque",
+   "Des phospholipides sulfatés",
+   "Des aquaporines"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Il est maintenu par des polysaccharides anioniques.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 12
+  }
+ },
+ {
+  "id": "bc03-q014",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "capsule : polysaccharides",
+  "enonce": "De quoi est formée la capsule bactérienne ?",
+  "propositions": [
+   "De protéines contractiles",
+   "De phospholipides",
+   "De cellulose",
+   "De polysaccharides, d’épaisseur variable et à activité antigénique"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Elle est située en dehors de la paroi.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc03-q015",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "pili : reproduction sexuée et fixation",
+  "enonce": "Dans quoi les pili bactériens sont-ils impliqués ?",
+  "propositions": [
+   "La reproduction sexuée et la fixation de bactéries pathogènes aux tissus humains",
+   "La synthèse des lipides",
+   "La digestion intracellulaire",
+   "La photosynthèse"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Exemple : les pili d’Escherichia coli.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 16
+  }
+ },
+ {
+  "id": "bc03-q016",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "asymétrie de la membrane plasmique",
+  "enonce": "Qu’indique l’épaisseur plus importante du feuillet polaire externe ?",
+  "propositions": [
+   "L’absence de protéines",
+   "Une zone de fusion",
+   "La présence d’un noyau",
+   "L’asymétrie de la membrane plasmique"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "L’asymétrie est aussi soulignée par la présence du cell coat côté externe.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 20
+  }
+ },
+ {
+  "id": "bc03-q017",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "cell coat : feutrage de fibrilles",
+  "enonce": "Qu’est-ce que le cell coat (ou glycocalyx) ?",
+  "propositions": [
+   "Une paroi cellulosique",
+   "Un feutrage de fibrilles, en relation avec le milieu extracellulaire, qui revêt le feuillet externe",
+   "Un organite",
+   "Une couche de lipides interne"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Il est aussi appelé manteau cellulaire.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 21
+  }
+ },
+ {
+  "id": "bc03-q018",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "fibrilles du cell coat perpendiculaires",
+  "enonce": "Comment sont disposées les fibrilles du cell coat par rapport à la membrane ?",
+  "propositions": [
+   "Parallèlement à sa surface",
+   "En spirale autour du noyau",
+   "En boucles dans le cytoplasme",
+   "Perpendiculairement à sa surface"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Leur diamètre est de 1,5 nm.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 22
+  }
+ },
+ {
+  "id": "bc03-q019",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "organites : triple feuillet sans cell coat",
+  "enonce": "Les membranes des organites présentent-elles un cell coat ?",
+  "propositions": [
+   "Oui, toujours",
+   "Oui, seulement celle des mitochondries",
+   "Non : elles ont une structure en triple feuillet, mais sans cell coat",
+   "Oui, seulement celle du noyau"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "La similitude est morphologique, pas biochimique ni fonctionnelle.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc03-q020",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "intrus",
+  "fait": "ribosomes sans triple feuillet",
+  "enonce": "Quelle structure n’est pas limitée par un triple feuillet ?",
+  "propositions": [
+   "Les lysosomes",
+   "Les mitochondries",
+   "Les ribosomes",
+   "Le noyau"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Le centre cellulaire, les ribosomes et le cytosquelette font exception.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc03-q021",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "cholestérol entre les phospholipides",
+  "enonce": "Où se place le cholestérol dans le modèle en mosaïque ?",
+  "propositions": [
+   "Dans le noyau",
+   "Dans le cytosol",
+   "Entre les phospholipides",
+   "À l’extérieur de la membrane"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Le modèle comprend aussi des protéines et des polysaccharides.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 26
+  }
+ },
+ {
+  "id": "bc03-q022",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "groupes apolaires dans le feuillet médian",
+  "enonce": "Où se situent les groupes apolaires des lipides membranaires ?",
+  "propositions": [
+   "Sur la face externe",
+   "Sur la face interne",
+   "Dans le feuillet médian osmiophobe",
+   "Dans le cell coat"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les groupes polaires occupent les faces externe et interne.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 27
+  }
+ },
+ {
+  "id": "bc03-q023",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "chaînes carbonées perpendiculaires",
+  "enonce": "Comment sont orientées les chaînes carbonées des lipides ?",
+  "propositions": [
+   "Parallèlement à la surface",
+   "Au hasard",
+   "Perpendiculairement à la surface des deux feuillets",
+   "En hélice autour de la membrane"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Elles se situent dans l’espace séparant les deux feuillets.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 27
+  }
+ },
+ {
+  "id": "bc03-q024",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "composition de la membrane des hématies",
+  "enonce": "Quelle est la composition de la membrane des hématies humaines ?",
+  "propositions": [
+   "8 % de protéines, 40 % de lipides, 52 % de sucres",
+   "80 % de lipides, 10 % de protéines, 10 % de sucres",
+   "52 % de protéines, 40 % de lipides, 8 % de sucres",
+   "40 % de protéines, 52 % de lipides, 8 % de sucres"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Parmi les lipides : 55 % de phospholipides, 25 % de cholestérol, 20 % de glycolipides.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 29
+  }
+ },
+ {
+  "id": "bc03-q025",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "phospholipides : 55 % des lipides des hématies",
+  "enonce": "Parmi les lipides de la membrane des hématies, quelle part représentent les phospholipides ?",
+  "propositions": [
+   "20 %",
+   "90 %",
+   "25 %",
+   "55 %"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Le cholestérol représente 25 % et les glycolipides 20 %.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 29
+  }
+ },
+ {
+  "id": "bc03-q026",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "phospholipides : estérification du glycérol",
+  "enonce": "Les phospholipides résultent de l’estérification :",
+  "propositions": [
+   "du glucose par un acide gras",
+   "d’un acide aminé par un phosphate",
+   "du cholestérol par un acide aminé",
+   "du glycérol par deux acides gras et l’acide phosphorique"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Exemple : la phosphatidylcholine.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 30
+  }
+ },
+ {
+  "id": "bc03-q027",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "lipides membranaires amphipathiques",
+  "enonce": "Que signifie « amphipathique » pour un lipide membranaire ?",
+  "propositions": [
+   "Il possède une tête hydrophile et une queue hydrophobe",
+   "Il est chargé positivement",
+   "Il est entièrement hydrophile",
+   "Il est entièrement hydrophobe"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Les lipides membranaires sont des molécules amphipathiques.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 32
+  }
+ },
+ {
+  "id": "bc03-q028",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "tête d’un phospholipide : phosphate et groupement",
+  "enonce": "De quoi est formée la tête d’un phospholipide ?",
+  "propositions": [
+   "Du cholestérol",
+   "D’un noyau stéroïde",
+   "Du glycérol et des acides gras",
+   "Du phosphate et d’un groupement spécialisé"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "La queue hydrophobe est formée du glycérol et des acides gras.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 33
+  }
+ },
+ {
+  "id": "bc03-q029",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "alcool ou acide aminé : identité du phospholipide",
+  "enonce": "Que donnent les alcools ou les acides aminés d’un glycérophospholipide ?",
+  "propositions": [
+   "La fluidité seulement",
+   "L’identité et la caractéristique du phospholipide",
+   "La taille de la queue hydrophobe",
+   "La couleur de la membrane"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les glycérophospholipides associent glycérol, deux acides gras, un acide phosphorique et un alcool ou un acide aminé.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 38
+  }
+ },
+ {
+  "id": "bc03-q030",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "sphingomyéline : sphingosine + choline",
+  "enonce": "Quel phospholipide obtient-on en associant la choline à un sphingophospholipide ?",
+  "propositions": [
+   "Le cholestérol",
+   "L’acide phosphatidique",
+   "La phosphatidylcholine",
+   "La sphingomyéline"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Un sphingophospholipide associe sphingosine, acide gras, acide phosphorique et alcool ou acide aminé.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 41
+  }
+ },
+ {
+  "id": "bc03-q031",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "cholestérol : solidité et stabilité mécanique",
+  "enonce": "Quel est le rôle du cholestérol dans la membrane ?",
+  "propositions": [
+   "Transporter les ions",
+   "Fixer les virus",
+   "Renforcer la solidité et assurer la stabilité mécanique",
+   "Fabriquer des protéines"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Il se place dans la double couche lipidique.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 43
+  }
+ },
+ {
+  "id": "bc03-q032",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "cholestérol : cellules animales uniquement",
+  "enonce": "Dans quelles cellules trouve-t-on du cholestérol membranaire ?",
+  "propositions": [
+   "Uniquement dans les cellules animales",
+   "Dans les cellules végétales et les bactéries",
+   "Uniquement chez les bactéries",
+   "Dans toutes les cellules sans exception"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Il est absent des cellules végétales et des bactéries.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 45
+  }
+ },
+ {
+  "id": "bc03-q033",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "cholestérol amphiphile",
+  "enonce": "Pourquoi dit-on que le cholestérol est amphiphile ?",
+  "propositions": [
+   "Il est chargé électriquement",
+   "Il est uniquement hydrophobe",
+   "Il possède un noyau stéroïde hydrophobe et une fonction alcool hydrophile",
+   "Il est uniquement hydrophile"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Il possède aussi une queue hydrophobe.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 45
+  }
+ },
+ {
+  "id": "bc03-q034",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "glycolipides et groupe sanguin",
+  "enonce": "Quels lipides de la membrane des globules rouges définissent le groupe sanguin ?",
+  "propositions": [
+   "Le cholestérol",
+   "Les glycolipides",
+   "Les phospholipides",
+   "Les triglycérides"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les glycolipides sont aussi appelés cérébrosides ou gangliosides.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 46
+  }
+ },
+ {
+  "id": "bc03-q035",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "structure d’un glycolipide",
+  "enonce": "Comment est constitué un glycolipide ?",
+  "propositions": [
+   "Sphingosine associée à un acide gras de poids moléculaire élevé, souvent liée à un sucre comme le galactose",
+   "Acide aminé et alcool",
+   "Glycérol et phosphate",
+   "Cholestérol et glucose"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Exemples : ganglioside et cérébroside.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 47
+  }
+ },
+ {
+  "id": "bc03-q036",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "REL synthétise les lipides membranaires",
+  "enonce": "Quel organite synthétise les lipides de la membrane plasmique ?",
+  "propositions": [
+   "Les lysosomes",
+   "Le noyau",
+   "Les peroxysomes",
+   "Le réticulum endoplasmique lisse"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "La double couche acquiert son asymétrie au moment de la synthèse.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 48
+  }
+ },
+ {
+  "id": "bc03-q037",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "feuillet externe riche en glycolipides",
+  "enonce": "Que contient surtout le feuillet externe de la membrane plasmique après sa synthèse ?",
+  "propositions": [
+   "Des glycolipides",
+   "Du cholestérol seul",
+   "Des protéines seules",
+   "Des phospholipides"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Le feuillet interne contient surtout des phospholipides.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 48
+  }
+ },
+ {
+  "id": "bc03-q038",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "cas_pratique",
+  "fait": "baisse de température et fluidité",
+  "enonce": "Que provoque une baisse de la température sur les lipides membranaires ?",
+  "propositions": [
+   "La destruction des phospholipides",
+   "Aucun effet",
+   "La synthèse de lipides saturés, qui diminue la fluidité",
+   "La synthèse de lipides insaturés, qui augmente la fluidité"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "C’est une adaptation de la fluidité de la membrane.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 48
+  }
+ },
+ {
+  "id": "bc03-q039",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "intrinsèques : 70 %",
+  "enonce": "Quelle part des protéines membranaires sont intrinsèques (transmembranaires) ?",
+  "propositions": [
+   "Environ 70 %",
+   "Environ 5 %",
+   "100 %",
+   "Environ 30 %"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Les protéines extrinsèques représentent environ 30 %.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 52
+  }
+ },
+ {
+  "id": "bc03-q040",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "extrinsèques faiblement associées",
+  "enonce": "Comment les protéines extrinsèques (périphériques) sont-elles associées à la membrane ?",
+  "propositions": [
+   "Elles traversent la bicouche",
+   "Faiblement, à la surface externe ou interne",
+   "Elles sont ancrées par des hélices α",
+   "Elles sont dans le feuillet médian"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Elles sont localisées en dehors de la bicouche.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 52
+  }
+ },
+ {
+  "id": "bc03-q041",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "transmembranaires : hélices α apolaires",
+  "enonce": "Comment les protéines transmembranaires sont-elles liées à la membrane ?",
+  "propositions": [
+   "Par les acides aminés apolaires de leurs hélices α, au contact de l’environnement hydrophobe",
+   "Par des liaisons ioniques",
+   "Par des liaisons faibles de surface",
+   "Par des ponts disulfure"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Seuls des procédés drastiques permettent de les extraire.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 54
+  }
+ },
+ {
+  "id": "bc03-q042",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "traversées multiples",
+  "enonce": "Que signifie « protéine à traversées multiples » ?",
+  "propositions": [
+   "Elle ne traverse jamais la membrane",
+   "Elle reste en surface",
+   "Elle traverse une seule fois",
+   "Elle traverse plusieurs fois la membrane"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les protéines à traversée unique ne la traversent qu’une fois.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 56
+  }
+ },
+ {
+  "id": "bc03-q043",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "P170 : résistance multiple aux drogues",
+  "enonce": "Quelle protéine transmembranaire est citée en exemple pour la résistance multiple aux drogues ?",
+  "propositions": [
+   "La protéine P170",
+   "La laminine",
+   "L’insuline",
+   "La fibronectine"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "C’est une protéine à traversées multiples.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 56
+  }
+ },
+ {
+  "id": "bc03-q044",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "transmembranaires asymétriques",
+  "enonce": "Pourquoi les protéines transmembranaires sont-elles asymétriques ?",
+  "propositions": [
+   "Elles ont deux pôles hydrophiles et une partie moyenne hydrophobe",
+   "Elles sont dépourvues de sucres",
+   "Elles n’ont pas de partie hydrophobe",
+   "Elles ont trois pôles polaires"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Presque toutes sont glycosylées.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 57
+  }
+ },
+ {
+  "id": "bc03-q045",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "chaînes polysaccharidiques dans le cell coat",
+  "enonce": "Où se trouvent les chaînes polysaccharidiques des protéines glycosylées ?",
+  "propositions": [
+   "Dans le noyau",
+   "Dans le cell coat",
+   "Dans le feuillet médian",
+   "Dans le cytosol"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Presque toutes les protéines transmembranaires sont glycosylées.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 57
+  }
+ },
+ {
+  "id": "bc03-q046",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "GPI : face extracellulaire",
+  "enonce": "Où sont situées les protéines ancrées par un GPI (glycosylphosphatidylinositol) ?",
+  "propositions": [
+   "Dans le feuillet médian",
+   "Dans le noyau",
+   "Sur la face extracellulaire de la membrane",
+   "Sur la face intracellulaire"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les protéines ancrées par des acides gras sont sur la face intracellulaire.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 59
+  }
+ },
+ {
+  "id": "bc03-q047",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "acides gras : face intracellulaire",
+  "enonce": "Par quoi certaines protéines périphériques sont-elles ancrées sur la face intracellulaire ?",
+  "propositions": [
+   "Par des acides gras (palmitique, myristique)",
+   "Par un glycosylphosphatidylinositol",
+   "Par des hélices α",
+   "Par des ponts disulfure"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "L’ancrage se fait par l’intermédiaire d’acides gras.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 59
+  }
+ },
+ {
+  "id": "bc03-q048",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "extrinsèques : liaisons faibles",
+  "enonce": "Comment les protéines extrinsèques interagissent-elles avec la membrane ?",
+  "propositions": [
+   "Par des ponts disulfure",
+   "Par des hélices α hydrophobes",
+   "Par des liaisons covalentes fortes",
+   "Par des liaisons faibles : liaisons hydrogène et liaisons de Van der Waals"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Elles sont soit entièrement intracellulaires, soit entièrement extracellulaires.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 62
+  }
+ },
+ {
+  "id": "bc03-q049",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "rôles des protéines périphériques",
+  "enonce": "Quels rôles les protéines périphériques procurent-elles aux membranes ?",
+  "propositions": [
+   "Transport des ions seulement",
+   "Production de lumière",
+   "Support mécanique, enzymes ou facteurs de transmission des signaux membranaires",
+   "Synthèse de lipides"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Elles sont localisées en dehors de la bicouche.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 63
+  }
+ },
+ {
+  "id": "bc03-q050",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "glucides membranaires : glycoprotéines",
+  "enonce": "Sous quelle forme se trouvent la plupart des glucides membranaires ?",
+  "propositions": [
+   "Des sucres libres",
+   "Des glycoprotéines",
+   "Des polysaccharides libres",
+   "Des glycolipides"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Une petite partie seulement est sous forme de glycolipides.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 66
+  }
+ },
+ {
+  "id": "bc03-q051",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "protéoglycanes : jusqu’à 90 %",
+  "enonce": "Que sont les protéoglycanes ?",
+  "propositions": [
+   "Des lipides",
+   "Des glycoprotéines à polysaccharides de chaîne longue, jusqu’à 90 % du poids moléculaire",
+   "Des glycoprotéines à courts polysaccharides",
+   "Des phospholipides sulfatés"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Quand un des sucres est aminé, on parle de glycosaminoglycane.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 67
+  }
+ },
+ {
+  "id": "bc03-q052",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "aquaporines : passage rapide de l’eau",
+  "enonce": "Par quoi l’eau traverse-t-elle rapidement la membrane ?",
+  "propositions": [
+   "Les aquaporines",
+   "Les pili",
+   "La pompe Na⁺/K⁺ (sodium/potassium)",
+   "Les phospholipides"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "À travers les phospholipides, le passage de l’eau est lent.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 79
+  }
+ },
+ {
+  "id": "bc03-q053",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "diffusion simple",
+  "enonce": "La diffusion simple suit :",
+  "propositions": [
+   "le gradient de concentration, sans énergie",
+   "le gradient inverse, avec énergie",
+   "une vésicule",
+   "un récepteur spécifique"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Il n’y a que quelques molécules qui traversent les membranes par simple diffusion.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 74
+  }
+ },
+ {
+  "id": "bc03-q054",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "diffusion facilitée : grosses molécules non liposolubles",
+  "enonce": "La diffusion facilitée concerne des molécules :",
+  "propositions": [
+   "de grosse taille ou non liposolubles (sucres, ions), via des protéines porteuses ou tunnels",
+   "uniquement les gaz",
+   "uniquement l’eau",
+   "petites et liposolubles"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Protéines porteuses (perméases) ou protéines tunnels (conductines).",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 76
+  }
+ },
+ {
+  "id": "bc03-q055",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "transport actif : contre le gradient avec énergie",
+  "enonce": "Que caractérise le transport actif ?",
+  "propositions": [
+   "Un transport suivant le gradient, sans énergie",
+   "Un transport à l’encontre du gradient de concentration, avec une source d’énergie",
+   "Un passage direct entre les phospholipides",
+   "Un transport sans transporteur"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Il est défavorable du point de vue thermodynamique.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 80
+  }
+ },
+ {
+  "id": "bc03-q056",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "pompe Na+/K+ : énergie de l’ATP",
+  "enonce": "Avec quelle énergie la pompe Na⁺/K⁺ (sodium/potassium) fonctionne-t-elle ?",
+  "propositions": [
+   "Le gradient de H⁺ (protons)",
+   "La lumière",
+   "L’énergie de l’ATP (adénosine triphosphate)",
+   "Aucune énergie"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "C’est un transport actif entraîné par l’énergie de l’ATP.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 82
+  }
+ },
+ {
+  "id": "bc03-q057",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "transport actif secondaire : co-transport",
+  "enonce": "Qu’est-ce qu’un transport actif secondaire ?",
+  "propositions": [
+   "Une exocytose",
+   "Un transport passif sans protéine",
+   "Une phagocytose",
+   "Un co-transport où l’énergie d’un soluté favorable sert à transporter un soluté défavorable"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Exemple : le co-transport H⁺/saccharose.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 84
+  }
+ },
+ {
+  "id": "bc03-q058",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "exocytose : fusion avec une vésicule interne",
+  "enonce": "En quoi consiste l’exocytose ?",
+  "propositions": [
+   "À fusionner la membrane plasmique avec une vésicule d’origine interne",
+   "À former une vésicule par invagination de la membrane",
+   "À créer un pore nucléaire",
+   "À digérer des particules"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Elle permet la sécrétion de produits fabriqués par la cellule.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 92
+  }
+ },
+ {
+  "id": "bc03-q059",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "pinocytose : puits recouverts",
+  "enonce": "Que forme la pinocytose ?",
+  "propositions": [
+   "Des pores",
+   "Des puits recouverts et de petites vésicules recouvertes",
+   "Des cils",
+   "De très grosses vésicules"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les puits mesurent 0,2 à 0,5 µm de diamètre.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 93
+  }
+ },
+ {
+  "id": "bc03-q060",
+  "chapitre": "bc03",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "phagocytose : cellules entières",
+  "enonce": "Quel type d’endocytose permet d’absorber des cellules entières ?",
+  "propositions": [
+   "La phagocytose",
+   "L’exocytose",
+   "La pinocytose",
+   "La diffusion facilitée"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Elle implique l’internalisation de vésicules de très grande taille.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 93
+  }
+ },
+ {
+  "id": "bc03-q061",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "membranes : bicouches asymétriques",
+  "enonce": "Parmi ces affirmations sur les membranes, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ce sont des doubles couches phospholipidiques.",
+   "Elles sont formées d’une monocouche de protéines.",
+   "La membrane d’un organite porte le nom de l’organite.",
+   "La membrane plasmique entoure uniquement le noyau.",
+   "L’insertion d’autres structures y est asymétrique et inhomogène."
+  ],
+  "bonnes": [
+   0,
+   2,
+   4
+  ],
+  "explication": "La membrane délimitant la cellule est la membrane plasmique.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc03-q062",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "épaisseurs du triple feuillet",
+  "enonce": "Quelles affirmations sur l’épaisseur de la membrane en microscopie électronique sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Chaque feuillet sombre mesure 3 nm.",
+   "Le feuillet clair mesure 3 nm.",
+   "L’ensemble fait environ 8 nm.",
+   "Chaque feuillet sombre mesure 2,5 nm.",
+   "Le feuillet clair mesure 8 nm."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "Le feuillet polaire externe est souvent légèrement plus épais que l’interne.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 20
+  }
+ },
+ {
+  "id": "bc03-q063",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "revêtement des procaryotes",
+  "enonce": "Parmi ces affirmations sur le revêtement des cellules procaryotes, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il comprend un cell coat identique à celui des eucaryotes.",
+   "Il comprend une capsule, qui est inconstante.",
+   "Il comprend une membrane plasmique.",
+   "Il comprend une paroi.",
+   "Il comprend une enveloppe nucléaire."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "Seuls les eucaryotes ont un noyau délimité par une enveloppe.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 6
+  }
+ },
+ {
+  "id": "bc03-q064",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "membrane plasmique procaryote",
+  "enonce": "Parmi ces affirmations sur la membrane plasmique procaryote, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle contient du cholestérol.",
+   "Les perméases commandent les entrées dans la cellule.",
+   "Elle mesure 8 nm en moyenne.",
+   "Elle joue un rôle dans la perméabilité sélective.",
+   "Elle intervient dans l’exportation de toxines et d’enzymes."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explication": "Le cholestérol est absent des bactéries.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc03-q065",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "paroi bactérienne",
+  "enonce": "Parmi ces affirmations sur la paroi bactérienne, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "C’est une structure de protection, un exosquelette.",
+   "Elle maintient la pression osmotique.",
+   "Elle est formée de cellulose.",
+   "Elle confère sa forme à la bactérie.",
+   "Elle est absente chez toutes les bactéries."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3
+  ],
+  "explication": "La pression osmotique est plus élevée que celle de la cellule eucaryote.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 9
+  }
+ },
+ {
+  "id": "bc03-q066",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "coloration de Gram",
+  "enonce": "Quelles affirmations sur la coloration de Gram sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les bactéries Gram− (Gram négatif) ne retiennent pas le colorant.",
+   "Elle colore les noyaux en violet.",
+   "Les bactéries Gram− retiennent le colorant.",
+   "Les bactéries Gram+ (Gram positif) retiennent le colorant.",
+   "L’appartenance à une classe dépend de la structure de la paroi."
+  ],
+  "bonnes": [
+   0,
+   3,
+   4
+  ],
+  "explication": "La composition chimique des parois diffère considérablement.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 9
+  }
+ },
+ {
+  "id": "bc03-q067",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "peptidoglycane",
+  "enonce": "Parmi ces affirmations sur le peptidoglycane, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il repose directement sur la membrane plasmique.",
+   "Il est situé à l’intérieur du cytoplasme.",
+   "Il entoure la cellule tel un énorme filet.",
+   "Il est maintenu par des polysaccharides anioniques.",
+   "Il est ancré par des molécules d’acide téichoïque."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explication": "Exemple d’organisation : Bacillus subtilis.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 12
+  }
+ },
+ {
+  "id": "bc03-q068",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "capsule bactérienne",
+  "enonce": "Quelles affirmations sur la capsule bactérienne sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle est formée de polysaccharides.",
+   "Son épaisseur est variable.",
+   "Elle a une activité antigénique.",
+   "Elle est située à l’intérieur de la membrane plasmique.",
+   "Elle est formée de cellulose."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "Elle se situe en dehors de la paroi.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc03-q069",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "pili bactériens",
+  "enonce": "Dans quoi les pili sont-ils impliqués ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La digestion intracellulaire",
+   "La fixation de certaines bactéries pathogènes aux tissus humains",
+   "La synthèse des lipides",
+   "La photosynthèse",
+   "La reproduction sexuée des bactéries"
+  ],
+  "bonnes": [
+   1,
+   4
+  ],
+  "explication": "Exemple : pili d’E. coli.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 16
+  }
+ },
+ {
+  "id": "bc03-q070",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "cell coat : fibrilles et épaisseur",
+  "enonce": "Parmi ces affirmations sur le cell coat, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il est en relation avec le milieu extracellulaire.",
+   "C’est un feutrage de fibrilles revêtant le feuillet externe.",
+   "Il est situé sur le feuillet interne.",
+   "Ses fibrilles mesurent 1,5 nm de diamètre et sont perpendiculaires à la surface.",
+   "Son épaisseur diffère selon la cellule."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "Son épaisseur diffère aussi au cours du développement de certains cancers.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 22
+  }
+ },
+ {
+  "id": "bc03-q071",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "membranes sans cell coat",
+  "enonce": "Quelles structures sont limitées par un triple feuillet sans cell coat ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les lysosomes",
+   "Les ribosomes",
+   "Le cytosquelette",
+   "Les mitochondries",
+   "Le centre cellulaire"
+  ],
+  "bonnes": [
+   0,
+   3
+  ],
+  "explication": "Les ribosomes, le cytosquelette et le centre cellulaire ne sont pas limités par une membrane.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc03-q072",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "modèle en mosaïque",
+  "enonce": "Quels éléments sont décrits dans le modèle en mosaïque lipides-protéines ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Du cholestérol entre les phospholipides",
+   "Une couche de cellulose",
+   "Deux couches de phospholipides",
+   "Des protéines à la surface et à travers la membrane",
+   "Des polysaccharides attachés aux lipides ou aux protéines"
+  ],
+  "bonnes": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explication": "La cryofracture clive la membrane et montre cet assemblage.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 26
+  }
+ },
+ {
+  "id": "bc03-q073",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "double couche lipidique",
+  "enonce": "Parmi ces affirmations sur la double couche lipidique, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les chaînes carbonées sont perpendiculaires à la surface des feuillets.",
+   "Les groupes apolaires se situent dans le feuillet médian.",
+   "Elle forme une barrière presque imperméable aux molécules hydrosolubles.",
+   "Les groupes polaires occupent les faces externe et interne.",
+   "Les groupes polaires occupent le feuillet médian."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explication": "Le feuillet médian est osmiophobe.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 27
+  }
+ },
+ {
+  "id": "bc03-q074",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "hématies : protéines, lipides, sucres",
+  "enonce": "Quelles associations constituant – pourcentage (membrane des hématies) sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Lipides : 52 %",
+   "Protéines : 8 %",
+   "Lipides : 40 %",
+   "Sucres : 8 %",
+   "Protéines : 52 %"
+  ],
+  "bonnes": [
+   2,
+   3,
+   4
+  ],
+  "explication": "Parmi les lipides : phospholipides 55 %, cholestérol 25 %, glycolipides 20 %.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 29
+  }
+ },
+ {
+  "id": "bc03-q075",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "hématies : répartition des lipides",
+  "enonce": "Parmi les lipides de la membrane des hématies, quelles associations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Cholestérol : 25 %",
+   "Glycolipides : 20 %",
+   "Phospholipides : 55 %",
+   "Cholestérol : 55 %",
+   "Phospholipides : 20 %"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "Les protéines représentent 52 % de la membrane.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 29
+  }
+ },
+ {
+  "id": "bc03-q076",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "phospholipides : tête et queue",
+  "enonce": "Parmi ces affirmations sur les phospholipides, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La queue est formée de phosphate.",
+   "Ils présentent une tête hydrophile et une queue hydrophobe.",
+   "La tête comprend le phosphate et un groupement spécialisé.",
+   "La tête est hydrophobe.",
+   "La queue comprend le glycérol et les acides gras."
+  ],
+  "bonnes": [
+   1,
+   2,
+   4
+  ],
+  "explication": "On distingue les glycérophospholipides et les sphingophospholipides.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 33
+  }
+ },
+ {
+  "id": "bc03-q077",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "composition d’un glycérophospholipide",
+  "enonce": "Quels éléments composent un glycérophospholipide ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Du glycérol",
+   "Un acide phosphorique",
+   "Deux acides gras",
+   "De la sphingosine",
+   "Un alcool ou un acide aminé"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "L’alcool ou l’acide aminé donne l’identité du phospholipide.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 38
+  }
+ },
+ {
+  "id": "bc03-q078",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "composition d’un sphingophospholipide",
+  "enonce": "Quels éléments composent un sphingophospholipide ? (plusieurs réponses possibles)",
+  "propositions": [
+   "De la sphingosine",
+   "Du glycérol",
+   "Un alcool ou un acide aminé (ex. la choline pour la sphingomyéline)",
+   "Un acide phosphorique",
+   "Un acide gras"
+  ],
+  "bonnes": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explication": "La sphingomyéline s’obtient par association de la choline.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 41
+  }
+ },
+ {
+  "id": "bc03-q079",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "cholestérol membranaire",
+  "enonce": "Parmi ces affirmations sur le cholestérol, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il renforce la solidité de la membrane.",
+   "Il est présent dans les membranes bactériennes.",
+   "Il y en a environ une molécule pour une de phospholipide.",
+   "Il possède un noyau stéroïde hydrophobe et une fonction alcool hydrophile.",
+   "Il est absent des cellules végétales et des bactéries."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explication": "La quantité dépend de la membrane et de son état de viscosité.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 45
+  }
+ },
+ {
+  "id": "bc03-q080",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "glycolipides",
+  "enonce": "Parmi ces affirmations sur les glycolipides, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il existe des glycéroglycolipides et des sphingoglycolipides.",
+   "Les glycolipides des globules rouges définissent le groupe sanguin.",
+   "Ce sont des phospholipides.",
+   "Les cérébrosides et les gangliosides sont des glycolipides.",
+   "Ils définissent le groupe sanguin uniquement chez les bactéries."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3
+  ],
+  "explication": "Ils résultent de l’association de la sphingosine avec un acide gras.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 46
+  }
+ },
+ {
+  "id": "bc03-q081",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "synthèse des lipides membranaires",
+  "enonce": "Quelles affirmations sur la synthèse des lipides membranaires sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Le feuillet interne contient surtout des glycolipides.",
+   "La double couche acquiert son asymétrie dès la synthèse.",
+   "Le réticulum lisse synthétise les lipides de la membrane plasmique.",
+   "Le feuillet externe contient surtout des glycolipides.",
+   "Le feuillet interne contient surtout des phospholipides."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explication": "Une baisse de température augmente la fluidité par la synthèse de lipides insaturés.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 48
+  }
+ },
+ {
+  "id": "bc03-q082",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "propriétés des protéines membranaires",
+  "enonce": "Parmi ces affirmations sur les protéines membranaires, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elles possèdent une extrémité amino-terminale et une extrémité carboxyterminale.",
+   "Elles représentent environ 50 % de la masse de la membrane.",
+   "Elles sont dépourvues d’acides aminés.",
+   "Elles sont uniquement hydrophobes.",
+   "Des zones hydrophiles et hydrophobes alternent le long de la protéine."
+  ],
+  "bonnes": [
+   0,
+   1,
+   4
+  ],
+  "explication": "La majorité (70 %) se lie aux phospholipides hydrophobes.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 50
+  }
+ },
+ {
+  "id": "bc03-q083",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "protéines intrinsèques et extrinsèques",
+  "enonce": "Quelles associations type de protéine – caractéristique sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Intrinsèques : environ 30 %",
+   "Extrinsèques : environ 30 %, faiblement associées à la surface",
+   "Intrinsèques : environ 70 %, transmembranaires",
+   "Extrinsèques : transmembranaires"
+  ],
+  "bonnes": [
+   1,
+   2
+  ],
+  "explication": "Les extrinsèques sont aussi appelées périphériques.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 52
+  }
+ },
+ {
+  "id": "bc03-q084",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "protéines transmembranaires",
+  "enonce": "Parmi ces affirmations sur les protéines transmembranaires, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Seuls des procédés drastiques permettent de les extraire.",
+   "Presque toutes sont glycosylées.",
+   "Elles traversent les deux feuillets de la membrane.",
+   "Elles sont faiblement liées à la surface.",
+   "Elles sont fortement liées aux lipides par leurs hélices α apolaires."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "Leurs chaînes polysaccharidiques occupent le cell coat.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 57
+  }
+ },
+ {
+  "id": "bc03-q085",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "traversée unique ou multiple",
+  "enonce": "Quelles associations protéine – type de traversée sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "P170 : protéine extrinsèque du cell coat",
+   "Traversées multiples : plusieurs traversées",
+   "P170 : protéine transmembranaire de résistance multiple aux drogues",
+   "Traversée unique : une seule traversée de la membrane",
+   "Traversée unique : plusieurs traversées"
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "Les protéines transmembranaires peuvent traverser une ou plusieurs fois la membrane.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 56
+  }
+ },
+ {
+  "id": "bc03-q086",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "ancrage des protéines périphériques",
+  "enonce": "Quelles associations ancrage – face de la membrane sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ancrage par un glycosylphosphatidylinositol : face extracellulaire",
+   "Ancrage par des acides gras : face extracellulaire",
+   "Ancrage par un glycosylphosphatidylinositol : face intracellulaire",
+   "Ancrage par des acides gras (palmitique, myristique) : face intracellulaire"
+  ],
+  "bonnes": [
+   0,
+   3
+  ],
+  "explication": "Ces protéines sont ancrées dans les lipides.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 59
+  }
+ },
+ {
+  "id": "bc03-q087",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "protéines extrinsèques",
+  "enonce": "Parmi ces affirmations sur les protéines extrinsèques, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elles interagissent par des liaisons hydrogène et de Van der Waals.",
+   "Elles peuvent jouer un rôle de support mécanique.",
+   "Elles peuvent agir comme enzymes.",
+   "Elles traversent la bicouche.",
+   "Elles sont localisées en dehors de la bicouche."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "Elles peuvent aussi servir de facteurs de transmission des signaux membranaires.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 62
+  }
+ },
+ {
+  "id": "bc03-q088",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "classification des protéines membranaires",
+  "enonce": "Quelles associations numéro – type de protéine (schéma de classification) sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "4 : protéine liée par un oligosaccharide à un phosphatidylinositol",
+   "5 et 6 : protéines transmembranaires à traversée unique",
+   "1 : protéine transmembranaire à traversée unique",
+   "3 : protéine liée à un lipide (acide gras)",
+   "2 : protéine transmembranaire à traversées multiples"
+  ],
+  "bonnes": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explication": "5 et 6 : protéines liées de façon non covalente à d’autres protéines membranaires.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 64
+  }
+ },
+ {
+  "id": "bc03-q089",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "fonctions des protéines membranaires (1)",
+  "enonce": "Quelles fonctions les protéines membranaires assurent-elles ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La reconnaissance cellulaire",
+   "La réception d’informations (hormones, stimuli)",
+   "La synthèse de l’ARN (acide ribonucléique)",
+   "Le transport transmembranaire",
+   "L’adhésivité entre cellules"
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "D’autres fonctions : inhibition de contact, fixation de médicaments, de virus et de toxines.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 65
+  }
+ },
+ {
+  "id": "bc03-q090",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "fonctions des protéines membranaires (2)",
+  "enonce": "Quelles autres fonctions sont citées pour les protéines membranaires ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La fixation de virus et de toxines",
+   "La production d’énergie par respiration",
+   "La fixation de substances médicamenteuses",
+   "L’inhibition de contact",
+   "La synthèse des lipides"
+  ],
+  "bonnes": [
+   0,
+   2,
+   3
+  ],
+  "explication": "Elles interviennent aussi dans le transport transmembranaire.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 65
+  }
+ },
+ {
+  "id": "bc03-q091",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "glucides membranaires",
+  "enonce": "Parmi ces affirmations sur les glucides membranaires, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ils sont liés le plus souvent par des liaisons N-glycosidiques.",
+   "La majorité sont sous forme de glycoprotéines.",
+   "Ils n’existent pas à l’état libre.",
+   "Ils sont libres dans la membrane.",
+   "Ils sont majoritairement des glycolipides."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "Une petite partie seulement est sous forme de glycolipides.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 66
+  }
+ },
+ {
+  "id": "bc03-q092",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "protéoglycanes",
+  "enonce": "Parmi ces affirmations sur les protéoglycanes, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Le plus simple est l’acide hyaluronique.",
+   "Ils sont formés de courts polysaccharides.",
+   "Ils représentent jusqu’à 90 % du poids moléculaire.",
+   "Si un sucre est aminé, on parle de GAG (glycosaminoglycane).",
+   "Ce sont des glycoprotéines à polysaccharides de chaîne longue."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explication": "Ces chaînes sont faites d’unités disaccharidiques répétées.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 67
+  }
+ },
+ {
+  "id": "bc03-q093",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "constituants du glycocalyx",
+  "enonce": "Quels éléments forment le cell coat (glycocalyx) ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Des histones",
+   "Des glycoprotéines",
+   "Des protéoglycanes",
+   "Des glycolipides",
+   "La fibronectine et la laminine, faiblement liées"
+  ],
+  "bonnes": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explication": "Le cell coat est un feutrage de fibrilles revêtant le feuillet externe.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 69
+  }
+ },
+ {
+  "id": "bc03-q094",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "fibronectine",
+  "enonce": "Parmi ces affirmations sur la fibronectine, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La laminine joue un rôle équivalent.",
+   "Elle n’existe que dans le noyau.",
+   "Elle joue un rôle dans la cicatrisation, la phagocytose et la coagulation.",
+   "Elle assure la cohésion des cellules avec la matrice.",
+   "Elle existe dans tous les types de membranes cellulaires."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explication": "Elle intervient dans l’adhésion de la cellule sur le substrat.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 71
+  }
+ },
+ {
+  "id": "bc03-q095",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "transports passifs et actifs",
+  "enonce": "Quelles affirmations sur le transport membranaire sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les transports actifs consomment de l’énergie.",
+   "Les transports passifs ne consomment pas d’énergie.",
+   "Ils mettent souvent en jeu des protéines transmembranaires (canaux, transporteurs).",
+   "Les transports actifs ne consomment pas d’énergie."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "Les échanges d’ions et de petites molécules sont actifs ou passifs.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 73
+  }
+ },
+ {
+  "id": "bc03-q096",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "transports passifs : diffusion simple, facilitée, osmose",
+  "enonce": "Quelles associations transport passif – description sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Diffusion facilitée : sans aucune protéine",
+   "Diffusion simple : suivant le gradient de concentration",
+   "Diffusion facilitée : protéines porteuses ou tunnels",
+   "Diffusion simple : concerne de nombreuses molécules",
+   "Osmose : passage lent à travers les phospholipides, rapide par les aquaporines"
+  ],
+  "bonnes": [
+   1,
+   2,
+   4
+  ],
+  "explication": "Seules quelques molécules traversent les membranes par simple diffusion.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 76
+  }
+ },
+ {
+  "id": "bc03-q097",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "transport actif : conditions",
+  "enonce": "Quelles caractéristiques décrivent le transport actif ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Présence d’un transporteur membranaire",
+   "Besoin d’une source d’énergie",
+   "Aucune source d’énergie nécessaire",
+   "Transport suivant le gradient",
+   "Transport à l’encontre du gradient de concentration"
+  ],
+  "bonnes": [
+   0,
+   1,
+   4
+  ],
+  "explication": "Exemple : la pompe Na⁺/K⁺ entraînée par l’énergie de l’ATP (adénosine triphosphate).",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 80
+  }
+ },
+ {
+  "id": "bc03-q098",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "co-transport",
+  "enonce": "Parmi ces affirmations sur les co-transporteurs, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ils ne transportent qu’un seul soluté.",
+   "Ils transportent 2 solutés différents simultanément.",
+   "Ils peuvent agir dans la même direction ou dans des directions opposées.",
+   "Le soluté défavorable utilise l’énergie du soluté favorable.",
+   "Un exemple est le co-transport H⁺/saccharose."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explication": "C’est le transport actif secondaire.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 84
+  }
+ },
+ {
+  "id": "bc03-q099",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "endocytose et exocytose",
+  "enonce": "Quelles associations processus – description sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Endocytose : internalisation de composés extérieurs à la cellule",
+   "Exocytose : fusion de la membrane avec une vésicule interne",
+   "Exocytose : sécrétion de produits fabriqués par la cellule",
+   "Exocytose : internalisation de composés extérieurs",
+   "Endocytose : formation d’une vésicule par invagination puis pincement"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "Dans les deux cas, il y a fusion de bicouches phospholipidiques.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 92
+  }
+ },
+ {
+  "id": "bc03-q100",
+  "chapitre": "bc03",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "pinocytose, phagocytose et récepteurs",
+  "enonce": "Parmi ces affirmations sur l’endocytose, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "L’endocytose met en jeu des récepteurs membranaires à domaine de reconnaissance spécifique.",
+   "La phagocytose absorbe des cellules entières.",
+   "La pinocytose forme des puits recouverts de 0,2 à 0,5 µm.",
+   "Les récepteurs se concentrent au niveau des puits recouverts.",
+   "La pinocytose implique de très grandes vésicules."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explication": "On distingue pinocytose et phagocytose selon la taille des vésicules.",
+  "source": {
+   "chapitre": "bc03",
+   "diapo": 94
+  }
+ }
+]

@@ -1,0 +1,2321 @@
+[
+ {
+  "id": "bc09-q001",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "la lumière : élément le plus important pour une plante",
+  "enonce": "Quel est l’élément le plus important pour la vie d’une plante ?",
+  "propositions": [
+   "La lumière",
+   "L’oxygène",
+   "Le sol",
+   "L’eau"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "La lumière influence aussi l’architecture de la plante.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc09-q002",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "photosynthèse : processus le plus important sur Terre",
+  "enonce": "Quelle importance la photosynthèse a-t-elle sur la Terre ?",
+  "propositions": [
+   "Elle produit uniquement de l’eau",
+   "Elle ne concerne que les plantes",
+   "C’est le processus chimique le plus important, car elle fournit de la nourriture à tous les organismes vivants",
+   "C’est un processus accessoire"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les cellules végétales convertissent la lumière en un signal chimique.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc09-q003",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "plante avec lumière adéquate",
+  "enonce": "Comment sont les plantes qui reçoivent une lumière adéquate ?",
+  "propositions": [
+   "Souvent touffues, avec des feuilles d’un vert plutôt foncé",
+   "Toujours jaunes",
+   "Étiolées, avec des feuilles vert pâle",
+   "Sans feuilles"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Sans assez de lumière, les plantes s’étiolent.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc09-q004",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "manque de lumière : étiolement",
+  "enonce": "Que se passe-t-il pour une plante qui manque de lumière ?",
+  "propositions": [
+   "Elle devient vert foncé",
+   "Elle devient touffue",
+   "Elle s’étiole et ses feuilles deviennent vert pâle",
+   "Elle meurt immédiatement"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Trop de soleil peut aussi être nocif.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc09-q005",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "excès de soleil nocif",
+  "enonce": "Que peut provoquer un excès de lumière solaire ?",
+  "propositions": [
+   "Un meilleur rendement",
+   "Des dommages à la plante",
+   "Aucun effet",
+   "Une absence de photosynthèse"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les chloroplastes et les caroténoïdes aident à les éviter.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc09-q006",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "chloroplastes et caroténoïdes : excès d’énergie lumineuse",
+  "enonce": "Quels éléments aident à éviter les dommages d’un excès d’énergie lumineuse ?",
+  "propositions": [
+   "Les lysosomes et les vacuoles",
+   "Les mitochondries et le noyau",
+   "Les chloroplastes et les caroténoïdes",
+   "Les peroxysomes"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Trop de soleil peut être nocif aux plantes.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc09-q007",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "produits de la photosynthèse : sucres et oxygène",
+  "enonce": "Que produit la photosynthèse à partir de dioxyde de carbone et d’eau ?",
+  "propositions": [
+   "Des lipides et de l’hydrogène",
+   "Des sucres et de l’oxygène",
+   "Des protéines et de l’azote",
+   "Du CO₂ et de l’eau"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Elle utilise l’énergie lumineuse.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 6
+  }
+ },
+ {
+  "id": "bc09-q008",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "équation de la photosynthèse",
+  "enonce": "Quelle est l’équation de la photosynthèse ?",
+  "propositions": [
+   "CO₂ + O₂ → eau",
+   "O₂ + composés organiques → CO₂ + H₂O",
+   "glucose → CO₂ + eau",
+   "CO₂ + H₂O → O₂ + composés organiques (CH₂O)n"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Elle utilise les électrons de l’eau et la lumière solaire.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc09-q009",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "l’eau fournit des électrons",
+  "enonce": "Que fournit l’eau à la photosynthèse ?",
+  "propositions": [
+   "De l’azote",
+   "De la chlorophylle",
+   "Des électrons",
+   "Du carbone"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "La lumière solaire apporte l’énergie.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc09-q010",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "autotrophes : producteurs de la biosphère",
+  "enonce": "Les êtres autotrophes sont :",
+  "propositions": [
+   "des parasites",
+   "les décomposeurs",
+   "les producteurs de la biosphère",
+   "les consommateurs de la biosphère"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Plantes, protistes et cyanobactéries en font partie.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 8
+  }
+ },
+ {
+  "id": "bc09-q011",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "organismes autotrophes photosynthétiques",
+  "enonce": "Quels sont des organismes autotrophes photosynthétiques ?",
+  "propositions": [
+   "Les virus",
+   "Les mycoplasmes",
+   "Les plantes, certains protistes et des cyanobactéries",
+   "Les animaux et les champignons"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Ils sont les producteurs de la biosphère.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 8
+  }
+ },
+ {
+  "id": "bc09-q012",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "trois éléments propres à la cellule végétale",
+  "enonce": "Quels éléments différencient la cellule végétale de la cellule animale ?",
+  "propositions": [
+   "La paroi cellulaire, l’appareil vacuolaire et les plastes",
+   "Les centrioles, la vacuole et les lysosomes",
+   "Le noyau, la paroi et les mitochondries",
+   "Les plastes, le cholestérol et le Golgi"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "La structure reste proche de celle de la cellule animale.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 11
+  }
+ },
+ {
+  "id": "bc09-q013",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "chloroplaste : organite de la photosynthèse",
+  "enonce": "Dans quel organite la photosynthèse a-t-elle lieu ?",
+  "propositions": [
+   "La mitochondrie",
+   "Le lysosome",
+   "Le noyau",
+   "Le chloroplaste"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "C’est un organite intracellulaire spécialisé.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 13
+  }
+ },
+ {
+  "id": "bc09-q014",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "photosynthèse dans les feuilles",
+  "enonce": "Où la photosynthèse se déroule-t-elle principalement dans la plante ?",
+  "propositions": [
+   "Dans les vacuoles",
+   "Dans les cellules des feuilles, au niveau des chloroplastes",
+   "Dans les graines",
+   "Dans les racines uniquement"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Le chloroplaste est composé d’un stroma et de grana.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 14
+  }
+ },
+ {
+  "id": "bc09-q015",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "stroma : liquide dense",
+  "enonce": "Qu’est-ce que le stroma d’un chloroplaste ?",
+  "propositions": [
+   "Un pigment vert",
+   "Une membrane du chloroplaste",
+   "Un liquide dense à l’intérieur du chloroplaste",
+   "Une pile de thylakoïdes"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Le granum est une pile de thylakoïdes.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 14
+  }
+ },
+ {
+  "id": "bc09-q016",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "thylakoïdes : chlorophylle",
+  "enonce": "Que contiennent les thylakoïdes ?",
+  "propositions": [
+   "Le glucose",
+   "L’ADN (acide désoxyribonucléique) du noyau",
+   "La chlorophylle",
+   "Les ribosomes uniquement"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "La chlorophylle est le pigment vert qui capture les rayonnements lumineux.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 14
+  }
+ },
+ {
+  "id": "bc09-q017",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "chlorophylle : pigment vert",
+  "enonce": "Quel est le pigment vert qui capture les rayonnements lumineux pour la photosynthèse ?",
+  "propositions": [
+   "L’hémoglobine",
+   "La chlorophylle",
+   "Le carotène seul",
+   "La mélanine"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Elle est contenue dans les thylakoïdes.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 14
+  }
+ },
+ {
+  "id": "bc09-q018",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "chloroplastes : famille des plastes",
+  "enonce": "À quelle famille les chloroplastes appartiennent-ils ?",
+  "propositions": [
+   "Les plastes",
+   "Les lysosomes",
+   "Les vacuoles",
+   "Les ribosomes"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Tous les plastes contiennent de multiples copies d’un même génome.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 16
+  }
+ },
+ {
+  "id": "bc09-q019",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "plastes : copies d’un petit génome",
+  "enonce": "Que contiennent tous les plastes ?",
+  "propositions": [
+   "Aucun matériel génétique",
+   "Un seul chromosome linéaire géant",
+   "De multiples copies d’un même génome relativement petit",
+   "Le génome complet de la cellule"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les plastes interviennent aussi dans le stockage de l’amidon.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 16
+  }
+ },
+ {
+  "id": "bc09-q020",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "chloroplaste : compartiment supplémentaire",
+  "enonce": "Par rapport à la mitochondrie, que possède de plus un chloroplaste ?",
+  "propositions": [
+   "Un compartiment supplémentaire : les thylakoïdes",
+   "Des crêtes",
+   "Une seule membrane",
+   "Un noyau"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Il ressemble à la mitochondrie.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc09-q021",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "membrane interne : stroma",
+  "enonce": "Que délimite la membrane interne du chloroplaste ?",
+  "propositions": [
+   "Le noyau",
+   "Les crêtes",
+   "Le stroma",
+   "La vacuole"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Le stroma est analogue à la matrice mitochondriale.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc09-q022",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "stroma analogue à la matrice",
+  "enonce": "À quoi le stroma est-il analogue ?",
+  "propositions": [
+   "À la lumière du réticulum endoplasmique",
+   "À la matrice mitochondriale",
+   "À l’espace intermembranaire",
+   "Au cytosol"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Il contient diverses enzymes, des ribosomes, de l’ARN (acide ribonucléique) et de l’ADN (acide désoxyribonucléique).",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc09-q023",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "contenu du stroma",
+  "enonce": "Que contient le stroma ?",
+  "propositions": [
+   "Des lysosomes",
+   "Diverses enzymes, des ribosomes, de l’ARN (acide ribonucléique) et de l’ADN (acide désoxyribonucléique)",
+   "Uniquement des lipides",
+   "Uniquement de la chlorophylle"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Le stroma est analogue à la matrice mitochondriale.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc09-q024",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "membrane interne sans crêtes",
+  "enonce": "La membrane interne du chloroplaste est-elle plissée en crêtes ?",
+  "propositions": [
+   "Oui, comme celle de la mitochondrie",
+   "Oui, mais sans chaîne de transport",
+   "Elle n’existe pas",
+   "Non, elle n’est pas plissée et ne contient pas de chaîne de transport d’électrons"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "La chaîne de transport est dans les thylakoïdes.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc09-q025",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "thylakoïdes : système photosynthétique et ATP synthase",
+  "enonce": "Où se trouvent le système photosynthétique, la chaîne de transport d’électrons et l’ATP (adénosine triphosphate) synthase ?",
+  "propositions": [
+   "Dans les thylakoïdes",
+   "Dans la membrane externe",
+   "Dans le stroma",
+   "Dans le cytosol"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Les thylakoïdes sont un compartiment supplémentaire.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc09-q026",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "deux réactions dans le chloroplaste",
+  "enonce": "Combien de réactions principales se déroulent dans le chloroplaste ?",
+  "propositions": [
+   "2",
+   "3",
+   "4",
+   "1"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "La réaction obscure et la réaction lumineuse.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 21
+  }
+ },
+ {
+  "id": "bc09-q027",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "réaction obscure",
+  "enonce": "Qu’est-ce que la « réaction obscure » ?",
+  "propositions": [
+   "La photolyse de l’eau",
+   "La conversion du CO₂ en glucide, qui se fait en l’absence de lumière",
+   "La respiration",
+   "La production d’ATP (adénosine triphosphate)"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "C’est la réaction de fixation du carbone.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 21
+  }
+ },
+ {
+  "id": "bc09-q028",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "fixation du carbone : ATP et NADPH",
+  "enonce": "De quoi la réaction de fixation du carbone a-t-elle besoin ?",
+  "propositions": [
+   "D’ADN (acide désoxyribonucléique) et d’ARN (acide ribonucléique)",
+   "D’ATP (adénosine triphosphate) et de transporteurs NADPH (nicotinamide adénine dinucléotide phosphate réduit)",
+   "D’O₂ et de glucose",
+   "Uniquement de lumière"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Elle fait intervenir le cycle de Calvin.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 21
+  }
+ },
+ {
+  "id": "bc09-q029",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "cycle de Calvin : fixation du carbone",
+  "enonce": "Quel cycle intervient dans la fixation du carbone ?",
+  "propositions": [
+   "Le cycle cellulaire",
+   "Le cycle de l’urée",
+   "Le cycle de Calvin",
+   "Le cycle de Krebs"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Il se déroule dans le stroma.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 21
+  }
+ },
+ {
+  "id": "bc09-q030",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "cycle de Calvin forme NADP oxydé et ADP",
+  "enonce": "Que forme le cycle de Calvin en plus du sucrose ?",
+  "propositions": [
+   "De l’ARN (acide ribonucléique)",
+   "Des H⁺",
+   "De l’O₂",
+   "Le transporteur NADP oxydé et de l’ADP (adénosine diphosphate)"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les transporteurs oxydés retournent aux réactions lumineuses.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 21
+  }
+ },
+ {
+  "id": "bc09-q031",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "réaction lumineuse : production d’ATP",
+  "enonce": "Qu’est-ce que la « réaction lumineuse » ?",
+  "propositions": [
+   "La glycolyse",
+   "La fixation du CO₂",
+   "Le cycle de Calvin",
+   "La production d’ATP (adénosine triphosphate)"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Elle produit aussi du NADPH (nicotinamide adénine dinucléotide phosphate réduit).",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc09-q032",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "lumière active un électron de la chlorophylle",
+  "enonce": "Que fait l’énergie provenant de la lumière solaire dans la réaction lumineuse ?",
+  "propositions": [
+   "Elle active un ribosome",
+   "Elle active l’ADN (acide désoxyribonucléique)",
+   "Elle active un électron de la chlorophylle",
+   "Elle active le stroma"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Cet électron se déplace le long d’une chaîne de transport.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc09-q033",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "chaîne dans la membrane du thylakoïde",
+  "enonce": "Où se situe la chaîne de transport d’électrons de la réaction lumineuse ?",
+  "propositions": [
+   "Dans le stroma",
+   "Dans la membrane du thylakoïde",
+   "Dans la membrane externe",
+   "Dans le cytosol"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Comme la chaîne respiratoire dans la mitochondrie.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc09-q034",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "la chlorophylle prend ses électrons à l’eau",
+  "enonce": "D’où la chlorophylle prend-elle ses électrons ?",
+  "propositions": [
+   "Du CO₂",
+   "De l’O₂",
+   "Du glucose",
+   "De l’eau"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Cela libère de l’O₂.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc09-q035",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "photolyse : libération d’O₂",
+  "enonce": "Quel gaz est libéré lorsque la chlorophylle prend ses électrons à l’eau ?",
+  "propositions": [
+   "L’azote",
+   "Le CO₂ (dioxyde de carbone)",
+   "L’hydrogène",
+   "L’O₂ (dioxygène)"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Le gaz O₂ est le déchet de la photosynthèse.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc09-q036",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "force protonique",
+  "enonce": "Que crée le pompage des H⁺ (protons) à travers la membrane du thylakoïde ?",
+  "propositions": [
+   "Un gradient d’électrons",
+   "Une force protonique",
+   "Un potentiel osmotique",
+   "Un champ magnétique"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Elle active la synthèse d’énergie dans le stroma.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc09-q037",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "synthèse d’ATP dans le stroma",
+  "enonce": "Où la synthèse d’ATP (adénosine triphosphate) est-elle activée par la force protonique ?",
+  "propositions": [
+   "Dans le stroma",
+   "Dans le thylakoïde",
+   "Dans le noyau",
+   "Dans le cytosol"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "La force protonique active la synthèse dans le stroma.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc09-q038",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "oxydo-réduction",
+  "enonce": "La photosynthèse est :",
+  "propositions": [
+   "une glycosylation",
+   "une phosphorylation seule",
+   "une hydrolyse",
+   "un processus d’oxydo-réduction, comme la respiration cellulaire"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Des molécules d’eau sont scindées.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 27
+  }
+ },
+ {
+  "id": "bc09-q039",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "électrons et H+ transférés au CO2",
+  "enonce": "Que deviennent les électrons et les H⁺ issus de l’eau ?",
+  "propositions": [
+   "Ils sont transférés au CO₂, ce qui permet la production de sucre",
+   "Ils sont transférés à l’O₂",
+   "Ils sont perdus",
+   "Ils sont fixés au noyau"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Il ne reste que du gaz O₂.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 27
+  }
+ },
+ {
+  "id": "bc09-q040",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "phase lumineuse : énergie solaire → chimique",
+  "enonce": "Que convertit la phase lumineuse ?",
+  "propositions": [
+   "L’énergie chimique en chaleur",
+   "L’énergie solaire en énergie chimique",
+   "L’énergie chimique en énergie solaire",
+   "L’énergie thermique en énergie mécanique"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les radiations visibles conduisent ces réactions photochimiques.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 28
+  }
+ },
+ {
+  "id": "bc09-q041",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "pigments : rouge et bleu",
+  "enonce": "Quelles couleurs les pigments des chloroplastes absorbent-ils principalement ?",
+  "propositions": [
+   "L’infrarouge",
+   "Le vert",
+   "Le rouge et le bleu",
+   "Le jaune"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Ce sont les couleurs les plus favorables à la photosynthèse.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 29
+  }
+ },
+ {
+  "id": "bc09-q042",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "feuilles vertes : lumière verte diffusée",
+  "enonce": "Pourquoi les feuilles paraissent-elles vertes ?",
+  "propositions": [
+   "Les pigments diffusent la majeure partie de la lumière verte",
+   "Le stroma est vert",
+   "L’eau colore les feuilles",
+   "Les pigments absorbent surtout le vert"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Ils absorbent surtout le rouge et le bleu.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 29
+  }
+ },
+ {
+  "id": "bc09-q043",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "photosystèmes",
+  "enonce": "Que sont les photosystèmes ?",
+  "propositions": [
+   "Des complexes moléculaires capteurs de lumière situés dans la membrane des thylakoïdes",
+   "Des vacuoles",
+   "Des ribosomes",
+   "Des lysosomes"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "La photosynthèse requiert un système photosynthétique complexe.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 31
+  }
+ },
+ {
+  "id": "bc09-q044",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "deux composantes du système photosynthétique",
+  "enonce": "De quelles deux composantes un système photosynthétique est-il formé ?",
+  "propositions": [
+   "Un centre réactionnel photochimique et un complexe d’antennes",
+   "Un tonoplaste et une paroi",
+   "Un noyau et un nucléole",
+   "Un stroma et un granum"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Les deux composantes sont étroitement liées.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 31
+  }
+ },
+ {
+  "id": "bc09-q045",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "centre réactionnel : protéines et chlorophylle",
+  "enonce": "De quoi le centre réactionnel photochimique est-il constitué ?",
+  "propositions": [
+   "D’ADN (acide désoxyribonucléique)",
+   "De lipides seuls",
+   "De glucides seuls",
+   "D’un complexe de protéines et de molécules de chlorophylle"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Il convertit l’énergie lumineuse en énergie chimique.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 31
+  }
+ },
+ {
+  "id": "bc09-q046",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "accepteur primaire d’électrons",
+  "enonce": "Que recueille l’accepteur primaire d’électrons ?",
+  "propositions": [
+   "L’O₂",
+   "Le CO₂",
+   "Le NADPH (nicotinamide adénine dinucléotide phosphate réduit)",
+   "L’électron excité de la chlorophylle a"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "L’électron est recueilli avant son retour à l’état fondamental.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 31
+  }
+ },
+ {
+  "id": "bc09-q047",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "antenne photoréceptrice",
+  "enonce": "Que contient l’antenne photoréceptrice ?",
+  "propositions": [
+   "Un noyau",
+   "Plusieurs centaines de molécules de chlorophylle a, de chlorophylle b et de caroténoïdes",
+   "Un lysosome",
+   "Un seul pigment"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "L’antenne capte l’énergie lumineuse.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 31
+  }
+ },
+ {
+  "id": "bc09-q048",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "complexe d’antennes : entonnoir",
+  "enonce": "Quel rôle les complexes d’antennes jouent-ils ?",
+  "propositions": [
+   "Ils recueillent l’énergie lumineuse et la dirigent vers le centre réactionnel, comme un entonnoir",
+   "Ils fixent le CO₂",
+   "Ils produisent l’O₂",
+   "Ils synthétisent le NADPH (nicotinamide adénine dinucléotide phosphate réduit)"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Le centre réactionnel convertit cette énergie.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 31
+  }
+ },
+ {
+  "id": "bc09-q049",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "deux photosystèmes",
+  "enonce": "Combien de photosystèmes la photosynthèse des végétaux utilise-t-elle ?",
+  "propositions": [
+   "4",
+   "2 : le photosystème II puis le photosystème I",
+   "Un seul",
+   "3"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Elle produit directement de l’ATP (adénosine triphosphate) et du NADPH (nicotinamide adénine dinucléotide phosphate réduit).",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 33
+  }
+ },
+ {
+  "id": "bc09-q050",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "photolyse de l’eau",
+  "enonce": "Que libère la photolyse de l’eau ?",
+  "propositions": [
+   "Des électrons, des H⁺ et de l’O₂",
+   "Du NADPH (nicotinamide adénine dinucléotide phosphate réduit)",
+   "Du glucose",
+   "Du CO₂"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Les électrons proviennent de l’eau.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 34
+  }
+ },
+ {
+  "id": "bc09-q051",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "H+ diffusent par les ATP synthétases",
+  "enonce": "Comment les H⁺ retournent-ils dans leur site initial ?",
+  "propositions": [
+   "Par transport actif par une pompe",
+   "En diffusant à travers les ATP (adénosine triphosphate) synthétases",
+   "Par les aquaporines",
+   "Par des vésicules"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Ce passage alimente la synthèse d’ATP.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 35
+  }
+ },
+ {
+  "id": "bc09-q052",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "protons + NADP+ → NADPH",
+  "enonce": "Avec quoi les protons se combinent-ils dans le stroma ?",
+  "propositions": [
+   "Avec le CO₂",
+   "Avec le NADP⁺ pour former du NADPH (nicotinamide adénine dinucléotide phosphate réduit)",
+   "Avec l’O₂",
+   "Avec l’ADP (adénosine diphosphate)"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Cela a lieu dans le stroma.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 35
+  }
+ },
+ {
+  "id": "bc09-q053",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "Calvin : stroma",
+  "enonce": "Où le cycle de Calvin se produit-il ?",
+  "propositions": [
+   "Dans le stroma du chloroplaste",
+   "Dans l’espace intermembranaire",
+   "Dans la matrice mitochondriale",
+   "Dans la membrane des thylakoïdes"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "C’est le lieu où le carbone se fixe et où les sucres sont fabriqués.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 37
+  }
+ },
+ {
+  "id": "bc09-q054",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "produit du cycle de Calvin : sucre à 3 carbones",
+  "enonce": "Que produit directement le cycle de Calvin ?",
+  "propositions": [
+   "De l’amidon",
+   "De l’O₂",
+   "Un sucre à 3 carbones : le phosphoglycéraldéhyde",
+   "Du glucose"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Il ne produit pas de glucose directement.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 37
+  }
+ },
+ {
+  "id": "bc09-q055",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "3 CO₂ pour un G3P",
+  "enonce": "Combien de CO₂ faut-il fixer pour synthétiser une molécule de G3P (glycéraldéhyde-3-phosphate) ?",
+  "propositions": [
+   "1",
+   "12",
+   "6",
+   "3, donc le cycle se déroule trois fois"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Le cycle doit fixer trois moles de CO₂ pour une mole de G3P.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 38
+  }
+ },
+ {
+  "id": "bc09-q056",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "devenir du G3P",
+  "enonce": "Que devient le G3P (glycéraldéhyde-3-phosphate) issu du cycle de Calvin ?",
+  "propositions": [
+   "La matière première de voies métaboliques qui synthétisent d’autres composés organiques, dont différents glucides",
+   "Un pigment",
+   "Une enzyme",
+   "Un gaz libéré"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Il ne s’agit pas de glucose directement.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 38
+  }
+ },
+ {
+  "id": "bc09-q057",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "rubisco",
+  "enonce": "Quelle enzyme catalyse la fixation du CO₂ dans le cycle de Calvin ?",
+  "propositions": [
+   "L’ATP (adénosine triphosphate) synthase",
+   "La kinésine",
+   "La rubisco",
+   "La catalase"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "3 molécules de CO₂ sont fixées.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 40
+  }
+ },
+ {
+  "id": "bc09-q058",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "ordre",
+  "fait": "première étape du cycle de Calvin",
+  "enonce": "Quelle est la première étape du cycle de Calvin ?",
+  "propositions": [
+   "La fixation du carbone",
+   "La libération du G3P (glycéraldéhyde-3-phosphate)",
+   "La régénération du RuBP (ribulose-1,5-bisphosphate)",
+   "La photolyse de l’eau"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Étape 1 : fixation du carbone.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 40
+  }
+ },
+ {
+  "id": "bc09-q059",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "ordre",
+  "fait": "dernière étape du cycle de Calvin",
+  "enonce": "Quelle est la dernière étape du cycle de Calvin ?",
+  "propositions": [
+   "La régénération du RuBP (ribulose-1,5-bisphosphate)",
+   "La libération de G3P (glycéraldéhyde-3-phosphate)",
+   "La fixation du carbone",
+   "La consommation d’énergie et la réaction redox"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Étape 4 : régénération du RuBP.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 40
+  }
+ },
+ {
+  "id": "bc09-q060",
+  "chapitre": "bc09",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "énergie du cycle de Calvin",
+  "enonce": "Quelle énergie le cycle de Calvin utilise-t-il ?",
+  "propositions": [
+   "La lumière directement",
+   "Le glucose",
+   "L’énergie de l’ATP (adénosine triphosphate) et les électrons du NADPH (nicotinamide adénine dinucléotide phosphate réduit)",
+   "L’O₂ uniquement"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Ils fournissent l’énergie pour la synthèse des glucides.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 37
+  }
+ },
+ {
+  "id": "bc09-q061",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "importance de la lumière",
+  "enonce": "Parmi ces affirmations sur la lumière et la photosynthèse, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La lumière est l’élément le plus important pour la vie d’une plante.",
+   "La photosynthèse fournit de la nourriture à tous les organismes vivants.",
+   "Les cellules végétales convertissent la lumière en signal chimique.",
+   "La photosynthèse ne concerne pas la biosphère."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "La photosynthèse est le processus chimique le plus important sur Terre.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc09-q062",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "lumière et architecture de la plante",
+  "enonce": "Parmi ces affirmations sur l’effet de la lumière sur une plante, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Une lumière faible donne des feuilles vert foncé.",
+   "Les caroténoïdes aident à éviter les dommages d’un excès de lumière.",
+   "Une lumière adéquate donne des plantes souvent touffues.",
+   "Sans assez de lumière, les plantes s’étiolent.",
+   "Trop de soleil peut être nocif."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explication": "Les chloroplastes aident aussi à éviter les dommages.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc09-q063",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "définition de la photosynthèse",
+  "enonce": "Quelles affirmations sur la photosynthèse sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle est réalisée par des organismes autotrophes.",
+   "Elle utilise du dioxyde de carbone et de l’eau.",
+   "Elle produit des sucres et de l’oxygène.",
+   "Elle consomme de l’oxygène.",
+   "Elle utilise l’énergie lumineuse."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "Elle est réalisée par des organismes autotrophes.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 6
+  }
+ },
+ {
+  "id": "bc09-q064",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "équation et réactifs",
+  "enonce": "Parmi ces affirmations sur la photosynthèse, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle utilise les électrons de l’eau.",
+   "Elle libère du CO₂.",
+   "Elle libère de l’O₂.",
+   "Elle convertit le CO₂ atmosphérique en composés organiques.",
+   "Elle utilise la lumière solaire."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explication": "L’équation est CO₂ + H₂O → O₂ + composés organiques (CH₂O)n.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc09-q065",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "identification",
+  "fait": "autotrophes photosynthétiques",
+  "enonce": "Quels organismes sont autotrophes photosynthétiques ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les animaux",
+   "Les cyanobactéries",
+   "Les plantes",
+   "Certains protistes",
+   "Les champignons"
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "Les autotrophes sont les producteurs de la biosphère.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 8
+  }
+ },
+ {
+  "id": "bc09-q066",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "cellule végétale : différences avec la cellule animale",
+  "enonce": "Quelles affirmations sur la cellule végétale sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle n’a pas de noyau.",
+   "Elle est proche de la cellule animale.",
+   "Elle diffère par les plastes.",
+   "Elle diffère par la paroi cellulaire.",
+   "Elle diffère par l’appareil vacuolaire."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explication": "Les plastes permettent d’utiliser la lumière comme source d’énergie.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 11
+  }
+ },
+ {
+  "id": "bc09-q067",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "chloroplaste : organite de la photosynthèse",
+  "enonce": "Parmi ces affirmations sur le chloroplaste, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La photosynthèse est réalisée dans la mitochondrie.",
+   "Selon le cours, l’O₂ est utilisé par les chloroplastes pour la phosphorylation oxydative.",
+   "Le chloroplaste est un organite intracellulaire spécialisé.",
+   "La photosynthèse est réalisée dans le chloroplaste."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "La phosphorylation oxydative correspond à la synthèse d’énergie.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 13
+  }
+ },
+ {
+  "id": "bc09-q068",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "composition du chloroplaste",
+  "enonce": "Parmi ces affirmations sur le chloroplaste, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La chlorophylle est le pigment vert qui capture les rayonnements lumineux.",
+   "Le granum est une pile de thylakoïdes.",
+   "Le stroma est une pile de thylakoïdes.",
+   "Les thylakoïdes contiennent la chlorophylle.",
+   "Le stroma est un liquide dense."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "La photosynthèse se déroule dans les cellules des feuilles.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 14
+  }
+ },
+ {
+  "id": "bc09-q069",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "plastes",
+  "enonce": "Parmi ces affirmations sur les plastes, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Tous les plastes contiennent de multiples copies d’un même génome relativement petit.",
+   "Les chloroplastes appartiennent à la famille des plastes.",
+   "Les plastes interviennent dans le stockage de l’amidon.",
+   "Les plastes interviennent dans la biosynthèse de la plupart des acides aminés.",
+   "Les plastes ne servent qu’à la photosynthèse."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explication": "Ils interviennent aussi dans la biosynthèse des bases puriques et pyrimidiques.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 16
+  }
+ },
+ {
+  "id": "bc09-q070",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "autres fonctions des plastes",
+  "enonce": "Quelles fonctions les plastes peuvent-ils assurer en plus de la photosynthèse ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La digestion intracellulaire",
+   "La biosynthèse de la plupart des acides aminés",
+   "La biosynthèse des bases puriques et pyrimidiques",
+   "Le stockage de l’amidon",
+   "La contraction"
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "Les plastes ne sont pas seulement le siège de la photosynthèse.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 16
+  }
+ },
+ {
+  "id": "bc09-q071",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "chloroplaste et mitochondrie",
+  "enonce": "Quelles comparaisons chloroplaste – mitochondrie sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Le stroma est analogue à la matrice mitochondriale.",
+   "Le chloroplaste n’a qu’une membrane.",
+   "Le chloroplaste a un compartiment supplémentaire : les thylakoïdes.",
+   "La membrane interne du chloroplaste n’est pas plissée en crêtes.",
+   "La membrane interne du chloroplaste est plissée en crêtes."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3
+  ],
+  "explication": "Les chloroplastes ressemblent aux mitochondries.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc09-q072",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "enveloppe du chloroplaste",
+  "enonce": "Parmi ces affirmations sur l’enveloppe du chloroplaste, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle contient des protéines de transport particulières.",
+   "La membrane interne entoure le stroma.",
+   "La membrane externe est très perméable.",
+   "L’espace intermembranaire est étroit.",
+   "La membrane interne contient la chaîne de transport d’électrons."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explication": "La chaîne de transport est dans les thylakoïdes.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc09-q073",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "contenu du stroma",
+  "enonce": "Parmi ces affirmations sur le stroma, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il contient de l’ADN (acide désoxyribonucléique).",
+   "Il est dépourvu d’enzymes.",
+   "Il contient diverses enzymes.",
+   "Il contient de l’ARN (acide ribonucléique).",
+   "Il contient des ribosomes."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explication": "Le stroma est analogue à la matrice mitochondriale.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc09-q074",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "contenu des thylakoïdes",
+  "enonce": "Que contiennent les thylakoïdes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La chaîne de transport d’électrons",
+   "Le système photosynthétique",
+   "L’ATP (adénosine triphosphate) synthase",
+   "Les crêtes",
+   "Le cycle de Calvin"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "Ce sont un compartiment supplémentaire par rapport à la mitochondrie.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 19
+  }
+ },
+ {
+  "id": "bc09-q075",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "réaction obscure et réaction lumineuse",
+  "enonce": "Quelles associations réaction – description sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Réaction lumineuse : production d’ATP (adénosine triphosphate)",
+   "Réaction obscure : se fait en l’absence de lumière",
+   "Réaction obscure : conversion du CO₂ en glucide",
+   "Réaction obscure : production d’ATP (adénosine triphosphate)",
+   "Réaction lumineuse : fixation du carbone"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "Il existe 2 réactions dans le chloroplaste.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 21
+  }
+ },
+ {
+  "id": "bc09-q076",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "fixation du carbone",
+  "enonce": "Parmi ces affirmations sur la fixation du carbone, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle nécessite des transporteurs NADPH (nicotinamide adénine dinucléotide phosphate réduit).",
+   "Elle nécessite de l’ATP (adénosine triphosphate).",
+   "Elle forme de l’O₂.",
+   "Elle forme du sucrose.",
+   "Elle fait intervenir le cycle de Calvin."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "Elle forme aussi du transporteur NADP oxydé et de l’ADP (adénosine diphosphate).",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 21
+  }
+ },
+ {
+  "id": "bc09-q077",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "ordre",
+  "fait": "étapes de la réaction lumineuse",
+  "enonce": "Quelles étapes de la réaction lumineuse sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "L’électron se déplace le long d’une chaîne de transport d’électrons.",
+   "La lumière active un électron de la chlorophylle.",
+   "L’O₂ est libéré.",
+   "Le CO₂ est libéré à la place de l’O₂.",
+   "La chlorophylle prend ses électrons à l’eau."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "Le transport d’électrons pompe des H⁺.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc09-q078",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "chaîne de transport et force protonique",
+  "enonce": "Parmi ces affirmations sur la réaction lumineuse, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Le transport d’électrons pompe des H⁺ à travers la membrane.",
+   "La force protonique active la synthèse d’ATP (adénosine triphosphate) dans le stroma.",
+   "La chaîne de transport d’électrons est située dans la membrane du thylakoïde.",
+   "La chaîne de transport d’électrons est située dans le stroma."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "La force protonique active la synthèse dans le stroma.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc09-q079",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "ressemblances avec la respiration",
+  "enonce": "Quelles ressemblances avec la respiration cellulaire sont citées dans le cours ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Le CO₂ est produit.",
+   "La synthèse d’ATP (adénosine triphosphate) est activée par un gradient de protons.",
+   "L’électron se déplace le long d’une chaîne de transport d’électrons.",
+   "La lumière est nécessaire."
+  ],
+  "bonnes": [
+   1,
+   2
+  ],
+  "explication": "Les deux processus sont des oxydo-réductions.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc09-q080",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "oxydo-réduction de la photosynthèse",
+  "enonce": "Parmi ces affirmations sur l’oxydo-réduction, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Des molécules d’eau sont scindées.",
+   "Il ne reste que du gaz O₂ après l’élimination des électrons et H⁺.",
+   "Les électrons et H⁺ sont transférés au CO₂.",
+   "La photosynthèse est un processus d’oxydo-réduction.",
+   "Le CO₂ est oxydé."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explication": "Le transfert permet la production de sucre.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 27
+  }
+ },
+ {
+  "id": "bc09-q081",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "pigments et lumière verte",
+  "enonce": "Parmi ces affirmations sur les pigments, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ce sont les couleurs les plus favorables à la photosynthèse.",
+   "Ils absorbent principalement le vert.",
+   "Ils diffusent la majeure partie de la lumière verte.",
+   "Les pigments absorbent principalement le rouge et le bleu."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3
+  ],
+  "explication": "D’où la couleur verte des feuilles.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 29
+  }
+ },
+ {
+  "id": "bc09-q082",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "phase lumineuse",
+  "enonce": "Quelles affirmations sur la phase lumineuse sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les radiations visibles conduisent ces réactions photochimiques.",
+   "Certaines longueurs d’onde du rayonnement visible mènent ces réactions.",
+   "Elle convertit l’énergie chimique en énergie solaire.",
+   "Elle convertit l’énergie solaire en énergie chimique."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3
+  ],
+  "explication": "Les pigments absorbent surtout le rouge et le bleu.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 28
+  }
+ },
+ {
+  "id": "bc09-q083",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "photosystèmes : composition",
+  "enonce": "Parmi ces affirmations sur les photosystèmes, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ils comprennent un centre réactionnel photochimique et un complexe d’antennes.",
+   "Ils sont dans la membrane des thylakoïdes.",
+   "Ils sont dans le stroma.",
+   "Ils sont dans la membrane externe.",
+   "Ce sont des complexes capteurs de lumière."
+  ],
+  "bonnes": [
+   0,
+   1,
+   4
+  ],
+  "explication": "Les deux composantes sont étroitement liées.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 31
+  }
+ },
+ {
+  "id": "bc09-q084",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "centre réactionnel",
+  "enonce": "Parmi ces affirmations sur le centre réactionnel photochimique, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "L’accepteur primaire d’électrons forme le centre avec la chlorophylle a.",
+   "Il est constitué de lipides uniquement.",
+   "Il est constitué d’un complexe de protéines et de molécules de chlorophylle.",
+   "Il convertit l’énergie lumineuse en énergie chimique."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3
+  ],
+  "explication": "C’est le principe de la photosynthèse.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 31
+  }
+ },
+ {
+  "id": "bc09-q085",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "complexe d’antennes",
+  "enonce": "Parmi ces affirmations sur le complexe d’antennes, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle fixe le CO₂.",
+   "L’antenne est un amas de plusieurs centaines de molécules de pigments.",
+   "Elle agit comme un entonnoir.",
+   "Elle dirige l’énergie lumineuse vers le centre réactionnel.",
+   "Elle comprend de la chlorophylle a, de la chlorophylle b et des caroténoïdes."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explication": "Le centre réactionnel convertit ensuite cette énergie.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 31
+  }
+ },
+ {
+  "id": "bc09-q086",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "électron excité de la chlorophylle a",
+  "enonce": "Un électron de la chlorophylle a est excité par la lumière. Quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il est recueilli par le stroma.",
+   "Il est transféré à l’ADN (acide désoxyribonucléique).",
+   "Il accède à un niveau d’énergie supérieur.",
+   "Il est recueilli par l’accepteur primaire d’électrons.",
+   "Cet événement est une réaction d’oxydoréduction."
+  ],
+  "bonnes": [
+   2,
+   3,
+   4
+  ],
+  "explication": "L’électron est recueilli avant son retour à l’état fondamental.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 31
+  }
+ },
+ {
+  "id": "bc09-q087",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "photosystèmes des végétaux",
+  "enonce": "Quelles affirmations sur les photosystèmes des végétaux sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ils produisent directement de l’ATP (adénosine triphosphate) et du NADPH (nicotinamide adénine dinucléotide phosphate réduit).",
+   "Il y en a 2 : photosystème II puis photosystème I.",
+   "Ils produisent du glucose directement.",
+   "Il n’y en a qu’un."
+  ],
+  "bonnes": [
+   0,
+   1
+  ],
+  "explication": "Ils sont situés dans la membrane des thylakoïdes.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 33
+  }
+ },
+ {
+  "id": "bc09-q088",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "chimiosmose",
+  "enonce": "Parmi ces affirmations sur la chimiosmose, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Dans le stroma, les protons se combinent avec le NADP⁺ pour former du NADPH (nicotinamide adénine dinucléotide phosphate réduit).",
+   "La pompe à protons est dans la membrane des thylakoïdes.",
+   "Les H⁺ s’accumulent dans le stroma.",
+   "Elle produit de l’ATP (adénosine triphosphate) dans les réactions photochimiques.",
+   "Les H⁺ retournent en diffusant à travers les ATP (adénosine triphosphate) synthétases."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "Les photosystèmes et la chaîne de transporteurs sont dans la membrane des thylakoïdes.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 35
+  }
+ },
+ {
+  "id": "bc09-q089",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "cycle de Calvin : lieu et énergie",
+  "enonce": "Parmi ces affirmations sur le cycle de Calvin, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il se produit dans la membrane des thylakoïdes.",
+   "Il se produit dans le stroma.",
+   "C’est le lieu où les sucres sont fabriqués.",
+   "Il utilise l’ATP (adénosine triphosphate) et le NADPH (nicotinamide adénine dinucléotide phosphate réduit).",
+   "C’est le lieu où le carbone se fixe."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explication": "Il convertit du CO₂ en glucide.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 37
+  }
+ },
+ {
+  "id": "bc09-q090",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "produit du cycle de Calvin",
+  "enonce": "Parmi ces affirmations sur le produit du cycle de Calvin, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il produit un sucre à 3 carbones.",
+   "Il ne produit pas de glucose.",
+   "Il produit directement de l’amidon.",
+   "Ce sucre est le phosphoglycéraldéhyde."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3
+  ],
+  "explication": "Ce sucre devient la matière première d’autres composés organiques.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 37
+  }
+ },
+ {
+  "id": "bc09-q091",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "matières utilisées par le cycle de Calvin",
+  "enonce": "Quels éléments le cycle de Calvin utilise-t-il pour produire du G3P (glycéraldéhyde-3-phosphate) ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Le carbone du CO₂ atmosphérique",
+   "L’énergie de l’ATP (adénosine triphosphate)",
+   "L’énergie directe de la lumière",
+   "L’O₂",
+   "Les électrons et H⁺ du NADPH (nicotinamide adénine dinucléotide phosphate réduit)"
+  ],
+  "bonnes": [
+   0,
+   1,
+   4
+  ],
+  "explication": "Le cycle se déroule dans le stroma.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 38
+  }
+ },
+ {
+  "id": "bc09-q092",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "3 CO₂ fixés",
+  "enonce": "Le cycle de Calvin fixe 3 molécules de CO₂. Quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Le G3P (glycéraldéhyde-3-phosphate) sert de matière première à d’autres composés organiques.",
+   "Il en résulte une molécule de G3P (glycéraldéhyde-3-phosphate).",
+   "Il en résulte 3 molécules de glucose.",
+   "Le cycle se déroule trois fois.",
+   "Aucune molécule n’est formée."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3
+  ],
+  "explication": "Trois moles de CO₂ pour une mole de G3P.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 38
+  }
+ },
+ {
+  "id": "bc09-q093",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "ordre",
+  "fait": "quatre étapes du cycle de Calvin",
+  "enonce": "Quelles étapes du cycle de Calvin sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Étape 4 : régénération du RuBP (ribulose-1,5-bisphosphate)",
+   "Étape 2 : consommation d’énergie et réaction d’oxydoréduction",
+   "Étape 1 : fixation du carbone",
+   "Étape 1 : libération du G3P (glycéraldéhyde-3-phosphate)",
+   "Étape 3 : libération d’une molécule de G3P (glycéraldéhyde-3-phosphate)"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "Le schéma détaille quatre étapes.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 40
+  }
+ },
+ {
+  "id": "bc09-q094",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "cycle de Calvin : détails",
+  "enonce": "Parmi ces affirmations sur le cycle de Calvin détaillé, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La sortie est 1 molécule de G3P (glycéraldéhyde-3-phosphate).",
+   "3 molécules de CO₂ sont fixées.",
+   "La fixation est catalysée par l’ATP (adénosine triphosphate) synthase.",
+   "La fixation du carbone est catalysée par la rubisco."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3
+  ],
+  "explication": "Le RuBP (ribulose-1,5-bisphosphate) est régénéré à la fin du cycle.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 40
+  }
+ },
+ {
+  "id": "bc09-q095",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "localisation des processus",
+  "enonce": "Quelles associations processus – lieu sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Synthèse d’ATP (adénosine triphosphate) : stroma",
+   "Chaîne de transport d’électrons : membrane du thylakoïde",
+   "Cycle de Calvin : stroma",
+   "Chlorophylle : thylakoïdes",
+   "Cycle de Calvin : thylakoïdes"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explication": "La réaction lumineuse est dans les thylakoïdes, la réaction obscure dans le stroma.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 37
+  }
+ },
+ {
+  "id": "bc09-q096",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "entrées et sorties de la photosynthèse",
+  "enonce": "Quelles associations entrée – sortie de la photosynthèse sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Entrée : eau",
+   "Entrée : CO₂",
+   "Sortie : CO₂",
+   "Sortie : composés organiques",
+   "Sortie : O₂"
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "CO₂ + H₂O → O₂ + composés organiques.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc09-q097",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "mitochondrie et chloroplaste : points communs",
+  "enonce": "Quelles affirmations sur le chloroplaste et la mitochondrie sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les deux ont des crêtes.",
+   "Les deux ont un compartiment interne (matrice ou stroma).",
+   "Les deux sont limités par des membranes.",
+   "Le chloroplaste a un compartiment supplémentaire."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "Le chloroplaste ressemble à la mitochondrie mais a un compartiment supplémentaire.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc09-q098",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "chloroplaste éclairé",
+  "enonce": "On éclaire un chloroplaste isolé. Quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "De l’O₂ est libéré par la photolyse de l’eau.",
+   "La réaction lumineuse produit de l’ATP (adénosine triphosphate).",
+   "La chlorophylle capte la lumière.",
+   "Le cycle de Calvin se déroule dans le thylakoïde."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "Le cycle de Calvin se déroule dans le stroma.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc09-q099",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "plante étiolée",
+  "enonce": "Les feuilles d’une plante sont vert pâle et étiolées. Quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les feuilles absorbent surtout le vert.",
+   "La lumière est l’élément le plus important pour la vie d’une plante.",
+   "La plante a reçu une lumière adéquate.",
+   "La plante manque probablement de lumière."
+  ],
+  "bonnes": [
+   1,
+   3
+  ],
+  "explication": "Sans assez de lumière, les plantes s’étiolent.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc09-q100",
+  "chapitre": "bc09",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "feuille éclairée en lumière verte",
+  "enonce": "On éclaire une feuille avec de la lumière verte. Quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Le rouge et le bleu sont plus favorables à la photosynthèse.",
+   "La majeure partie de la lumière verte est diffusée.",
+   "La photosynthèse est maximale à cette couleur.",
+   "Les pigments absorbent principalement le vert."
+  ],
+  "bonnes": [
+   0,
+   1
+  ],
+  "explication": "D’où la couleur verte des feuilles.",
+  "source": {
+   "chapitre": "bc09",
+   "diapo": 29
+  }
+ }
+]

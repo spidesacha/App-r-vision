@@ -1,0 +1,122 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "Schéma à compléter",
+ "type": "object",
+ "required": [
+  "id",
+  "chapitre",
+  "titre",
+  "consigne",
+  "image",
+  "largeur",
+  "hauteur",
+  "zones",
+  "legendes",
+  "source"
+ ],
+ "properties": {
+  "id": {
+   "type": "string",
+   "pattern": "^b[cm]0[1-9]-s\\d{3}$"
+  },
+  "chapitre": {
+   "type": "string"
+  },
+  "statut": {
+   "enum": [
+    "exemple_non_calibre",
+    "calibre"
+   ]
+  },
+  "titre": {
+   "type": "string"
+  },
+  "consigne": {
+   "type": "string"
+  },
+  "image": {
+   "type": "string"
+  },
+  "largeur": {
+   "type": "integer"
+  },
+  "hauteur": {
+   "type": "integer"
+  },
+  "zones": {
+   "type": "array",
+   "minItems": 2,
+   "items": {
+    "type": "object",
+    "required": [
+     "id",
+     "mode",
+     "x",
+     "y",
+     "w",
+     "h",
+     "bonne_legende"
+    ],
+    "properties": {
+     "id": {
+      "type": "string"
+     },
+     "mode": {
+      "enum": [
+       "masque",
+       "cible"
+      ]
+     },
+     "x": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100
+     },
+     "y": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100
+     },
+     "w": {
+      "type": "number",
+      "exclusiveMinimum": 0,
+      "maximum": 100
+     },
+     "h": {
+      "type": "number",
+      "exclusiveMinimum": 0,
+      "maximum": 100
+     },
+     "bonne_legende": {
+      "type": "string"
+     }
+    }
+   }
+  },
+  "legendes": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   }
+  },
+  "explication": {
+   "type": "string"
+  },
+  "source": {
+   "type": "object",
+   "required": [
+    "chapitre",
+    "diapo"
+   ],
+   "properties": {
+    "chapitre": {
+     "type": "string"
+    },
+    "diapo": {
+     "type": "integer",
+     "minimum": 1
+    }
+   }
+  }
+ }
+}

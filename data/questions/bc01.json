@@ -1,0 +1,2320 @@
+[
+ {
+  "id": "bc01-q001",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "définition de la biologie cellulaire",
+  "enonce": "La biologie cellulaire (ou cytologie) étudie :",
+  "propositions": [
+   "les caractères morphologiques et fonctionnels des cellules",
+   "l’évolution des espèces",
+   "uniquement les tissus",
+   "uniquement les molécules organiques"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "La biologie cellulaire étudie les cellules, leurs organites, les processus vitaux (reproduction, métabolisme, homéostasie, communication) et la mort, programmée génétiquement.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc01-q002",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "la mort cellulaire est programmée",
+  "enonce": "Quelle caractéristique principale de la cellule vivante le cours ajoute-t-il à la reproduction, au métabolisme, à l’homéostasie et à la communication ?",
+  "propositions": [
+   "L’immortalité",
+   "La photosynthèse",
+   "La mort, programmée génétiquement",
+   "La fusion avec d’autres cellules"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "La mort cellulaire est programmée génétiquement.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc01-q003",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "trois groupes du vivant",
+  "enonce": "Quels sont les trois grands groupes du vivant ?",
+  "propositions": [
+   "Les eucaryotes, les eubactéries et les archaebactéries",
+   "Les procaryotes, les protistes et les champignons",
+   "Les bactéries, les archées et les algues",
+   "Les animaux, les végétaux et les virus"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Eubactéries et archaebactéries sont des procaryotes.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc01-q004",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "noyau eucaryote : sac à membrane semi-perméable renfermant les chromosomes",
+  "enonce": "Comment le cours décrit-il le noyau des eucaryotes ?",
+  "propositions": [
+   "Un petit sac entouré d’une membrane semi-perméable et renfermant les chromosomes",
+   "Un feutrage de filaments circulaires dans le cytoplasme",
+   "Un organite sans membrane contenant des ribosomes",
+   "Une structure simple, non entourée d’une membrane"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Les animaux (dont l’Homme), les plantes et les champignons sont des eucaryotes.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc01-q005",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "eubactérie = procaryote",
+  "enonce": "Lequel de ces êtres vivants est un procaryote ?",
+  "propositions": [
+   "Une plante",
+   "Un animal",
+   "Un champignon",
+   "Une eubactérie"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les eubactéries et les archaebactéries n’ont pas de vrai noyau : ce sont des procaryotes.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc01-q006",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "trois propriétés de la vie",
+  "enonce": "Quelles trois propriétés la « vie » doit-elle posséder, selon le cours ?",
+  "propositions": [
+   "Un cytosquelette, un métabolisme et une paroi",
+   "Une membrane, un noyau et la photosynthèse",
+   "Une membrane biologique sélective, un métabolisme et une information génétique",
+   "Un noyau, une paroi et des mitochondries"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Ces trois propriétés correspondent aux caractéristiques « ça mange », « ça croît » et « ça se reproduit ».",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc01-q007",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "la cellule est la plus petite unité du vivant",
+  "enonce": "Quelle est la plus petite unité élémentaire possédant une membrane sélective, un métabolisme et une information génétique ?",
+  "propositions": [
+   "Le ribosome",
+   "L’organite",
+   "La cellule",
+   "La molécule d’acide désoxyribonucléique"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "C’est la définition de la cellule donnée dans le cours.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc01-q008",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "organisme autotrophe : matière organique à partir d’éléments minéraux",
+  "enonce": "Quel est le mode de nutrition d’un organisme autotrophe ?",
+  "propositions": [
+   "Il digère ses voisins par phagocytose",
+   "Il se nourrit de matière organique d’autres organismes",
+   "Il fabrique sa propre matière organique à partir d’éléments minéraux",
+   "Il ne se nourrit pas"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Il utilise l’énergie lumineuse, par photosynthèse ou, chez quelques espèces, par chimiosynthèse.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 22
+  }
+ },
+ {
+  "id": "bc01-q009",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "énergie des autotrophes : photosynthèse ou chimiosynthèse",
+  "enonce": "Comment un organisme autotrophe obtient-il l’énergie nécessaire ?",
+  "propositions": [
+   "Uniquement par ingestion de proies",
+   "Par la respiration d’autres cellules",
+   "Par la lumière, grâce à la photosynthèse ou, chez quelques espèces, à la chimiosynthèse",
+   "Par endocytose de grosses vésicules"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Un organisme autotrophe génère sa propre matière organique à partir d’éléments minéraux.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 22
+  }
+ },
+ {
+  "id": "bc01-q010",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "organisme hétérotrophe",
+  "enonce": "Un organisme hétérotrophe :",
+  "propositions": [
+   "utilise pour se nourrir les matières organiques d’autres organismes",
+   "est toujours un procaryote",
+   "fabrique sa matière organique par photosynthèse",
+   "ne possède pas de métabolisme"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Les animaux et les champignons sont hétérotrophes.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 22
+  }
+ },
+ {
+  "id": "bc01-q011",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "anabolisme : synthèse consommant de l’énergie",
+  "enonce": "L’anabolisme est :",
+  "propositions": [
+   "la division de la cellule",
+   "le transport de molécules à travers la membrane",
+   "la synthèse de molécules grosses et complexes à partir de molécules simples, avec consommation d’énergie",
+   "la dégradation de molécules, qui libère de l’énergie"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "L’énergie vient notamment d’une réaction de catabolisme précédente.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 24
+  }
+ },
+ {
+  "id": "bc01-q012",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "catabolisme : dégradation exergonique",
+  "enonce": "Le catabolisme est :",
+  "propositions": [
+   "l’ensemble des réactions de dégradation moléculaire, exergoniques",
+   "une phase de la mitose",
+   "l’ensemble des réactions de synthèse",
+   "une réaction qui consomme toujours de l’énergie"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Catabolisme et anabolisme sont les deux composantes du métabolisme.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 25
+  }
+ },
+ {
+  "id": "bc01-q013",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "points communs à toutes les cellules",
+  "enonce": "Que partagent toutes les cellules actuelles, selon le cours ?",
+  "propositions": [
+   "Le même nombre de chromosomes",
+   "La même chimie de base et, apparemment, un ancêtre commun",
+   "Une paroi de peptidoglycane",
+   "La même apparence et la même fonction"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les cellules varient énormément en apparence et en fonction.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 32
+  }
+ },
+ {
+  "id": "bc01-q014",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "rôle des gènes",
+  "enonce": "Que fournissent les gènes aux cellules ?",
+  "propositions": [
+   "Les instructions commandant la forme, la fonction et le comportement complexe des cellules",
+   "Uniquement l’énergie",
+   "Uniquement la membrane",
+   "Les organites entiers"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Les gènes sont le support de l’information génétique.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 32
+  }
+ },
+ {
+  "id": "bc01-q015",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "propagation des cellules : mitose",
+  "enonce": "Quel processus permet aux cellules de se propager par elles-mêmes ?",
+  "propositions": [
+   "La différenciation cellulaire",
+   "La photosynthèse",
+   "La phagocytose",
+   "La mitose et la division cellulaire"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les cellules possèdent aussi un programme génétique et les moyens de l’utiliser.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 33
+  }
+ },
+ {
+  "id": "bc01-q016",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "procaryotes : mycoplasmes",
+  "enonce": "Quel groupe est classé parmi les procaryotes ?",
+  "propositions": [
+   "Les champignons",
+   "Les métazoaires",
+   "Les protistes",
+   "Les mycoplasmes"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "On classe parmi les procaryotes les bactéries, les mycoplasmes et les cyanophycées.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 36
+  }
+ },
+ {
+  "id": "bc01-q017",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "chromosome procaryote : un seul chromosome sans enveloppe",
+  "enonce": "Que dit-on du matériel génétique d’une cellule procaryote en interphase ?",
+  "propositions": [
+   "Un seul chromosome d’ADN (acide désoxyribonucléique), non séparé du cytoplasme par une enveloppe",
+   "Plusieurs chromosomes linéaires dans un noyau",
+   "Des chromosomes entourés d’une double enveloppe",
+   "Un chromosome d’acide ribonucléique dans le nucléole"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "En microscopie optique, après coloration, ce chromosome apparaît comme un fin granule : le nucléoïde.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 38
+  }
+ },
+ {
+  "id": "bc01-q018",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "nucléoïde = chromosome procaryote vu en microscopie optique",
+  "enonce": "Comment appelle-t-on le chromosome procaryote vu en microscopie optique après coloration ?",
+  "propositions": [
+   "Le mésosome",
+   "Le plasmide",
+   "Le nucléole",
+   "Le nucléoïde"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Il apparaît comme un fin granule.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 38
+  }
+ },
+ {
+  "id": "bc01-q019",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "E. coli : colibacille de l’intestin",
+  "enonce": "Quel procaryote le cours cite-t-il comme colibacille commun de l’intestin ?",
+  "propositions": [
+   "La paramécie",
+   "Le champignon",
+   "L’amibe",
+   "Escherichia coli"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "L’amibe et la paramécie sont des protistes, donc des eucaryotes.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 39
+  }
+ },
+ {
+  "id": "bc01-q020",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "paroi procaryote : 8 à 30 nm",
+  "enonce": "Quelle est l’épaisseur de la paroi d’une cellule procaryote ?",
+  "propositions": [
+   "8 à 30 µm",
+   "200 nm",
+   "8 à 30 nm",
+   "1 à 2 nm"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "La paroi complexe est toujours présente, sauf chez les mycoplasmes.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 41
+  }
+ },
+ {
+  "id": "bc01-q021",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "mycoplasmes sans paroi",
+  "enonce": "Chez quels procaryotes la paroi est-elle absente ?",
+  "propositions": [
+   "Les mycoplasmes",
+   "Les cyanophycées",
+   "Les colibacilles",
+   "Aucun : elle est toujours présente"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "La paroi est toujours présente, sauf chez les mycoplasmes.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 41
+  }
+ },
+ {
+  "id": "bc01-q022",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "capsule inconstante",
+  "enonce": "La capsule d’une cellule procaryote est :",
+  "propositions": [
+   "située sous la membrane plasmique",
+   "toujours présente",
+   "inconstante : parfois très mince (20 nm), parfois très épaisse",
+   "faite de cellulose"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Dans quelques espèces, elle est très épaisse et noie la cellule dans du mucus (zooglie).",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 41
+  }
+ },
+ {
+  "id": "bc01-q023",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "pilis : adhérence",
+  "enonce": "À quoi servent les pilis (ou poils) d’une cellule procaryote ?",
+  "propositions": [
+   "Au mouvement",
+   "À la digestion intracellulaire",
+   "À l’adhérence",
+   "À la photosynthèse"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les cils ou flagelles servent au mouvement.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 41
+  }
+ },
+ {
+  "id": "bc01-q024",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "cils et flagelles : mouvement",
+  "enonce": "Quelles structures permettent le mouvement des procaryotes ?",
+  "propositions": [
+   "Des pilis",
+   "Des mésosomes",
+   "Des polyribosomes",
+   "Des cils ou flagelles"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les pilis servent à l’adhérence.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 41
+  }
+ },
+ {
+  "id": "bc01-q025",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "mésosome : invagination reliée à l’ADN circulaire",
+  "enonce": "Qu’est-ce qu’un mésosome ?",
+  "propositions": [
+   "Une invagination de la membrane plasmique, qui s’attache à l’ADN (acide désoxyribonucléique) circulaire",
+   "Un organite entouré de deux membranes",
+   "Une réserve cytoplasmique",
+   "Un amas de ribosomes"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Les mésosomes pénètrent parfois profondément dans le cytoplasme bactérien.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 42
+  }
+ },
+ {
+  "id": "bc01-q026",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "polyribosomes",
+  "enonce": "Comment les ribosomes sont-ils organisés chez les procaryotes ?",
+  "propositions": [
+   "Enfermés dans un nucléole",
+   "Accolés à un réticulum endoplasmique",
+   "Libres, jamais en amas",
+   "Groupés en amas appelés polyribosomes"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Le cytoplasme est homogène ou granuleux, limité par la membrane plasmique.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 42
+  }
+ },
+ {
+  "id": "bc01-q027",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "ADN circulaire : environ 1 mm",
+  "enonce": "Quelle est la longueur approximative du filament d’ADN (acide désoxyribonucléique) circulaire d’un nucléoïde ?",
+  "propositions": [
+   "Environ 1 nm",
+   "Environ 1 mm",
+   "Environ 1 m",
+   "Environ 1 µm"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Le feutrage est formé d’un filament d’ADN replié sur lui-même, en boucle fermée.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 43
+  }
+ },
+ {
+  "id": "bc01-q028",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "ADN circulaire : boucle fermée",
+  "enonce": "Que forme le filament d’ADN (acide désoxyribonucléique) d’un nucléoïde ?",
+  "propositions": [
+   "Une boucle fermée, d’où le terme d’ADN « circulaire »",
+   "Plusieurs boucles séparées par une enveloppe",
+   "Un fragment enfermé dans un noyau",
+   "Une double hélice linéaire enroulée sur des histones"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Chaque filament d’ADN correspond à un chromosome.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 43
+  }
+ },
+ {
+  "id": "bc01-q029",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "nucléoïde sans enveloppe nucléaire",
+  "enonce": "Que dit-on des nucléoïdes ?",
+  "propositions": [
+   "Ils sont dépourvus d’acide désoxyribonucléique",
+   "Ils contiennent des histones",
+   "Ils ne sont pas délimités par une enveloppe nucléaire",
+   "Ils sont entourés d’une double membrane"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Ils sont remplis d’un feutrage de filaments de 3 à 8 nm de diamètre.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 43
+  }
+ },
+ {
+  "id": "bc01-q030",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "métazoaires : multicellulaires, eucaryotes, hétérotrophes",
+  "enonce": "Les métazoaires sont :",
+  "propositions": [
+   "multicellulaires, eucaryotes et hétérotrophes",
+   "unicellulaires, eucaryotes et autotrophes",
+   "unicellulaires, procaryotes et autotrophes",
+   "multicellulaires, procaryotes et hétérotrophes"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Le groupe désigne les animaux ; leurs cellules forment des tissus.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 48
+  }
+ },
+ {
+  "id": "bc01-q031",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "cytoplasme = cytosol + organites",
+  "enonce": "Que désigne le cytoplasme ?",
+  "propositions": [
+   "Le cytoplasme et le noyau",
+   "Le cytosol seul",
+   "L’espace entre les deux membranes nucléaires",
+   "Le cytosol plus les organites, hors noyau"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Il est contenu entre la membrane plasmique et l’enveloppe nucléaire.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 51
+  }
+ },
+ {
+  "id": "bc01-q032",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "protoplasme = cytoplasme + noyau",
+  "enonce": "Que désigne le protoplasme ?",
+  "propositions": [
+   "La phase liquide seule",
+   "L’ensemble des organites",
+   "Le contenu d’une cellule vivante : cytoplasme et noyau",
+   "La paroi et la membrane"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Protoplasme = cytoplasme + noyau.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 51
+  }
+ },
+ {
+  "id": "bc01-q033",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "membrane plasmique : 8,5 nm",
+  "enonce": "Quelle est l’épaisseur moyenne de la membrane plasmique ?",
+  "propositions": [
+   "Environ 8,5 nm",
+   "Environ 85 nm",
+   "Environ 8,5 µm",
+   "Environ 0,85 nm"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Elle limite le protoplasme formé par le noyau et le cytoplasme.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 54
+  }
+ },
+ {
+  "id": "bc01-q034",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "schema_decrit",
+  "fait": "membrane plasmique tripartite en ME",
+  "enonce": "Comment apparaît la membrane plasmique en microscopie électronique ?",
+  "propositions": [
+   "En deux feuillets clairs séparés d’un espace dense",
+   "En une structure sans feuillet",
+   "En un unique feuillet dense",
+   "En structure tripartite : deux feuillets denses séparés d’un espace clair"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Structure tripartite observée au grossissement 300 000.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 54
+  }
+ },
+ {
+  "id": "bc01-q035",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "paroi des végétaux pectocellulosique",
+  "enonce": "Quelle est la nature de la paroi des végétaux ?",
+  "propositions": [
+   "Absente",
+   "Pectocellulosique",
+   "À base de chitine",
+   "À base de peptidoglycane"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "En dehors de la membrane plasmique, il n’y a pas de paroi, sauf chez les végétaux, certains champignons et les insectes.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 54
+  }
+ },
+ {
+  "id": "bc01-q036",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "paroi des insectes en chitine",
+  "enonce": "Chez quels organismes la paroi est-elle formée de chitine ?",
+  "propositions": [
+   "Les bactéries",
+   "Les végétaux",
+   "Les insectes",
+   "Les cellules animales humaines"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Végétaux : paroi pectocellulosique.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 54
+  }
+ },
+ {
+  "id": "bc01-q037",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "endocytose et exocytose propres aux eucaryotes",
+  "enonce": "Quels processus d’échange avec l’extérieur sont uniques aux cellules eucaryotes ?",
+  "propositions": [
+   "La diffusion simple",
+   "La photosynthèse",
+   "L’endocytose et l’exocytose",
+   "La transcription et la traduction"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Transcription et traduction sont communes aux procaryotes et eucaryotes.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 55
+  }
+ },
+ {
+  "id": "bc01-q038",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "exocytose : fusion de vésicules avec la membrane",
+  "enonce": "Que fait l’exocytose ?",
+  "propositions": [
+   "Elle détruit la membrane",
+   "Elle digère des particules dans les lysosomes",
+   "Elle fusionne des vésicules internes avec la membrane plasmique et libère leur contenu à l’extérieur",
+   "Elle invagine la membrane pour former des vésicules"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "L’exocytose est le processus inverse de l’endocytose.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 55
+  }
+ },
+ {
+  "id": "bc01-q039",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "phagocytose = forme d’endocytose",
+  "enonce": "La phagocytose est :",
+  "propositions": [
+   "une forme particulière d’endocytose",
+   "le processus inverse de l’endocytose",
+   "un transport actif par pompe",
+   "une forme d’exocytose"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Dans l’endocytose, la surface membranaire s’invagine pour former des vésicules cytoplasmiques.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 55
+  }
+ },
+ {
+  "id": "bc01-q040",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "contenu du noyau : nucléoles et chromosomes",
+  "enonce": "Que contient le noyau dans le nucléoplasme ?",
+  "propositions": [
+   "Un nucléoïde unique",
+   "Des lysosomes",
+   "Des mitochondries et des ribosomes",
+   "Un ou deux nucléoles et des chromosomes plus ou moins déspiralisés"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Le noyau est arrondi ou ovalaire.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 57
+  }
+ },
+ {
+  "id": "bc01-q041",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "ADN eucaryote associé aux histones",
+  "enonce": "À quoi l’ADN (acide désoxyribonucléique) des cellules eucaryotes est-il toujours associé ?",
+  "propositions": [
+   "À des mésosomes",
+   "À des protéines : les histones et les non histones",
+   "À du peptidoglycane",
+   "À de la cellulose"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "La chromatine est condensée dans certaines cellules.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 57
+  }
+ },
+ {
+  "id": "bc01-q042",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "enveloppe nucléaire : 2 membranes",
+  "enonce": "Combien de membranes compose l’enveloppe nucléaire ?",
+  "propositions": [
+   "Aucune",
+   "Deux : une externe en relation avec le cytoplasme et une interne",
+   "Une seule",
+   "Trois"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Un espace périnucléaire sépare ces deux membranes.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 58
+  }
+ },
+ {
+  "id": "bc01-q043",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "lamina entre membrane interne et chromatine",
+  "enonce": "De quoi la membrane interne de l’enveloppe nucléaire est-elle séparée par la lamina ?",
+  "propositions": [
+   "De la chromatine",
+   "De la mitochondrie",
+   "Du nucléole",
+   "Du cytoplasme"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "La membrane externe est en relation avec le cytoplasme.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 58
+  }
+ },
+ {
+  "id": "bc01-q044",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "chromatine : colorable par les colorants basiques",
+  "enonce": "Qu’est-ce que la chromatine, selon le cours ?",
+  "propositions": [
+   "Une substance fortement colorable par les colorants basiques, dont les nucléoprotéines sont les principaux constituants",
+   "Une enzyme de digestion",
+   "Un organite délimité par une membrane",
+   "Un acide ribonucléique du nucléole"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Les mottes de chromatine correspondent à l’hétérochromatine.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 60
+  }
+ },
+ {
+  "id": "bc01-q045",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "nucléole : fibrilles et grains d’ARN ribosomal",
+  "enonce": "Que contient le nucléole, selon le cours ?",
+  "propositions": [
+   "Des ribosomes complets et des lysosomes",
+   "Un nucléoïde",
+   "Des histones nucléosomiques seules",
+   "Des fibrilles et des grains d’ARN (acide ribonucléique) ribosomal dans une matrice dense"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Le nucléole occupe une place variable dans le noyau.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 61
+  }
+ },
+ {
+  "id": "bc01-q046",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "schema_decrit",
+  "fait": "mitochondrie : deux membranes, crêtes",
+  "enonce": "Comment est constituée une mitochondrie ?",
+  "propositions": [
+   "D’une seule membrane lisse",
+   "De deux membranes toutes deux à crêtes",
+   "De trois membranes et d’un noyau",
+   "De deux membranes : une externe lisse et une interne dont les crêtes augmentent la surface"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Des particules d’ATP (adénosine triphosphate) synthétase sont visibles sur les crêtes.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 63
+  }
+ },
+ {
+  "id": "bc01-q047",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "respiration cellulaire uniquement dans les mitochondries",
+  "enonce": "Où la respiration cellulaire a-t-elle lieu chez l’eucaryote ?",
+  "propositions": [
+   "Dans le réticulum endoplasmique",
+   "Dans le noyau",
+   "Dans le cytosol",
+   "Uniquement dans les mitochondries"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Ce processus n’a lieu nulle part ailleurs dans la cellule eucaryote.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 64
+  }
+ },
+ {
+  "id": "bc01-q048",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "cas_pratique",
+  "fait": "sans mitochondries : organismes anaérobies",
+  "enonce": "Que seraient les cellules des animaux et des champignons sans mitochondries ?",
+  "propositions": [
+   "Des organismes procaryotes",
+   "Des organismes sans noyau",
+   "Des organismes photosynthétiques",
+   "Des organismes anaérobies"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les cellules eucaryotes dépendent des mitochondries pour leur métabolisme oxydatif.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 64
+  }
+ },
+ {
+  "id": "bc01-q049",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "réticulum endoplasmique granulaire",
+  "enonce": "Quand le réticulum endoplasmique est-il dit « granulaire » ?",
+  "propositions": [
+   "Quand il est dépourvu de ribosomes",
+   "Quand des ribosomes sont accolés à la face externe de sa membrane",
+   "Quand il contient des mitochondries",
+   "Quand il est situé dans le noyau"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Il est lisse lorsqu’il est dépourvu de ribosomes.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 65
+  }
+ },
+ {
+  "id": "bc01-q050",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "appareil de Golgi = ensemble des dictyosomes",
+  "enonce": "Que désigne l’appareil de Golgi ?",
+  "propositions": [
+   "Un seul empilement de saccules",
+   "L’ensemble des dictyosomes de la cellule",
+   "Le réseau de cavités anastomosées",
+   "Un ensemble de ribosomes"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Chaque dictyosome regroupe des saccules empilés et des vésicules.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 66
+  }
+ },
+ {
+  "id": "bc01-q051",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "lysosomes : réserves d’enzymes de digestion",
+  "enonce": "Quel est le rôle des lysosomes, d’après le cours ?",
+  "propositions": [
+   "Contenir des réserves d’enzymes destinées à la digestion intracellulaire",
+   "Réaliser la respiration cellulaire",
+   "Réaliser la photosynthèse",
+   "Produire et dégrader le peroxyde d’hydrogène"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Leur membrane empêche les enzymes d’attaquer les protéines et les acides nucléiques de la cellule.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 68
+  }
+ },
+ {
+  "id": "bc01-q052",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "peroxysomes : peroxyde d’hydrogène",
+  "enonce": "Quel organite produit et dégrade le peroxyde d’hydrogène, dangereusement réactif ?",
+  "propositions": [
+   "Le peroxysome",
+   "Le lysosome",
+   "La mitochondrie",
+   "L’appareil de Golgi"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Il se forme au cours de l’oxydation de diverses molécules par le dioxygène.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 68
+  }
+ },
+ {
+  "id": "bc01-q053",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "intrus",
+  "fait": "ribosome sans membrane",
+  "enonce": "Quel organite n’est délimité par aucune membrane ?",
+  "propositions": [
+   "L’endosome",
+   "Le lysosome",
+   "Le ribosome",
+   "Le peroxysome"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Cytosquelette, ribosomes et centrioles n’ont pas de membrane.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 69
+  }
+ },
+ {
+  "id": "bc01-q054",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "3 éléments propres à la cellule végétale",
+  "enonce": "Quels éléments différencient la cellule végétale de la cellule animale ?",
+  "propositions": [
+   "La paroi cellulaire, l’appareil vacuolaire et les plastes (chloroplastes)",
+   "Les centrioles, la vacuole et les lysosomes",
+   "Les plastes, le cholestérol et l’appareil de Golgi",
+   "Le noyau, la paroi et les mitochondries"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Sinon, la structure est proche de celle de la cellule animale.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 70
+  }
+ },
+ {
+  "id": "bc01-q055",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "tonoplaste : membrane de la vacuole",
+  "enonce": "Qu’est-ce que le tonoplaste ?",
+  "propositions": [
+   "La paroi des cellules végétales",
+   "La membrane des thylakoïdes",
+   "L’enveloppe nucléaire",
+   "La membrane de la vacuole, qui possède des canaux ioniques"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "La vacuole sert de réserve de nutriments, de lieu de digestion et d’élimination des déchets.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 72
+  }
+ },
+ {
+  "id": "bc01-q056",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "ADN des chloroplastes ressemble au chromosome bactérien",
+  "enonce": "Que dit-on de l’ADN (acide désoxyribonucléique) des chloroplastes ?",
+  "propositions": [
+   "Sa séquence est presque totalement identique à certaines portions du chromosome bactérien",
+   "Il est identique à celui du noyau",
+   "Il est absent : les chloroplastes n’ont pas d’ADN",
+   "Il est circulaire et associé à des histones"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Les chloroplastes se reproduisent par division.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 74
+  }
+ },
+ {
+  "id": "bc01-q057",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "chaîne respiratoire bactérienne dans la membrane plasmique",
+  "enonce": "Où est localisée la chaîne respiratoire d’une bactérie ?",
+  "propositions": [
+   "Dans les mitochondries",
+   "Dans la membrane plasmique",
+   "Dans le nucléoïde",
+   "Dans les ribosomes"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les procaryotes n’ont pas de mitochondries.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 76
+  }
+ },
+ {
+  "id": "bc01-q058",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "procaryotes : scissiparité",
+  "enonce": "Comment se reproduisent les procaryotes ?",
+  "propositions": [
+   "Par mitose",
+   "Par scissiparité",
+   "Par fécondation",
+   "Par méiose"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Ils n’ont ni mitose ni méiose.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 76
+  }
+ },
+ {
+  "id": "bc01-q059",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "code génétique commun",
+  "enonce": "Quel point est commun aux procaryotes et aux eucaryotes ?",
+  "propositions": [
+   "Le fuseau mitotique",
+   "La méiose",
+   "L’enveloppe nucléaire",
+   "Un code génétique identique"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Information génétique codée dans l’ADN (acide désoxyribonucléique) par un code génétique identique, avec des mécanismes semblables de transcription et de traduction.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 77
+  }
+ },
+ {
+  "id": "bc01-q060",
+  "chapitre": "bc01",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "enveloppe nucléaire à pores complexes : eucaryotes",
+  "enonce": "Quelle caractéristique est spécifique aux cellules eucaryotes ?",
+  "propositions": [
+   "Un nucléoïde",
+   "Une paroi de peptidoglycane",
+   "Un chromosome circulaire libre",
+   "Une enveloppe nucléaire possédant des pores à structure complexe"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "La cellule est divisée en noyau et cytoplasme séparés par une enveloppe nucléaire.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 78
+  }
+ },
+ {
+  "id": "bc01-q061",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "identification",
+  "fait": "eucaryotes : animaux, plantes, champignons",
+  "enonce": "Parmi ces organismes, lesquels sont des eucaryotes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les archaebactéries",
+   "Les animaux (dont l’Homme)",
+   "Les eubactéries",
+   "Les plantes",
+   "Les champignons"
+  ],
+  "bonnes": [
+   1,
+   3,
+   4
+  ],
+  "explication": "Les eubactéries et les archaebactéries sont des procaryotes.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc01-q062",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "propriétés de la matière vivante",
+  "enonce": "Parmi ces affirmations sur la matière vivante, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle possède un métabolisme.",
+   "Elle possède obligatoirement une paroi.",
+   "Elle possède obligatoirement un noyau.",
+   "Elle possède une information génétique permettant la reproduction à l’identique.",
+   "Elle possède une membrane biologique sélective."
+  ],
+  "bonnes": [
+   0,
+   3,
+   4
+  ],
+  "explication": "La plus petite unité qui réunit ces trois propriétés est la cellule.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc01-q063",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "autotrophe / hétérotrophe",
+  "enonce": "Quelles associations mode nutritionnel – définition sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Hétérotrophe : fabrique sa matière organique par photosynthèse",
+   "Hétérotrophe : utilise la matière organique d’autres organismes",
+   "Autotrophe : se nourrit de matière organique d’autres organismes",
+   "Autotrophe : génère sa propre matière organique à partir d’éléments minéraux"
+  ],
+  "bonnes": [
+   1,
+   3
+  ],
+  "explication": "L’autotrophie utilise l’énergie lumineuse par photosynthèse ou chimiosynthèse.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 22
+  }
+ },
+ {
+  "id": "bc01-q064",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "anabolisme / catabolisme",
+  "enonce": "Quelles associations réaction – nature sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Catabolisme : dégradation de molécules, exergonique",
+   "Anabolisme : synthèse de molécules complexes, qui consomme de l’énergie",
+   "Catabolisme : synthèse consommant de l’énergie",
+   "Anabolisme : dégradation exergonique"
+  ],
+  "bonnes": [
+   0,
+   1
+  ],
+  "explication": "Catabolisme et anabolisme forment le métabolisme.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 25
+  }
+ },
+ {
+  "id": "bc01-q065",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "propriétés des cellules",
+  "enonce": "Parmi ces propriétés, lesquelles sont attribuées aux cellules dans le cours ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elles acquièrent et utilisent l’énergie.",
+   "Elles sont toutes identiques en apparence.",
+   "Elles sont capables d’autorégulation.",
+   "Elles possèdent un programme génétique.",
+   "Elles répondent à des stimulus."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explication": "Elles effectuent aussi une grande variété de réactions chimiques et sont capables de se propager.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 33
+  }
+ },
+ {
+  "id": "bc01-q066",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "cellule procaryote en interphase",
+  "enonce": "Parmi ces affirmations sur une cellule procaryote en interphase, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Son matériel génétique est un seul chromosome.",
+   "Son chromosome est entouré d’une enveloppe nucléaire.",
+   "Elle possède plusieurs noyaux.",
+   "Aucune enveloppe ne sépare son chromosome du cytoplasme.",
+   "Elle ne possède pas de noyau."
+  ],
+  "bonnes": [
+   0,
+   3,
+   4
+  ],
+  "explication": "Le chromosome apparaît comme un nucléoïde.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 38
+  }
+ },
+ {
+  "id": "bc01-q067",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "identification",
+  "fait": "procaryotes : bactéries, mycoplasmes, cyanophycées",
+  "enonce": "Quels organismes sont des procaryotes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les protistes",
+   "Les bactéries",
+   "Les champignons",
+   "Les mycoplasmes",
+   "Les cyanophycées"
+  ],
+  "bonnes": [
+   1,
+   3,
+   4
+  ],
+  "explication": "Amibe et paramécie sont des protistes (eucaryotes).",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 36
+  }
+ },
+ {
+  "id": "bc01-q068",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "paroi procaryote",
+  "enonce": "Parmi ces affirmations sur la paroi procaryote, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle est faite de cellulose.",
+   "Elle mesure de 8 à 30 nm d’épaisseur.",
+   "Elle est analogue à celle des végétaux, sauf sa nature chimique.",
+   "Elle est absente chez les bactéries.",
+   "Elle est toujours présente, sauf chez les mycoplasmes."
+  ],
+  "bonnes": [
+   1,
+   2,
+   4
+  ],
+  "explication": "Chez les procaryotes, la paroi est faite de peptidoglycane.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 41
+  }
+ },
+ {
+  "id": "bc01-q069",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "structures extérieures procaryotes",
+  "enonce": "Quelles structures peuvent exister à l’extérieur d’une cellule procaryote ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Des pilis pour l’adhérence",
+   "Une capsule (inconstante)",
+   "Un noyau",
+   "Un cytosquelette complexe",
+   "Des cils ou flagelles pour le mouvement"
+  ],
+  "bonnes": [
+   0,
+   1,
+   4
+  ],
+  "explication": "Un cytosquelette complexe est propre aux eucaryotes.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 41
+  }
+ },
+ {
+  "id": "bc01-q070",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "cytoplasme procaryote",
+  "enonce": "Parmi ces éléments, lesquels existent dans le cytoplasme d’une cellule procaryote ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Un appareil de Golgi",
+   "Des lysosomes",
+   "Des mésosomes",
+   "Des inclusions cytoplasmiques de réserve",
+   "Des polyribosomes"
+  ],
+  "bonnes": [
+   2,
+   3,
+   4
+  ],
+  "explication": "Les organites membranaires complexes sont propres aux eucaryotes.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 42
+  }
+ },
+ {
+  "id": "bc01-q071",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "nucléoïde : propriétés",
+  "enonce": "Parmi ces affirmations sur le nucléoïde, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il est rempli d’un feutrage de filaments de 3 à 8 nm de diamètre.",
+   "Chaque filament d’ADN (acide désoxyribonucléique) correspond à un chromosome.",
+   "Il est moins dense que le cytoplasme au rayonnement électronique.",
+   "Il est entouré d’une double membrane.",
+   "Il n’est pas délimité par une enveloppe nucléaire."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "Il a une structure fibrillaire.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 43
+  }
+ },
+ {
+  "id": "bc01-q072",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "métazoaires",
+  "enonce": "Quelles caractéristiques décrivent les métazoaires ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Eucaryotes",
+   "Hétérotrophes",
+   "Multicellulaires",
+   "Unicellulaires",
+   "Procaryotes"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "Les métazoaires sont les animaux.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 48
+  }
+ },
+ {
+  "id": "bc01-q073",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "termes : cytoplasme, protoplasme, hyaloplasme",
+  "enonce": "Quelles associations terme – définition sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Hyaloplasme : autre nom du cytosol",
+   "Cytoplasme : contenu d’une cellule vivante, avec le noyau",
+   "Protoplasme : cytoplasme et noyau",
+   "Morphoplasme : phase liquide où baignent les organites",
+   "Cytoplasme : cytosol et organites, hors noyau"
+  ],
+  "bonnes": [
+   0,
+   2,
+   4
+  ],
+  "explication": "Le morphoplasme désigne l’ensemble des organites.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 51
+  }
+ },
+ {
+  "id": "bc01-q074",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "membrane plasmique eucaryote",
+  "enonce": "Parmi ces affirmations sur la membrane plasmique eucaryote, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle apparaît en structure tripartite en microscopie électronique.",
+   "Elle est dépourvue de protéines.",
+   "Elle mesure en moyenne environ 8,5 nm.",
+   "Elle ne contient pas de phospholipides.",
+   "Il n’existe pas de paroi en dehors d’elle, sauf chez les végétaux, certains champignons et les insectes."
+  ],
+  "bonnes": [
+   0,
+   2,
+   4
+  ],
+  "explication": "La membrane est une bicouche de phospholipides peuplée de protéines glycosylées.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 54
+  }
+ },
+ {
+  "id": "bc01-q075",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "endocytose et exocytose",
+  "enonce": "Parmi ces affirmations sur l’endocytose et l’exocytose, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "L’exocytose libère le contenu de vésicules dans le milieu extérieur.",
+   "L’endocytose existe chez les procaryotes.",
+   "L’exocytose invagine la surface membranaire pour former des vésicules.",
+   "La phagocytose est une forme particulière d’endocytose.",
+   "L’endocytose est propre aux cellules eucaryotes."
+  ],
+  "bonnes": [
+   0,
+   3,
+   4
+  ],
+  "explication": "L’exocytose est le processus inverse de l’endocytose.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 55
+  }
+ },
+ {
+  "id": "bc01-q076",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "noyau eucaryote : nucléoles, enveloppe, espace périnucléaire",
+  "enonce": "Parmi ces affirmations sur le noyau eucaryote, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il est dépourvu d’enveloppe.",
+   "Son ADN (acide désoxyribonucléique) est libre, sans protéines.",
+   "Son enveloppe possède 2 membranes.",
+   "Un espace périnucléaire sépare ces deux membranes.",
+   "Il contient un ou deux nucléoles."
+  ],
+  "bonnes": [
+   2,
+   3,
+   4
+  ],
+  "explication": "La membrane interne est séparée de la chromatine par la lamina.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 58
+  }
+ },
+ {
+  "id": "bc01-q077",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "chromatine",
+  "enonce": "Parmi ces affirmations sur la chromatine, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle est fortement colorable par les colorants basiques.",
+   "Les solénoïdes se déroulent pour former les nucléosomes.",
+   "Les mottes de chromatine correspondent à l’hétérochromatine.",
+   "L’ADN (acide désoxyribonucléique) s’enroule autour d’un complexe d’histones pour former un nucléosome.",
+   "Ses principaux constituants sont les nucléoprotéines."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explication": "Les nucléosomes sont enroulés et forment des solénoïdes.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 60
+  }
+ },
+ {
+  "id": "bc01-q078",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "cytoplasme : morphoplasme, hyaloplasme",
+  "enonce": "Parmi ces affirmations sur le cytoplasme, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Le morphoplasme est la phase liquide du cytoplasme.",
+   "Le morphoplasme désigne l’ensemble des organites.",
+   "Le hyaloplasme est un organite entouré d’une membrane.",
+   "Il contient un cytosquelette et un réseau microtrabéculaire.",
+   "Le hyaloplasme est une solution aqueuse de pH (potentiel hydrogène) 7."
+  ],
+  "bonnes": [
+   1,
+   3,
+   4
+  ],
+  "explication": "Le hyaloplasme est homogène et transparent.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 62
+  }
+ },
+ {
+  "id": "bc01-q079",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "mitochondrie",
+  "enonce": "Parmi ces affirmations sur la mitochondrie, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle est responsable de la respiration cellulaire.",
+   "Elle est limitée par deux membranes.",
+   "Elle est entourée d’une seule membrane.",
+   "Les crêtes de sa membrane interne augmentent sa surface.",
+   "Sa membrane externe est lisse."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "Elle contient des particules d’ATP (adénosine triphosphate) synthétase sur les crêtes.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 63
+  }
+ },
+ {
+  "id": "bc01-q080",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "schema_decrit",
+  "fait": "planche : mitochondrie à crêtes",
+  "enonce": "Sur une planche de microscopie électronique, on observe un organite à deux membranes dont la membrane interne forme des crêtes parallèles portant des particules. Quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il est responsable de la respiration cellulaire.",
+   "Il est entouré d’une seule membrane.",
+   "Il s’agit d’une mitochondrie.",
+   "Les particules sont des ATP (adénosine triphosphate) synthétases.",
+   "Il s’agit d’un chloroplaste."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3
+  ],
+  "explication": "Les crêtes augmentent la surface de la membrane interne.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 63
+  }
+ },
+ {
+  "id": "bc01-q081",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "réticulum endoplasmique",
+  "enonce": "Quelles affirmations sur le réticulum endoplasmique sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il est granulaire lorsque des ribosomes sont accolés à sa membrane.",
+   "Il synthétise les lipides et les protéines des membranes cellulaires.",
+   "Il communique avec le noyau.",
+   "Il est un organite sans membrane.",
+   "Il est lisse lorsqu’il est dépourvu de ribosomes."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "Il synthétise aussi le matériel destiné à être exporté hors de la cellule.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 65
+  }
+ },
+ {
+  "id": "bc01-q082",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "appareil de Golgi",
+  "enonce": "Parmi ces affirmations sur l’appareil de Golgi, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Un dictyosome regroupe des saccules empilés et des vésicules.",
+   "Il est formé d’empilements de sacs aplatis.",
+   "Il désigne un seul saccule.",
+   "Il est impliqué dans la synthèse et le transport de molécules fabriquées dans le réticulum endoplasmique.",
+   "Il est dépourvu de membrane."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3
+  ],
+  "explication": "L’appareil de Golgi est l’ensemble des dictyosomes.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 66
+  }
+ },
+ {
+  "id": "bc01-q083",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "lysosomes et peroxysomes",
+  "enonce": "Parmi ces affirmations sur les lysosomes et les peroxysomes, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les peroxysomes sont dépourvus de membrane.",
+   "Les lysosomes réalisent la photosynthèse.",
+   "Les lysosomes contiennent des enzymes de digestion intracellulaire.",
+   "Les peroxysomes produisent et dégradent le peroxyde d’hydrogène.",
+   "Leur membrane empêche les enzymes d’attaquer les protéines et les acides nucléiques de la cellule."
+  ],
+  "bonnes": [
+   2,
+   3,
+   4
+  ],
+  "explication": "Les peroxysomes interviennent dans l’oxydation de molécules par le dioxygène.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 68
+  }
+ },
+ {
+  "id": "bc01-q084",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "organites selon le nombre de membranes",
+  "enonce": "Quelles associations nombre de membranes – organite sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Aucune membrane : ribosomes",
+   "Deux membranes : mitochondries",
+   "Deux membranes : noyau",
+   "Aucune membrane : lysosomes",
+   "Une membrane : appareil de Golgi"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "Cytosquelette, ribosomes et centrioles n’ont aucune membrane.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 69
+  }
+ },
+ {
+  "id": "bc01-q085",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "identification",
+  "fait": "organites à une membrane",
+  "enonce": "Quels organites sont délimités par une seule membrane ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les lysosomes",
+   "Les ribosomes",
+   "Le réticulum endoplasmique",
+   "Les endosomes",
+   "Les peroxysomes"
+  ],
+  "bonnes": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explication": "Noyau et mitochondries sont entourés de deux membranes.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 69
+  }
+ },
+ {
+  "id": "bc01-q086",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "vacuole et tonoplaste",
+  "enonce": "Parmi ces affirmations sur l’appareil vacuolaire végétal, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "L’appareil vacuolaire est absent chez les végétaux.",
+   "Il a un rôle de réserve, de digestion et d’élimination des déchets.",
+   "Il représente environ 90 % de la cellule.",
+   "Le tonoplaste possède des canaux ioniques.",
+   "Le tonoplaste est la membrane des thylakoïdes."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "Le tonoplaste est la membrane de la vacuole.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 72
+  }
+ },
+ {
+  "id": "bc01-q087",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "paroi végétale",
+  "enonce": "Parmi ces affirmations sur la paroi cellulaire végétale, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle comporte des fibrilles de cellulose.",
+   "Elle est faite de peptidoglycane.",
+   "Elle est formée d’une matière glycoprotéique et polysaccharidique.",
+   "Elle est faite de chitine."
+  ],
+  "bonnes": [
+   0,
+   2
+  ],
+  "explication": "La paroi est l’un des trois éléments qui distinguent la cellule végétale.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 71
+  }
+ },
+ {
+  "id": "bc01-q088",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "chloroplastes",
+  "enonce": "Parmi ces affirmations sur les chloroplastes, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ils effectuent la respiration cellulaire.",
+   "Ils sont dépourvus de membrane.",
+   "Ils absorbent la lumière grâce à la chlorophylle liée à leurs membranes.",
+   "On y observe un stroma, des thylakoïdes et un granum.",
+   "Ils effectuent la photosynthèse."
+  ],
+  "bonnes": [
+   2,
+   3,
+   4
+  ],
+  "explication": "La photosynthèse absorbe la lumière solaire.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 73
+  }
+ },
+ {
+  "id": "bc01-q089",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "chloroplastes : division et ADN",
+  "enonce": "Parmi ces affirmations sur la division et l’ADN (acide désoxyribonucléique) des chloroplastes, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ils sont formés uniquement à partir du noyau.",
+   "Leur ADN est presque identique à certaines portions du chromosome bactérien.",
+   "Ils se reproduisent par division.",
+   "Leur ADN est identique au génome nucléaire."
+  ],
+  "bonnes": [
+   1,
+   2
+  ],
+  "explication": "Cela traduit une ressemblance avec les bactéries.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 74
+  }
+ },
+ {
+  "id": "bc01-q090",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "procaryotes : différences avec les eucaryotes",
+  "enonce": "Quelles caractéristiques distinguent les procaryotes des eucaryotes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Une taille de 1 à 10 µm",
+   "L’absence de mitose et de méiose",
+   "La présence de nucléosomes",
+   "L’absence de noyau",
+   "L’absence de mitochondries"
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "Les procaryotes sont toujours unicellulaires.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 76
+  }
+ },
+ {
+  "id": "bc01-q091",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "chromosome procaryote",
+  "enonce": "Parmi ces affirmations sur le chromosome procaryote, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il est dépourvu d’histone.",
+   "Il est circulaire et libre.",
+   "Il est associé à des nucléosomes.",
+   "Il est linéaire et entouré d’une enveloppe.",
+   "Il est relativement simple."
+  ],
+  "bonnes": [
+   0,
+   1,
+   4
+  ],
+  "explication": "L’ADN (acide désoxyribonucléique) procaryote est dépourvu de nucléosomes.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 76
+  }
+ },
+ {
+  "id": "bc01-q092",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "procaryotes : unicellulaires, ribosomes, chaîne respiratoire",
+  "enonce": "Parmi ces affirmations sur les procaryotes, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ce sont toujours des organismes unicellulaires.",
+   "Leur paroi est cellulosique.",
+   "La chaîne respiratoire est localisée dans la membrane plasmique.",
+   "Ce sont des organismes multicellulaires.",
+   "Leurs ribosomes ressemblent à ceux des mitochondries et des chloroplastes."
+  ],
+  "bonnes": [
+   0,
+   2,
+   4
+  ],
+  "explication": "Leur paroi, lorsqu’elle existe, est constituée de peptidoglycanes.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 76
+  }
+ },
+ {
+  "id": "bc01-q093",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "caractères communs procaryotes/eucaryotes",
+  "enonce": "Quels caractères sont communs aux procaryotes et aux eucaryotes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Une information génétique codée dans l’ADN (acide désoxyribonucléique) par un code génétique identique",
+   "Une structure semblable de la membrane plasmique",
+   "Un même mécanisme de photosynthèse chez les cyanobactéries et les plantes vertes",
+   "Un noyau délimité par une enveloppe",
+   "Un mécanisme semblable de transcription et de traduction"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "Les voies métaboliques sont aussi communes.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 77
+  }
+ },
+ {
+  "id": "bc01-q094",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "conservation de l’énergie sous forme d’ATP",
+  "enonce": "Où se localise la conservation de l’énergie chimique sous forme d’ATP (adénosine triphosphate) ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Dans le Golgi chez les procaryotes",
+   "Dans la membrane plasmique chez les procaryotes",
+   "Dans la membrane interne des mitochondries chez les eucaryotes",
+   "Dans le noyau chez les eucaryotes"
+  ],
+  "bonnes": [
+   1,
+   2
+  ],
+  "explication": "Ce mécanisme est identique chez les deux types de cellules.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 77
+  }
+ },
+ {
+  "id": "bc01-q095",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "spécifiques aux eucaryotes (1)",
+  "enonce": "Quels caractères (noyau, organites, cytosquelette) sont spécifiques aux cellules eucaryotes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Des organites spécialisés pour la respiration aérobie et la photosynthèse",
+   "Une enveloppe nucléaire à pores complexes",
+   "Un chromosome circulaire libre",
+   "Un cytosquelette complexe",
+   "Des organites membranaires complexes (Golgi, lysosomes, endosomes)"
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "Les chromosomes eucaryotes sont complexes et condensables.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 78
+  }
+ },
+ {
+  "id": "bc01-q096",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "spécifiques aux eucaryotes (2)",
+  "enonce": "Quels autres caractères (flagelles, endocytose, parois, division) sont spécifiques aux cellules eucaryotes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "L’endocytose et la phagocytose",
+   "La cellulose dans les parois (chez les plantes)",
+   "Une division par scissiparité",
+   "Des flagelles et des cils complexes",
+   "Un fuseau mitotique formé de microtubules"
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "Elles sont diploïdes et leur reproduction sexuée nécessite méiose et fécondation.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 79
+  }
+ },
+ {
+  "id": "bc01-q097",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "diploïdie et reproduction sexuée",
+  "enonce": "Parmi ces affirmations sur les cellules eucaryotes, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La méiose n’existe pas chez les eucaryotes.",
+   "La reproduction sexuée nécessite méiose et fécondation.",
+   "Les cellules eucaryotes sont toujours haploïdes.",
+   "Chaque cellule possède deux exemplaires des gènes, un de chaque parent (diploïdie)."
+  ],
+  "bonnes": [
+   1,
+   3
+  ],
+  "explication": "La division cellulaire comprend la séparation des chromosomes par un fuseau mitotique.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 79
+  }
+ },
+ {
+  "id": "bc01-q098",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "biologie cellulaire : objets d’étude",
+  "enonce": "Parmi ces affirmations sur la biologie cellulaire, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle étudie les caractères morphologiques et fonctionnels des cellules.",
+   "Elle étudie uniquement les molécules isolées.",
+   "Elle étudie les organites et les processus vitaux (reproduction, métabolisme, homéostasie, communication).",
+   "La mort cellulaire est programmée génétiquement."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3
+  ],
+  "explication": "La biologie cellulaire est aussi appelée cytologie.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc01-q099",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "diversité et unité des cellules",
+  "enonce": "Parmi ces affirmations sur la diversité et l’unité des cellules, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les cellules n’ont aucun point commun.",
+   "Toutes les cellules actuelles auraient évolué à partir d’un ancêtre commun.",
+   "Les cellules varient énormément en apparence et en fonction.",
+   "Les cellules vivantes ont toutes la même chimie de base.",
+   "Les gènes ne jouent aucun rôle dans leur comportement."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "Les gènes commandent la forme, la fonction et le comportement des cellules.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 32
+  }
+ },
+ {
+  "id": "bc01-q100",
+  "chapitre": "bc01",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "origine de la première cellule",
+  "enonce": "Parmi ces affirmations sur l’origine de la première cellule, lesquelles sont exactes selon le cours ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il ne semble pas possible aujourd’hui de faire apparaître spontanément de la vie.",
+   "Elle est entièrement expliquée aujourd’hui.",
+   "Les cellules les plus simples ont une complexité qui excède celle des autres objets connus.",
+   "Les étapes de son apparition restent mystérieuses.",
+   "Son apparition est facilement reproductible en laboratoire."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3
+  ],
+  "explication": "Son apparition semble comprise comme un processus à multiples étapes.",
+  "source": {
+   "chapitre": "bc01",
+   "diapo": 8
+  }
+ }
+]

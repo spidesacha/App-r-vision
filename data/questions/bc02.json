@@ -1,0 +1,2328 @@
+[
+ {
+  "id": "bc02-q001",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "fonction du réseau d’organites membranaires : transport",
+  "enonce": "Quelle est la fonction essentielle du réseau dynamique formé par la plupart des organites membranaires du cytoplasme ?",
+  "propositions": [
+   "Le transport des matériaux de la cellule",
+   "La réplication du génome",
+   "La division du noyau",
+   "La photosynthèse"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Ce réseau suit des chemins préférentiels : la voie biosynthétique (sécrétoire) et la voie endocytaire.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc02-q002",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "deux voies de transport",
+  "enonce": "Quelles sont les deux voies préférentielles de transport identifiées dans le cytoplasme ?",
+  "propositions": [
+   "La voie nucléaire et la voie mitochondriale",
+   "La voie lysosomale et la voie nucléaire",
+   "La voie biosynthétique (ou sécrétoire) et la voie endocytaire",
+   "La voie constitutive et la voie transcriptionnelle"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les deux voies guident les matériaux vers des destinations précises.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc02-q003",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "voie sécrétoire : destinée à l’extérieur",
+  "enonce": "Pourquoi appelle-t-on aussi la voie biosynthétique « voie sécrétoire » ?",
+  "propositions": [
+   "Parce qu’elle dégrade les matériaux",
+   "Parce qu’elle se déroule uniquement dans le noyau",
+   "Parce que beaucoup de ces matériaux sont destinés à être transportés en dehors de la cellule",
+   "Parce qu’elle n’utilise pas de vésicules"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les matériaux sont synthétisés dans le réticulum endoplasmique ou le Golgi, modifiés dans le Golgi, puis transportés.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc02-q004",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "sécrétion constitutive : continue sans régulation",
+  "enonce": "La sécrétion constitutive est :",
+  "propositions": [
+   "un stockage dans des granules de sécrétion",
+   "un transport continu, sans régulation, vers l’espace intercellulaire",
+   "une sécrétion déclenchée par un stimulus",
+   "une dégradation lysosomale"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les matériaux sont déchargés de façon continue depuis leur site de synthèse.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 6
+  }
+ },
+ {
+  "id": "bc02-q005",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "sécrétion contrôlée : granules et stimulus",
+  "enonce": "Dans la sécrétion contrôlée, les produits à sécréter sont :",
+  "propositions": [
+   "libérés en continu sans régulation",
+   "stockés dans le noyau",
+   "stockés dans de volumineux granules de sécrétion, déchargés en réponse à un stimulus approprié",
+   "dégradés dans le cytosol"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Ces granules ne sont déchargés qu’en réponse à un stimulus.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 6
+  }
+ },
+ {
+  "id": "bc02-q006",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "voie endocytaire : surface vers lysosomes/endosomes",
+  "enonce": "Sur la voie endocytaire, comment se déplacent les substances ?",
+  "propositions": [
+   "Du noyau vers la surface de la cellule",
+   "De la surface extérieure de la cellule vers des compartiments internes, comme les lysosomes ou les endosomes",
+   "Du Golgi vers le noyau",
+   "Des mitochondries vers le Golgi"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Elle s’oppose à la voie sécrétoire.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc02-q007",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "signaux de distribution : séquence en aa ou oligosaccharides",
+  "enonce": "Où sont codés les signaux de distribution qui guident les produits à transporter ?",
+  "propositions": [
+   "Dans la séquence en acides aminés des protéines ou dans les oligosaccharides qui y sont attachés",
+   "Dans l’enveloppe nucléaire",
+   "Dans la membrane plasmique uniquement",
+   "Dans les ribosomes"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Ces signaux guident les produits vers des destinations prédéterminées.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 8
+  }
+ },
+ {
+  "id": "bc02-q008",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "signaux de distribution : récepteurs membranaires",
+  "enonce": "Par quoi les signaux de distribution sont-ils identifiés ?",
+  "propositions": [
+   "Par des récepteurs membranaires spécifiques",
+   "Par les histones",
+   "Par le cytosquelette d’actine",
+   "Par les lysosomes"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Il faut un « plan de circulation » pour les deux types de transport.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 8
+  }
+ },
+ {
+  "id": "bc02-q009",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "taille des cellules 10 à 100 µm",
+  "enonce": "Quelle est la taille habituelle des cellules, qui impose l’usage de microscopes ?",
+  "propositions": [
+   "De 1 à 10 mm",
+   "De 1 à 10 cm",
+   "De 1 à 10 nm",
+   "De 10 à 100 µm"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les microscopes optiques permettent d’observer des cellules mortes ou vivantes.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc02-q010",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "grossissement max du microscope optique",
+  "enonce": "Quel est le grossissement maximal d’un microscope optique ?",
+  "propositions": [
+   "De 1 000 à 1 500",
+   "10",
+   "100 000",
+   "10 000"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Le microscope électronique atteint 100 000.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 13
+  }
+ },
+ {
+  "id": "bc02-q011",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "résolution du microscope électronique : 0,5 nm",
+  "enonce": "Quelle est la meilleure résolution d’un microscope électronique ?",
+  "propositions": [
+   "0,5 µm",
+   "0,5 nm",
+   "0,2 µm",
+   "20 nm"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "La meilleure résolution d’un microscope optique est de 0,2 µm.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 13
+  }
+ },
+ {
+  "id": "bc02-q012",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "cas_pratique",
+  "fait": "accélération des électrons : résolution",
+  "enonce": "Que se passe-t-il quand le flux d’électrons est accéléré dans un microscope électronique ?",
+  "propositions": [
+   "Rien ne change",
+   "La longueur d’onde diminue et la résolution augmente",
+   "La longueur d’onde et la résolution augmentent",
+   "La longueur d’onde augmente et la résolution diminue"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les électrons se déplacent selon une onde, comme la lumière.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 11
+  }
+ },
+ {
+  "id": "bc02-q013",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "hématéine : noyaux en violet",
+  "enonce": "Quel colorant colore les noyaux en violet ?",
+  "propositions": [
+   "Le bleu de méthylène",
+   "Le vert de méthyle",
+   "L’éosine",
+   "L’hématéine"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "L’éosine colore les cytoplasmes en rose.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc02-q014",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "comparaison",
+  "fait": "avantage du microscope électronique : structure fine",
+  "enonce": "Quel est un avantage du microscope électronique sur le microscope optique ?",
+  "propositions": [
+   "Il permet d’observer des cellules vivantes",
+   "Il permet de voir la cellule en entier",
+   "Il utilise des colorants et des couleurs réelles",
+   "Il permet de voir la structure fine de la cellule"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "On atteint très souvent le niveau moléculaire.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 19
+  }
+ },
+ {
+  "id": "bc02-q015",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "inconvénients du microscope électronique",
+  "enonce": "Quel est un inconvénient du microscope électronique ?",
+  "propositions": [
+   "Il ne permet pas de voir la structure fine",
+   "Il fonctionne dans l’air",
+   "La cellule est morte et des artéfacts peuvent apparaître",
+   "Il utilise des colorants"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "On n’a pas de vue d’ensemble de la cellule.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 19
+  }
+ },
+ {
+  "id": "bc02-q016",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "lumière du réticulum endoplasmique",
+  "enonce": "Qu’est-ce que la lumière du réticulum endoplasmique ?",
+  "propositions": [
+   "Un faisceau d’électrons",
+   "La membrane externe du réticulum",
+   "L’espace entouré par le système de membranes du réticulum, de composition très différente du cytosol",
+   "Un type de ribosome"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Le réticulum endoplasmique est un système de membranes qui entourent cet espace.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 25
+  }
+ },
+ {
+  "id": "bc02-q017",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "aspect rugueux dû aux ribosomes",
+  "enonce": "À quoi l’apparence rugueuse du réticulum endoplasmique rugueux est-elle due ?",
+  "propositions": [
+   "Aux histones",
+   "Aux vésicules du Golgi",
+   "Aux ribosomes qui couvrent une partie de sa membrane",
+   "Aux mitochondries"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les ribosomes assemblent les acides aminés en chaînes protéiques.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 26
+  }
+ },
+ {
+  "id": "bc02-q018",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "insertion des protéines dans la lumière du réticulum",
+  "enonce": "Que font les ribosomes du réticulum endoplasmique rugueux des protéines qu’ils synthétisent ?",
+  "propositions": [
+   "Ils les dégradent aussitôt",
+   "Ils les libèrent dans le cytosol",
+   "Ils les insèrent directement dans la lumière du réticulum, où elles acquièrent leur configuration avant de gagner le Golgi",
+   "Ils les envoient dans le noyau"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les parties sans ribosomes sont appelées réticulum lisse.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 26
+  }
+ },
+ {
+  "id": "bc02-q019",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "RER : citernes aplaties",
+  "enonce": "De quoi le réticulum endoplasmique rugueux est-il principalement composé ?",
+  "propositions": [
+   "De saccules aplatis et interconnectés : les citernes",
+   "De sphères pédonculées",
+   "De tubules formant des canalisations",
+   "De piles de vésicules"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Le rugueux est un grand organite.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 27
+  }
+ },
+ {
+  "id": "bc02-q020",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "REL tubulaire",
+  "enonce": "Quelle forme ont les éléments du réticulum endoplasmique lisse ?",
+  "propositions": [
+   "Des piles de saccules",
+   "Tubulaire : un système de canalisations qui traverse le cytoplasme",
+   "Des vésicules à revêtement protéique",
+   "Des citernes aplaties couvertes de ribosomes"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les éléments du réticulum rugueux sont des citernes.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 27
+  }
+ },
+ {
+  "id": "bc02-q021",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "réticulum sarcoplasmique",
+  "enonce": "Comment s’appelle le réticulum endoplasmique très développé dans les muscles ?",
+  "propositions": [
+   "Le réticulum sarcoplasmique",
+   "Le sarcosome",
+   "Le dictyosome",
+   "Le réticulum granuleux"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Dans les muscles, le réticulum est particulièrement développé.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 30
+  }
+ },
+ {
+  "id": "bc02-q022",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "REG : synthèse des protéines",
+  "enonce": "Quelle fonction est assurée par le réticulum endoplasmique granuleux ?",
+  "propositions": [
+   "La synthèse des protéines",
+   "La synthèse d’hormones stéroïdes",
+   "La synthèse des lipides",
+   "La détoxication du foie"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "La synthèse des lipides a lieu dans le réticulum lisse.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 30
+  }
+ },
+ {
+  "id": "bc02-q023",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "cas_pratique",
+  "fait": "protéines vers le Golgi dans des vésicules",
+  "enonce": "Que deviennent la plupart des protéines quelques minutes après leur synthèse dans le réticulum endoplasmique granuleux ?",
+  "propositions": [
+   "Elles sont dégradées dans le noyau",
+   "Elles sont exportées directement hors de la cellule",
+   "Elles gagnent l’appareil de Golgi dans des vésicules golgiennes",
+   "Elles restent dans le réticulum"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Au sein du réticulum granuleux, les protéines peuvent être modifiées, repliées et leur qualité est contrôlée.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 31
+  }
+ },
+ {
+  "id": "bc02-q024",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "contrôle qualité dans le REG",
+  "enonce": "Quel contrôle est effectué sur les protéines dans le réticulum endoplasmique granuleux ?",
+  "propositions": [
+   "Leur séquence d’acide désoxyribonucléique est vérifiée",
+   "Leur charge est neutralisée",
+   "Leur qualité est « contrôlée » après modification et repliement",
+   "Leur taille est mesurée"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Le réticulum granuleux assemble et transporte les protéines destinées aux membranes et à la sécrétion.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 31
+  }
+ },
+ {
+  "id": "bc02-q025",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "REL : hormones stéroïdes dans gonades et cortex surrénal",
+  "enonce": "Quelles cellules synthétisent des hormones stéroïdes grâce au réticulum lisse, selon le cours ?",
+  "propositions": [
+   "Les hépatocytes",
+   "Les adipocytes",
+   "Les cellules endocrines des gonades et du cortex surrénal",
+   "Les cellules musculaires"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les lipides sécrétés varient d’un type cellulaire à l’autre.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 32
+  }
+ },
+ {
+  "id": "bc02-q026",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "REL : détoxication dans le foie",
+  "enonce": "Quel processus est assuré par le réticulum endoplasmique lisse dans le foie ?",
+  "propositions": [
+   "La détoxication",
+   "La synthèse des protéines de sécrétion",
+   "La phosphorylation oxydative",
+   "La digestion intracellulaire"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Il libère aussi du glucose dans le foie.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 32
+  }
+ },
+ {
+  "id": "bc02-q027",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "REL : séquestration du calcium",
+  "enonce": "Que séquestre le réticulum endoplasmique lisse dans ses citernes ?",
+  "propositions": [
+   "Le glucose",
+   "Les protéines sécrétées",
+   "Les ions sodium",
+   "Les ions calcium"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "C’est l’une de ses fonctions métaboliques.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 32
+  }
+ },
+ {
+  "id": "bc02-q028",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "cas_pratique",
+  "fait": "hépatocytes : REL et cytochrome P450",
+  "enonce": "Pourquoi le réticulum endoplasmique lisse est-il abondant dans les hépatocytes ?",
+  "propositions": [
+   "Pour la détoxification de substances chimiques (pesticides, cancérogènes, médicaments) par des enzymes à cytochrome P450",
+   "Pour la synthèse de protéines de sécrétion",
+   "Pour la digestion lysosomale",
+   "Pour la production d’énergie par respiration"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "La quantité de réticulum lisse est variable selon les cellules.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 33
+  }
+ },
+ {
+  "id": "bc02-q029",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "REL très développé : muscle, tubules rénaux, glandes endocrines",
+  "enonce": "Dans quel type de cellules le réticulum endoplasmique lisse est-il très développé ?",
+  "propositions": [
+   "Les hématies",
+   "Les cellules du muscle squelettique",
+   "Les cellules épithéliales pavimenteuses",
+   "Les adipocytes"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Il l’est aussi dans les tubules rénaux et les glandes endocrines.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 33
+  }
+ },
+ {
+  "id": "bc02-q030",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "protéines produites par le RER",
+  "enonce": "Quelles protéines sont produites au niveau du réticulum endoplasmique rugueux ?",
+  "propositions": [
+   "Les protéines transmembranaires et les protéines sécrétées",
+   "Les protéines du noyau uniquement",
+   "Les protéines des mitochondries uniquement",
+   "Les protéines du cytosol uniquement"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Il produit aussi les protéines résidentes du réticulum, du Golgi, des endosomes et des lysosomes.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 34
+  }
+ },
+ {
+  "id": "bc02-q031",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "N-glycosylation débute dans le RER",
+  "enonce": "Quelle modification des protéines a lieu dans le réticulum endoplasmique rugueux ?",
+  "propositions": [
+   "La sulfatation",
+   "La N-glycosylation",
+   "L’acylation",
+   "La O-glycosylation"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Elle sera terminée dans le Golgi.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 34
+  }
+ },
+ {
+  "id": "bc02-q032",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "glycosylation : oligosaccharides",
+  "enonce": "Que fait la glycosylation ?",
+  "propositions": [
+   "Elle coupe la séquence signal",
+   "Elle forme des ponts disulfure",
+   "Elle replie la chaîne protéique",
+   "Elle attache des oligosaccharides"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Elle a lieu dans le réticulum endoplasmique.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 35
+  }
+ },
+ {
+  "id": "bc02-q033",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "ponts disulfure : structures tertiaire et quaternaire",
+  "enonce": "À quoi servent les ponts disulfure ?",
+  "propositions": [
+   "À former la séquence signal",
+   "À stabiliser les structures tertiaire et quaternaire de la plupart des protéines",
+   "À attacher les oligosaccharides",
+   "À transporter les protéines dans les vésicules"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Ils se forment et se réarrangent dans le réticulum.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 35
+  }
+ },
+ {
+  "id": "bc02-q034",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "seules protéines correctement repliées vers le Golgi",
+  "enonce": "Quelles protéines sont transportées du réticulum endoplasmique granuleux vers le Golgi ?",
+  "propositions": [
+   "Seulement les protéines mal repliées",
+   "Seulement les glycoprotéines",
+   "Toutes les protéines synthétisées",
+   "Seulement celles qui sont correctement repliées"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Le repliement correct est assuré par les protéines du réticulum.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 36
+  }
+ },
+ {
+  "id": "bc02-q035",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "séquence signal",
+  "enonce": "Qu’est-ce que la séquence signal ?",
+  "propositions": [
+   "Un pont disulfure",
+   "Une séquence polypeptidique qui marque les protéines et qui est enlevée à leur arrivée à destination",
+   "Un revêtement protéique des vésicules",
+   "Un oligosaccharide attaché aux lipides"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les protéines cellulaires sont marquées par cette séquence.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 36
+  }
+ },
+ {
+  "id": "bc02-q036",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "transport des protéines dans des vésicules le long du cytosquelette",
+  "enonce": "Comment les protéines sont-elles transportées dans la cellule ?",
+  "propositions": [
+   "Par diffusion simple à travers le cytosol",
+   "Par les pores nucléaires",
+   "Par les aquaporines",
+   "Dans des vésicules qui circulent le long du cytosquelette"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "La séquence signal est enlevée à destination.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 36
+  }
+ },
+ {
+  "id": "bc02-q037",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "membrane du RE : 6 nm",
+  "enonce": "Quelle est l’épaisseur de la membrane du réticulum endoplasmique ?",
+  "propositions": [
+   "60 nm",
+   "6 nm",
+   "7,5 nm",
+   "0,6 nm"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "La membrane plasmique mesure 7,5 nm.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 38
+  }
+ },
+ {
+  "id": "bc02-q038",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "comparaison",
+  "fait": "membrane du RE : lipides/protéines 30/70",
+  "enonce": "Quelle est la proportion lipides / protéines (en %) de la membrane du réticulum endoplasmique ?",
+  "propositions": [
+   "40 / 60",
+   "70 / 30",
+   "30 / 70",
+   "60 / 40"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "La membrane plasmique a une proportion de 40 / 60.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 38
+  }
+ },
+ {
+  "id": "bc02-q039",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "90 % des lipides complexes",
+  "enonce": "Quelle part des lipides complexes le réticulum endoplasmique synthétise-t-il ?",
+  "propositions": [
+   "90 %",
+   "50 %",
+   "1 %",
+   "10 %"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Il synthétise aussi les protéines des membranes.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 38
+  }
+ },
+ {
+  "id": "bc02-q040",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "ordre",
+  "fait": "première étape de la synthèse d’une protéine du RER",
+  "enonce": "Quelle est la première étape de la synthèse d’une protéine du réticulum endoplasmique rugueux ?",
+  "propositions": [
+   "La fixation de la grosse sous-unité sur le réticulum",
+   "La translocation dans la lumière du réticulum",
+   "La glycosylation dans le Golgi",
+   "La formation d’un polysome dans le cytosol"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Ensuite : début de synthèse (20 acides aminés), fixation de la grosse sous-unité, poursuite dans la lumière.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 39
+  }
+ },
+ {
+  "id": "bc02-q041",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "polysomes fixés par la grosse sous-unité",
+  "enonce": "Par quelle sous-unité les polysomes se fixent-ils sur le réticulum endoplasmique ?",
+  "propositions": [
+   "Par l’acide ribonucléique messager",
+   "Par leur grosse sous-unité",
+   "Par leur petite sous-unité",
+   "Par l’enveloppe nucléaire"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Le polypeptide traverse un pore de translocation.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 39
+  }
+ },
+ {
+  "id": "bc02-q042",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "intrus",
+  "fait": "ribosomes libres : protéines destinées au noyau",
+  "enonce": "Quelle protéine est synthétisée sur des ribosomes libres ?",
+  "propositions": [
+   "Une protéine destinée au noyau",
+   "Une protéine soluble du système endomembranaire",
+   "Une protéine membranaire",
+   "Une protéine sécrétée par la cellule"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Les trois autres sont synthétisées sur les ribosomes fixés au réticulum rugueux.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 40
+  }
+ },
+ {
+  "id": "bc02-q043",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "protéines des mitochondries et chloroplastes : ribosomes libres",
+  "enonce": "Où sont synthétisées les protéines des mitochondries et des chloroplastes ?",
+  "propositions": [
+   "Dans le nucléole",
+   "Dans la lumière du Golgi",
+   "Sur des ribosomes libres, non liés au réticulum endoplasmique rugueux",
+   "Sur les ribosomes fixés à la face cytosolique du réticulum"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les ribosomes libres synthétisent aussi les protéines du cytosol et du noyau.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 40
+  }
+ },
+ {
+  "id": "bc02-q044",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "citernes de Golgi : 0,5 à 1 µm",
+  "enonce": "Quelle est la taille des citernes de l’appareil de Golgi ?",
+  "propositions": [
+   "0,5 à 1 nm",
+   "0,5 à 1 µm",
+   "5 à 10 µm",
+   "50 µm"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Elles sont disposées en pile, recourbées en forme de coupe peu profonde.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 45
+  }
+ },
+ {
+  "id": "bc02-q045",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "pile de Golgi : moins de 8 citernes",
+  "enonce": "Combien de citernes une pile de l’appareil de Golgi contient-elle ?",
+  "propositions": [
+   "Plus de 50",
+   "Exactement 10",
+   "Une seule",
+   "Moins de 8"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Le nombre de piles varie de quelques-unes à des milliers selon le type cellulaire.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 46
+  }
+ },
+ {
+  "id": "bc02-q046",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "côté cis : entrée et triage",
+  "enonce": "Quel côté de l’appareil de Golgi est l’entrée et sert de station de triage ?",
+  "propositions": [
+   "Le côté médian",
+   "Le côté trans, proche de la membrane plasmique",
+   "Aucun côté : le Golgi n’a pas de polarité",
+   "Le côté cis, proche du réticulum endoplasmique"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Le côté cis trie les protéines qui retournent vers le réticulum et celles qui vont vers la station suivante.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 46
+  }
+ },
+ {
+  "id": "bc02-q047",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "ordre",
+  "fait": "ordre des citernes de Golgi",
+  "enonce": "Quel est l’ordre des citernes de l’entrée à la sortie de l’appareil de Golgi ?",
+  "propositions": [
+   "Cis, trans, médiane",
+   "Trans, médiane, cis",
+   "Médiane, cis, trans",
+   "Cis, médiane, trans"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "La masse du Golgi est faite de grandes citernes cis, médiane et trans.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 47
+  }
+ },
+ {
+  "id": "bc02-q048",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "citernes trans : zone de triage",
+  "enonce": "Quelle zone du Golgi répartit les protéines dans des vésicules conduisant vers la membrane plasmique ou diverses destinations intracellulaires ?",
+  "propositions": [
+   "Les grandes citernes trans",
+   "Le réticulum endoplasmique lisse",
+   "Les citernes cis uniquement",
+   "Le nucléole"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Les côtés cis et trans modifient aussi les protéines par des enzymes.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 48
+  }
+ },
+ {
+  "id": "bc02-q049",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "acylation : ancrage",
+  "enonce": "Quel est le rôle de l’acylation dans le Golgi ?",
+  "propositions": [
+   "Dégrader partiellement les protéines",
+   "Renforcer l’ancrage des protéines membranaires",
+   "Greffer des radicaux sulfates",
+   "Terminer la N-glycosylation"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "La sulfatation greffe des radicaux sulfates sur les osides.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 50
+  }
+ },
+ {
+  "id": "bc02-q050",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "Golgi : O-glycosylation et fin de la N-glycosylation",
+  "enonce": "Quelle glycosylation le Golgi réalise-t-il ?",
+  "propositions": [
+   "La phosphorylation des sucres",
+   "Aucune glycosylation",
+   "La O-glycosylation, et il termine la N-glycosylation commencée dans le réticulum",
+   "Seulement la N-glycosylation"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "La N-glycosylation, initiée dans le réticulum endoplasmique, aboutit à une glycoprotéine portant un oside triantenné riche en mannose.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 50
+  }
+ },
+ {
+  "id": "bc02-q051",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "protéines du groupe I : lysosomes",
+  "enonce": "Vers quelle destination les protéines du groupe I sont-elles dirigées ?",
+  "propositions": [
+   "Les lysosomes",
+   "Le noyau",
+   "La membrane plasmique",
+   "Les mitochondries"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Le Golgi pose des « étiquettes » pour orienter les protéines.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 51
+  }
+ },
+ {
+  "id": "bc02-q052",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "protéines du groupe II : vésicules de sécrétion",
+  "enonce": "Que font les protéines du groupe II (luminales ou membranaires) ?",
+  "propositions": [
+   "Elles retournent dans le noyau",
+   "Elles restent dans le Golgi",
+   "Elles sont dirigées vers les lysosomes",
+   "Elles empruntent les vésicules de sécrétion vers la membrane plasmique"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les protéines luminales sont sécrétées dans le milieu extracellulaire.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 51
+  }
+ },
+ {
+  "id": "bc02-q053",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "vésicules : membranes donneuses et réceptrices",
+  "enonce": "Comment les vésicules de transport circulent-elles entre compartiments ?",
+  "propositions": [
+   "Elles bourgeonnent de membranes donneuses et fusionnent avec des membranes réceptrices",
+   "Elles bourgeonnent du noyau et fusionnent avec les mitochondries",
+   "Elles fusionnent seulement avec la membrane plasmique",
+   "Elles se forment dans le cytosol sans membrane"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "La cellule eucaryote est le siège d’un trafic permanent.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 56
+  }
+ },
+ {
+  "id": "bc02-q054",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "fonctions des revêtements protéiques",
+  "enonce": "Quelles sont les deux fonctions des revêtements protéiques des vésicules ?",
+  "propositions": [
+   "Ancrer la vésicule dans le noyau et la dégrader",
+   "Digérer la cargaison et la libérer",
+   "Synthétiser les lipides et transporter les ions",
+   "Courber la membrane pour former la vésicule et sélectionner les éléments à transporter"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les éléments à transporter sont la cargaison et l’équipement nécessaire pour arrimer la vésicule.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 58
+  }
+ },
+ {
+  "id": "bc02-q055",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "durée de vie d’une mitochondrie",
+  "enonce": "Quelle est la durée de vie d’une mitochondrie ?",
+  "propositions": [
+   "6 à 10 jours",
+   "6 à 10 mois",
+   "6 à 10 ans",
+   "6 à 10 heures"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Elle est détruite par autophagie.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 64
+  }
+ },
+ {
+  "id": "bc02-q056",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "renouvellement des mitochondries par division",
+  "enonce": "Comment les mitochondries se renouvellent-elles ?",
+  "propositions": [
+   "Par synthèse à partir du noyau",
+   "Par fusion de lysosomes",
+   "Par division de mitochondries préexistantes",
+   "Par mitose"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "La division (fission ou partition) est rapide : environ 1 minute.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 64
+  }
+ },
+ {
+  "id": "bc02-q057",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "H+ par sphères pédonculées : synthèse d’ATP",
+  "enonce": "Que permet le passage passif des H⁺ (protons) par les sphères pédonculées vers la matrice ?",
+  "propositions": [
+   "La synthèse de l’ATP (adénosine triphosphate) à partir d’ADP (adénosine diphosphate) et de Pi (phosphate inorganique)",
+   "L’entrée du glucose",
+   "La formation du cholestérol",
+   "La production de pyruvate"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Le passage est une diffusion facilitée couplée à une réaction de synthèse.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 77
+  }
+ },
+ {
+  "id": "bc02-q058",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "gradient de H+ : espace intermembranaire (+++)",
+  "enonce": "Dans la chaîne respiratoire, comment est le gradient de H⁺ (protons) ?",
+  "propositions": [
+   "Plus concentré dans la matrice",
+   "Plus concentré dans le noyau",
+   "Plus concentré dans l’espace intermembranaire (+++) que dans la matrice (---)",
+   "Identique des deux côtés"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les protéines de la chaîne respiratoire prélèvent des H⁺ de la matrice pour les transférer vers l’espace intermembranaire.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 76
+  }
+ },
+ {
+  "id": "bc02-q059",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "lysosomes : pH optimal 4,6",
+  "enonce": "À quel pH (potentiel hydrogène) les enzymes lysosomiques ont-elles une activité optimale ?",
+  "propositions": [
+   "pH basique (9)",
+   "pH 2",
+   "pH acide (4,6)",
+   "pH neutre (7)"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Ce sont des hydrolases acides.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 83
+  }
+ },
+ {
+  "id": "bc02-q060",
+  "chapitre": "bc02",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "acrosome digère la paroi de l’ovule",
+  "enonce": "Que digère l’acrosome du spermatozoïde lors de la fécondation ?",
+  "propositions": [
+   "Le noyau de l’ovule",
+   "La paroi de l’ovule",
+   "Le flagelle",
+   "La membrane du spermatozoïde"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "L’acrosome est un ensemble d’enzymes lysosomiques situé dans la tête du spermatozoïde.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 85
+  }
+ },
+ {
+  "id": "bc02-q061",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "voie biosynthétique : synthèse, modification, transport",
+  "enonce": "Parmi ces affirmations sur la voie biosynthétique (ou sécrétoire), lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle ne concerne que les lysosomes.",
+   "Elle conduit uniquement de la surface vers l’intérieur de la cellule.",
+   "Des matériaux y sont synthétisés dans le réticulum endoplasmique ou le complexe de Golgi.",
+   "Ils sont transportés dans le cytoplasme.",
+   "Ils sont modifiés durant le passage dans le Golgi."
+  ],
+  "bonnes": [
+   2,
+   3,
+   4
+  ],
+  "explication": "Beaucoup de ces matériaux sont destinés à être transportés en dehors de la cellule.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc02-q062",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "sécrétion constitutive et contrôlée",
+  "enonce": "Quelles associations type de sécrétion – caractéristique sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Contrôlée : stockage dans des granules de sécrétion",
+   "Contrôlée : sans régulation",
+   "Contrôlée : décharge en réponse à un stimulus",
+   "Constitutive : continue et sans régulation",
+   "Constitutive : stockage dans des granules"
+  ],
+  "bonnes": [
+   0,
+   2,
+   3
+  ],
+  "explication": "Ces matériaux sont déchargés dans l’espace intercellulaire.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 6
+  }
+ },
+ {
+  "id": "bc02-q063",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "microscope électronique : caractéristiques",
+  "enonce": "Quelles caractéristiques sont celles du microscope électronique ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Résolution la meilleure : 0,5 nm",
+   "Source : faisceau d’électrons",
+   "Milieu : vide",
+   "Coloration : oui",
+   "Lentilles électromagnétiques"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "Il n’y a pas de coloration en microscopie électronique ; le contraste vient de la dispersion des électrons.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 13
+  }
+ },
+ {
+  "id": "bc02-q064",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "microscope optique : caractéristiques",
+  "enonce": "Quelles caractéristiques sont celles du microscope optique ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Source : lumière visible",
+   "Grossissement maximal : 1 000 à 1 500",
+   "Lentilles en verre",
+   "Résolution la meilleure : 0,5 nm",
+   "Milieu : air"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "Son contraste vient de l’absorption différentielle de la lumière ; sa meilleure résolution est de 0,2 µm.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 13
+  }
+ },
+ {
+  "id": "bc02-q065",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "microscopie optique vs électronique : avantages et inconvénients",
+  "enonce": "Quelles affirmations opposant microscopie optique et électronique sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "En microscopie électronique, la cellule est morte.",
+   "Le microscope électronique permet de voir la structure fine de la cellule.",
+   "Le microscope électronique donne une vue d’ensemble de la cellule.",
+   "Le microscope optique atteint très souvent le niveau moléculaire.",
+   "Le microscope optique permet d’observer une cellule vivante."
+  ],
+  "bonnes": [
+   0,
+   1,
+   4
+  ],
+  "explication": "La microscopie électronique peut créer des artéfacts.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 19
+  }
+ },
+ {
+  "id": "bc02-q066",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "colorants et cibles",
+  "enonce": "Quelles associations colorant – cible sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Éosine : cytoplasmes en rose",
+   "DAPI (4’,6-diamidino-2-phénylindole) : membranes plasmiques",
+   "Hématéine : noyaux en violet",
+   "DAPI (4’,6-diamidino-2-phénylindole) : bases adénine et thymine de l’acide désoxyribonucléique",
+   "Hématéine : cytoplasmes en rose"
+  ],
+  "bonnes": [
+   0,
+   2,
+   3
+  ],
+  "explication": "Le DAPI est une molécule fluorescente.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc02-q067",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "réticulum endoplasmique : lumière, citernes, tubules",
+  "enonce": "Parmi ces affirmations sur le réticulum endoplasmique, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Le rugueux est dépourvu de lumière.",
+   "Le rugueux est principalement composé de citernes aplaties.",
+   "Le lisse est formé d’éléments tubulaires.",
+   "Il entoure un espace, la lumière, de composition différente du cytosol.",
+   "Le lisse est couvert de ribosomes."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "Les ribosomes accolés à la membrane donnent l’aspect rugueux.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 27
+  }
+ },
+ {
+  "id": "bc02-q068",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "parties du réticulum et fonctions",
+  "enonce": "Quelles associations partie du réticulum – fonction sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Réticulum lisse : synthèse des lipides",
+   "Réticulum granuleux : synthèse des protéines",
+   "Réticulum lisse : synthèse des protéines de sécrétion",
+   "Réticulum sarcoplasmique : réticulum des muscles"
+  ],
+  "bonnes": [
+   0,
+   1,
+   3
+  ],
+  "explication": "Le réticulum est important pour la synthèse des protéines et des lipides.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 30
+  }
+ },
+ {
+  "id": "bc02-q069",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "fonctions du REL",
+  "enonce": "Quelles fonctions sont assurées par le réticulum endoplasmique lisse ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La synthèse des acides gras et des phospholipides",
+   "La synthèse d’hormones stéroïdes dans les cellules endocrines",
+   "La séquestration des ions calcium",
+   "La N-glycosylation des protéines",
+   "La détoxication dans le foie"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "Il libère aussi du glucose dans le foie.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 32
+  }
+ },
+ {
+  "id": "bc02-q070",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "types cellulaires riches en REL",
+  "enonce": "Dans quels types cellulaires le réticulum endoplasmique lisse est-il très développé ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les hématies",
+   "Le muscle squelettique",
+   "Les cellules sans organites",
+   "Les tubules rénaux",
+   "Les glandes endocrines"
+  ],
+  "bonnes": [
+   1,
+   3,
+   4
+  ],
+  "explication": "Il est aussi abondant dans les hépatocytes.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 33
+  }
+ },
+ {
+  "id": "bc02-q071",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "protéines produites au niveau du RER",
+  "enonce": "Parmi ces protéines, lesquelles sont produites au niveau du réticulum endoplasmique rugueux ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les protéines transmembranaires",
+   "Les protéines destinées au noyau",
+   "Les protéines des mitochondries",
+   "Les protéines résidentes du réticulum, du Golgi, des endosomes et des lysosomes",
+   "Les protéines sécrétées"
+  ],
+  "bonnes": [
+   0,
+   3,
+   4
+  ],
+  "explication": "Il réalise aussi la N-glycosylation des protéines.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 34
+  }
+ },
+ {
+  "id": "bc02-q072",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "site de synthèse des protéines",
+  "enonce": "Quelles associations site de synthèse – protéines sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ribosomes libres : protéines du cytosol",
+   "Ribosomes fixés au réticulum : protéines sécrétées",
+   "Ribosomes libres : protéines sécrétées",
+   "Ribosomes fixés au réticulum : protéines membranaires",
+   "Ribosomes libres : protéines transportées vers le noyau"
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "Les ribosomes libres synthétisent aussi les protéines des chloroplastes et des mitochondries.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 40
+  }
+ },
+ {
+  "id": "bc02-q073",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "maturation des protéines dans le réticulum",
+  "enonce": "Parmi ces affirmations sur la maturation des protéines dans le réticulum, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Le repliement correct est assuré par les protéines du réticulum.",
+   "Les ponts disulfure se forment dans le noyau.",
+   "La séquence signal est enlevée à l’arrivée à destination.",
+   "Toutes les protéines mal repliées sont transportées vers le Golgi.",
+   "Les ponts disulfure stabilisent les structures tertiaire et quaternaire."
+  ],
+  "bonnes": [
+   0,
+   2,
+   4
+  ],
+  "explication": "Seules les protéines correctement repliées gagnent le Golgi.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 36
+  }
+ },
+ {
+  "id": "bc02-q074",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "membrane plasmique et membrane du réticulum",
+  "enonce": "Quelles associations membrane – caractéristique sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Membrane du réticulum : plus riche en cholestérol et en glycolipides",
+   "Membrane du réticulum : 6 nm",
+   "Membrane du réticulum : lipides/protéines 40/60",
+   "Membrane plasmique : 7,5 nm",
+   "Membrane plasmique : lipides/protéines 40/60"
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "La membrane du réticulum a une proportion lipides/protéines de 30/70.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 38
+  }
+ },
+ {
+  "id": "bc02-q075",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "ordre",
+  "fait": "étapes de la synthèse d’une protéine par un polysome",
+  "enonce": "Quelles étapes font partie de la synthèse d’une protéine par un polysome associé au réticulum ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Synthèse complète dans le noyau",
+   "Poursuite de la synthèse dans la lumière du réticulum",
+   "Fixation du polysome par sa grosse sous-unité",
+   "Formation d’un polysome dans le cytosol",
+   "Début de synthèse (les 20 premiers acides aminés)"
+  ],
+  "bonnes": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explication": "Les protéines traversent un pore de translocation.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 39
+  }
+ },
+ {
+  "id": "bc02-q076",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "phospholipides et flippases",
+  "enonce": "Parmi ces affirmations sur les phospholipides, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les flippases forment les vésicules.",
+   "Après leur synthèse, ils s’insèrent dans la moitié de bicouche faisant face au cytosol.",
+   "Leur migration dans le feuillet opposé se fait grâce aux flippases.",
+   "Ils s’insèrent d’abord du côté de la lumière du réticulum."
+  ],
+  "bonnes": [
+   1,
+   2
+  ],
+  "explication": "La bicouche devient ainsi asymétrique dès sa synthèse.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 41
+  }
+ },
+ {
+  "id": "bc02-q077",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "Golgi : morphologie",
+  "enonce": "Parmi ces affirmations sur la morphologie de l’appareil de Golgi, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Le nombre de piles varie de quelques-unes à des milliers selon le type cellulaire.",
+   "Les citernes mesurent 0,5 à 1 µm.",
+   "Il est formé de citernes aplaties en pile, en forme de coupe peu profonde.",
+   "Les empilements sont isolés les uns des autres.",
+   "Il contient moins de 8 citernes par pile."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "Les empilements sont interconnectés.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 46
+  }
+ },
+ {
+  "id": "bc02-q078",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "côtés du Golgi et fonctions",
+  "enonce": "Quelles associations côté du Golgi – fonction sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Côté cis : entrée et station de triage",
+   "Côtés cis et trans : modification des protéines par des enzymes",
+   "Côté trans : zone de triage vers la membrane plasmique ou d’autres destinations",
+   "Côté cis : sortie du Golgi",
+   "Côté médian : synthèse des lipides"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "Exemple de modification : la glycosylation.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 48
+  }
+ },
+ {
+  "id": "bc02-q079",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "fonctions du Golgi",
+  "enonce": "Quelles fonctions sont assurées par l’appareil de Golgi ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La dégradation partielle de protéines par des protéases (ex. insuline)",
+   "La maturation des lipides (ex. glycosylation)",
+   "La traduction des ARN (acide ribonucléique) messagers",
+   "L’acylation",
+   "La sulfatation"
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "Il assure aussi le tri et l’adressage.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 50
+  }
+ },
+ {
+  "id": "bc02-q080",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "sulfatation, acylation, glycosylation",
+  "enonce": "Parmi ces affirmations sur le Golgi, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La N-glycosylation, initiée dans le réticulum, est terminée dans le Golgi.",
+   "La sulfatation renforce l’ancrage des protéines membranaires.",
+   "L’acylation renforce l’ancrage des protéines membranaires.",
+   "La O-glycosylation est réalisée dans le noyau.",
+   "La sulfatation est la greffe de radicaux sulfates sur les osides."
+  ],
+  "bonnes": [
+   0,
+   2,
+   4
+  ],
+  "explication": "Le Golgi réalise la O-glycosylation.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 50
+  }
+ },
+ {
+  "id": "bc02-q081",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "groupes de protéines et destinations",
+  "enonce": "Quelles associations groupe de protéines – destination sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Groupe II : lysosomes",
+   "Groupe I : lysosomes",
+   "Groupe I : membrane plasmique",
+   "Groupe II : membrane plasmique par les vésicules de sécrétion"
+  ],
+  "bonnes": [
+   1,
+   3
+  ],
+  "explication": "Le Golgi pose des « étiquettes » de tri et d’adressage.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 51
+  }
+ },
+ {
+  "id": "bc02-q082",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "vésicules de transport et revêtement",
+  "enonce": "Parmi ces affirmations sur les vésicules de transport, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Le revêtement est situé du côté de la lumière.",
+   "En microscopie électronique, les vésicules en bourgeonnement portent un revêtement protéique opaque aux électrons.",
+   "La cellule eucaryote n’a pas de trafic vésiculaire.",
+   "Elles fusionnent avec des membranes réceptrices.",
+   "Elles bourgeonnent de membranes donneuses."
+  ],
+  "bonnes": [
+   1,
+   3,
+   4
+  ],
+  "explication": "Le revêtement est sur la face cytosolique.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 57
+  }
+ },
+ {
+  "id": "bc02-q083",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "éléments transportés par une vésicule",
+  "enonce": "Quels éléments sont à transporter par une vésicule ? (plusieurs réponses possibles)",
+  "propositions": [
+   "L’équipement nécessaire pour arrimer la vésicule à la membrane accepteuse",
+   "Le noyau",
+   "La cargaison",
+   "Le revêtement digéré"
+  ],
+  "bonnes": [
+   0,
+   2
+  ],
+  "explication": "Le revêtement courbe la membrane et sélectionne ce qui est transporté.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 58
+  }
+ },
+ {
+  "id": "bc02-q084",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "classes de vésicules tapissées",
+  "enonce": "Les classes de vésicules tapissées diffèrent par : (plusieurs réponses possibles)",
+  "propositions": [
+   "leur rôle dans le trafic cellulaire",
+   "leur nombre de membranes nucléaires",
+   "leur apparence au microscope électronique",
+   "leur teneur en acide désoxyribonucléique",
+   "leur revêtement protéique"
+  ],
+  "bonnes": [
+   0,
+   2,
+   4
+  ],
+  "explication": "Plusieurs classes de vésicules tapissées sont identifiées.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 59
+  }
+ },
+ {
+  "id": "bc02-q085",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "renouvellement des mitochondries",
+  "enonce": "Parmi ces affirmations sur le renouvellement des mitochondries, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elles sont renouvelées à partir du noyau.",
+   "Leur division est rapide (1 minute).",
+   "Elles sont détruites par autophagie.",
+   "Elles se renouvellent par division de mitochondries préexistantes.",
+   "Leur durée de vie est de 6 à 10 jours."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explication": "La division se fait par fission ou partition.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 64
+  }
+ },
+ {
+  "id": "bc02-q086",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "constituants renouvelés des mitochondries",
+  "enonce": "Quels constituants sont renouvelés en permanence dans la mitochondrie ? (plusieurs réponses possibles)",
+  "propositions": [
+   "L’enveloppe nucléaire",
+   "Les protéines (synthèse et importation)",
+   "L’ADN (acide désoxyribonucléique) mitochondrial (par duplication)",
+   "Les lipides",
+   "Les lysosomes"
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "Les protéines et lipides mitochondriaux sont synthétisés et importés.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 64
+  }
+ },
+ {
+  "id": "bc02-q087",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "fonctions des mitochondries",
+  "enonce": "Quelles fonctions sont assurées par les mitochondries ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La première étape de synthèse des hormones stéroïdes",
+   "La synthèse des protéines de sécrétion",
+   "Le stockage du calcium",
+   "La thermogénèse",
+   "La production d’ATP (adénosine triphosphate) à partir de la β-oxydation des nutriments"
+  ],
+  "bonnes": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explication": "Elles contrôlent le taux de calcium cytosolique.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 66
+  }
+ },
+ {
+  "id": "bc02-q088",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "mitochondrie et hormones stéroïdes",
+  "enonce": "La mitochondrie participe à la synthèse des hormones stéroïdes. Quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle y transforme la prégnénolone en insuline.",
+   "Cette étape fait intervenir le cytochrome P450.",
+   "Elle y synthétise le cholestérol à partir du glucose.",
+   "Le cholestérol y est transformé en prégnénolone.",
+   "Elle assure la première étape de cette synthèse."
+  ],
+  "bonnes": [
+   1,
+   3,
+   4
+  ],
+  "explication": "La thermogénèse est une autre fonction : production de chaleur par la respiration mitochondriale.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 66
+  }
+ },
+ {
+  "id": "bc02-q089",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "ordre",
+  "fait": "étapes du métabolisme énergétique",
+  "enonce": "Quelles étapes du métabolisme énergétique sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les produits de la digestion sont internalisés dans le cytosol.",
+   "L’énergie est stockée sous forme de liaison phosphate dans l’ATP (adénosine triphosphate).",
+   "Les pyruvates et acides gras pénètrent dans la matrice mitochondriale.",
+   "Dans le cytosol, les acides aminés et sucres donnent des pyruvates, les lipides des acides gras.",
+   "Les sucres sont digérés dans la matrice en acides gras."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explication": "La respiration consomme de l’O₂ et produit de l’eau et du CO₂.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 70
+  }
+ },
+ {
+  "id": "bc02-q090",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "produits de la respiration mitochondriale",
+  "enonce": "Quels produits résultent de la respiration mitochondriale ? (plusieurs réponses possibles)",
+  "propositions": [
+   "De l’eau",
+   "De l’ATP (adénosine triphosphate)",
+   "De l’O₂ (dioxygène)",
+   "Du glucose",
+   "Du CO₂ (dioxyde de carbone)"
+  ],
+  "bonnes": [
+   0,
+   1,
+   4
+  ],
+  "explication": "La respiration consomme de l’O₂ ; l’énergie est stockée dans l’ATP.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 71
+  }
+ },
+ {
+  "id": "bc02-q091",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "cycle de Krebs",
+  "enonce": "Quels éléments interviennent dans le cycle de Krebs ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La libération de CO₂ (dioxyde de carbone)",
+   "Le FAD (flavine adénine dinucléotide), transformé en FADH₂",
+   "La synthèse de cholestérol",
+   "Le NAD⁺ (nicotinamide adénine dinucléotide oxydé), transformé en NADH (nicotinamide adénine dinucléotide réduit)",
+   "L’acétyl-CoA"
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "Pyruvates et acides gras donnent l’acétyl-CoA.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 75
+  }
+ },
+ {
+  "id": "bc02-q092",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "chaîne respiratoire et gradient",
+  "enonce": "Parmi ces affirmations sur la chaîne respiratoire, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les électrons sont transférés d’une protéine à l’autre pour former des molécules d’eau.",
+   "Un gradient de concentration est créé entre la matrice (---) et l’espace intermembranaire (+++).",
+   "Les H⁺ s’accumulent dans la matrice.",
+   "Elle produit du glucose.",
+   "Les protéines prélèvent des H⁺ (protons) de la matrice pour les transférer vers l’espace intermembranaire."
+  ],
+  "bonnes": [
+   0,
+   1,
+   4
+  ],
+  "explication": "Le retour passif des H⁺ par les sphères pédonculées permet la synthèse d’énergie.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 76
+  }
+ },
+ {
+  "id": "bc02-q093",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "sphères pédonculées et ATP synthase",
+  "enonce": "Parmi ces affirmations sur la synthèse d’énergie dans la mitochondrie, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les sphères pédonculées sont dans la membrane interne.",
+   "Elles contiennent un canal à H⁺ (protons).",
+   "La chaîne respiratoire est aussi appelée chaîne de phosphorylation oxydative.",
+   "Le passage des H⁺ vers la matrice est passif et couplé à la synthèse d’ATP (adénosine triphosphate).",
+   "Le passage des H⁺ vers la matrice est un transport actif."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explication": "L’ATP formé quitte la mitochondrie pour être utilisé dans la cellule.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 77
+  }
+ },
+ {
+  "id": "bc02-q094",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "hydrolyse de l’ATP",
+  "enonce": "Parmi ces affirmations sur l’hydrolyse de l’ATP (adénosine triphosphate), lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle produit de l’ADP (adénosine diphosphate) et du Pi (phosphate inorganique).",
+   "Elle fournit l’énergie nécessaire à de nombreuses fonctions cellulaires.",
+   "Elle se déroule uniquement dans le noyau.",
+   "Elle consomme du phosphate sans produire d’énergie."
+  ],
+  "bonnes": [
+   0,
+   1
+  ],
+  "explication": "ATP → ADP + Pi.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 72
+  }
+ },
+ {
+  "id": "bc02-q095",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "lysosomes : caractéristiques",
+  "enonce": "Parmi ces affirmations sur les lysosomes, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Leur morphologie est très régulière.",
+   "Ces enzymes ont une activité optimale à pH (potentiel hydrogène) acide (4,6).",
+   "Ils fonctionnent comme des organites de digestion.",
+   "Ils contiennent environ 50 enzymes hydrolytiques différentes.",
+   "Ces enzymes sont produites par le réticulum endoplasmique rugueux."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explication": "Leur morphologie est très irrégulière : ils sont difficiles à identifier d’après leur forme.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 83
+  }
+ },
+ {
+  "id": "bc02-q096",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "enzymes lysosomiques",
+  "enonce": "Quelles affirmations sur les enzymes lysosomiques sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elles hydrolysent presque tous les types de macromolécules biologiques.",
+   "Elles laissent les macromolécules intactes.",
+   "Elles sont actives à un pH (potentiel hydrogène) neutre.",
+   "Les produits de faible poids moléculaire traversent la membrane du lysosome vers le cytosol.",
+   "Ce sont des hydrolases acides."
+  ],
+  "bonnes": [
+   0,
+   3,
+   4
+  ],
+  "explication": "Elles agissent à pH acide (4,6).",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 83
+  }
+ },
+ {
+  "id": "bc02-q097",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "fonctions des lysosomes",
+  "enonce": "Quelles sont des fonctions des lysosomes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Le recyclage des organites par autophagie",
+   "La digestion de la paroi de l’ovule par l’acrosome",
+   "La synthèse des hormones stéroïdes",
+   "La production d’énergie par respiration",
+   "La dégradation des matériaux apportés depuis le milieu extracellulaire"
+  ],
+  "bonnes": [
+   0,
+   1,
+   4
+  ],
+  "explication": "La dégradation des matériaux extracellulaires est la fonction la mieux étudiée.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 86
+  }
+ },
+ {
+  "id": "bc02-q098",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "schema_decrit",
+  "fait": "acrosome du spermatozoïde",
+  "enonce": "La tête d’un spermatozoïde contient un ensemble d’enzymes lysosomiques qui digère la paroi de l’ovule. Quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il s’agit de la fonction la plus inhabituelle des lysosomes.",
+   "La digestion a lieu lors de la fécondation.",
+   "Cet ensemble s’appelle l’acrosome.",
+   "Il s’agit de la fonction la mieux étudiée des lysosomes.",
+   "Il s’agit d’un flagelle."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "La fonction la mieux étudiée est la dégradation des matériaux venus du milieu extracellulaire.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 85
+  }
+ },
+ {
+  "id": "bc02-q099",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "réseau d’organites membranaires",
+  "enonce": "Parmi ces affirmations sur le réseau des organites membranaires, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Des chemins préférentiels de transport y ont été identifiés.",
+   "C’est un réseau dynamique.",
+   "Il ne contient aucun organite membranaire.",
+   "Il est statique.",
+   "Sa fonction essentielle est le transport des matériaux de la cellule."
+  ],
+  "bonnes": [
+   0,
+   1,
+   4
+  ],
+  "explication": "Deux voies sont identifiées : biosynthétique et endocytaire.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc02-q100",
+  "chapitre": "bc02",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "signaux de distribution : propriétés",
+  "enonce": "Quelles affirmations sur les signaux de distribution sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ils sont codés dans la séquence en acides aminés des protéines.",
+   "Ils sont identifiés par des récepteurs membranaires spécifiques.",
+   "Ils guident les produits vers des destinations prédéterminées.",
+   "Ils peuvent être portés par des oligosaccharides attachés.",
+   "Ils sont portés uniquement par les lipides."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explication": "Un système de guidage est nécessaire pour les deux types de transport.",
+  "source": {
+   "chapitre": "bc02",
+   "diapo": 8
+  }
+ }
+]

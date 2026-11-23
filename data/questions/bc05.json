@@ -1,0 +1,2335 @@
+[
+ {
+  "id": "bc05-q001",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "cytosquelette : cellules eucaryotes uniquement",
+  "enonce": "Dans quels types de cellules le cytosquelette est-il présent ?",
+  "propositions": [
+   "Uniquement dans les cellules eucaryotes",
+   "Uniquement chez les procaryotes",
+   "Uniquement dans les cellules végétales",
+   "Dans toutes les cellules"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Il donne leur forme aux cellules et permet les mouvements cellulaires.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc05-q002",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "rôles du cytosquelette",
+  "enonce": "Quels sont les rôles du cytosquelette ?",
+  "propositions": [
+   "Donner leur forme aux cellules, permettre les mouvements cellulaires et intervenir dans la division cellulaire",
+   "Produire l’oxygène, fixer le carbone et protéger le noyau",
+   "Synthétiser l’énergie, stocker l’information génétique et digérer les déchets",
+   "Transporter les ions, fabriquer les lipides et dégrader les protéines"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Le cytosquelette est formé de trois types de filaments.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc05-q003",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "trois types de filaments",
+  "enonce": "Quels sont les trois types de filaments du cytosquelette ?",
+  "propositions": [
+   "Les microtubules, les microfilaments d’actine et les filaments intermédiaires",
+   "Les microtubules, les lamines et la kératine",
+   "Les histones, les microtubules et l’actine",
+   "L’actine, la tubuline et la myosine"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Ce sont tous des filaments protéiques.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc05-q004",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "microtubules : rayonnent à partir du noyau",
+  "enonce": "Quels filaments rayonnent à partir du noyau ?",
+  "propositions": [
+   "Les lamines uniquement",
+   "Les filaments intermédiaires",
+   "Les microfilaments d’actine",
+   "Les microtubules"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les microtubules contrôlent également les mouvements cellulaires.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc05-q005",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "microfilaments : longent la membrane plasmique",
+  "enonce": "Quels filaments longent la membrane plasmique et contrôlent les mouvements associés aux membranes ?",
+  "propositions": [
+   "Les histones",
+   "Les microtubules",
+   "Les filaments intermédiaires",
+   "Les microfilaments d’actine"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les filaments intermédiaires protègent les cellules des contraintes externes.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc05-q006",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "filaments intermédiaires : contraintes externes",
+  "enonce": "Quelle est la fonction principale des filaments intermédiaires ?",
+  "propositions": [
+   "Permettre les mouvements associés aux membranes",
+   "Nucléer les microtubules",
+   "Protéger les cellules des contraintes externes",
+   "Faire glisser les filaments d’actine"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Ils forment par exemple une corbeille autour du noyau.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc05-q007",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "monomères associés de façon non covalente",
+  "enonce": "Comment les monomères des filaments du cytosquelette sont-ils associés entre eux ?",
+  "propositions": [
+   "Par des liaisons peptidiques",
+   "Par des ponts disulfure",
+   "Par des liaisons covalentes",
+   "Par des associations non covalentes"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Il existe des phénomènes d’association et de dissociation des monomères.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 6
+  }
+ },
+ {
+  "id": "bc05-q008",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "visualisation par immunocytochimie",
+  "enonce": "Comment visualise-t-on facilement le cytosquelette ?",
+  "propositions": [
+   "Par chromatographie",
+   "Par coloration de Gram",
+   "En microscopie optique à fluorescence, par immunocytochimie avec des anticorps marqués par un fluorochrome",
+   "En microscopie électronique à balayage sans marquage"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les phénomènes d’association/dissociation expliquent la dynamique du cytosquelette.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 6
+  }
+ },
+ {
+  "id": "bc05-q009",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "microtubules absents des globules rouges",
+  "enonce": "Dans quelles cellules eucaryotes les microtubules sont-ils absents ?",
+  "propositions": [
+   "Les globules rouges",
+   "Les neurones",
+   "Les hépatocytes",
+   "Les cellules musculaires"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Les microtubules sont présents dans toutes les cellules eucaryotes sauf les globules rouges.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc05-q010",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "microtubules : tubes creux de tubuline",
+  "enonce": "Que sont les microtubules ?",
+  "propositions": [
+   "Des chaînes de lamines",
+   "Des fibres de kératine",
+   "Des filaments pleins d’actine",
+   "Des tubes creux formés par un assemblage de tubuline"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les tubulines s’associent de façon non covalente.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc05-q011",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "tubuline : hétérodimère alpha/bêta",
+  "enonce": "Comment est constituée la tubuline ?",
+  "propositions": [
+   "D’une protéine fibreuse unique",
+   "D’un hétérodimère de deux protéines globulaires : la tubuline α et la tubuline β",
+   "D’un monomère unique",
+   "D’un trimère de tubulines α, β et γ"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les tubulines s’associent pour former les protofilaments.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc05-q012",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "polarité des microtubules",
+  "enonce": "Que signifie la polarité d’un microtubule ?",
+  "propositions": [
+   "Ses deux extrémités sont identiques",
+   "Il est chargé électriquement",
+   "Ses deux extrémités ne sont pas équivalentes : une extrémité + et une extrémité −",
+   "Il possède deux extrémités +"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "On parle de polarité.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 11
+  }
+ },
+ {
+  "id": "bc05-q013",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "formation des microtubules in vitro",
+  "enonce": "Quels éléments permettent la formation d’un microtubule in vitro ?",
+  "propositions": [
+   "Une solution concentrée de tubuline α et β, de Mg²⁺ (magnésium) et de GTP (guanosine triphosphate)",
+   "De l’ATP (adénosine triphosphate) seul",
+   "De l’acide désoxyribonucléique",
+   "Des lipides"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "On observe une phase de nucléation suivie d’une phase de croissance.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 12
+  }
+ },
+ {
+  "id": "bc05-q014",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "extrémité + : croissance 5 fois plus rapide",
+  "enonce": "Quelle extrémité d’un microtubule s’allonge environ 5 fois plus vite ?",
+  "propositions": [
+   "L’extrémité +",
+   "Les deux à la même vitesse",
+   "L’extrémité −",
+   "Aucune des deux"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Une extrémité s’allonge 5 fois plus vite que l’autre.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 13
+  }
+ },
+ {
+  "id": "bc05-q015",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "définition de l’extrémité +",
+  "enonce": "Comment définit-on l’extrémité + d’un microtubule ?",
+  "propositions": [
+   "Comme l’extrémité fixée au centrosome",
+   "Comme l’extrémité qui ne s’allonge jamais",
+   "Comme l’extrémité stabilisée par le centre organisateur des microtubules",
+   "Comme l’extrémité à croissance rapide"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "L’autre extrémité est définie comme l’extrémité −.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 13
+  }
+ },
+ {
+  "id": "bc05-q016",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "extrémité − associée au COMT",
+  "enonce": "À quoi l’extrémité − des microtubules est-elle associée in vivo ?",
+  "propositions": [
+   "Aux protéines de coiffage",
+   "Au centre organisateur des microtubules (COMT), c’est-à-dire au centrosome",
+   "À la membrane plasmique",
+   "Au nucléole"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Le centrosome est le site principal de nucléation des microtubules dans les cellules animales.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 14
+  }
+ },
+ {
+  "id": "bc05-q017",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "centrosome : deux centrioles et matrice",
+  "enonce": "De quoi le centrosome est-il constitué ?",
+  "propositions": [
+   "De deux centrioles noyés dans une masse amorphe, la matrice centrosomique",
+   "D’un nucléole et de ribosomes",
+   "De deux noyaux",
+   "De piles de saccules"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "C’est à partir de la matrice centrosomique qu’a lieu la nucléation des microtubules.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 14
+  }
+ },
+ {
+  "id": "bc05-q018",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "nucléation depuis la matrice centrosomique",
+  "enonce": "D’où part la nucléation des microtubules ?",
+  "propositions": [
+   "Du Golgi",
+   "Du noyau",
+   "De la membrane plasmique",
+   "De la matrice centrosomique"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Elle a lieu dans le centrosome.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 14
+  }
+ },
+ {
+  "id": "bc05-q019",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "instabilité dynamique",
+  "enonce": "Qu’est-ce que l’instabilité dynamique des microtubules ?",
+  "propositions": [
+   "Une synthèse d’acide ribonucléique",
+   "Une stabilité totale",
+   "Une dégradation définitive",
+   "Une polymérisation et une dépolymérisation sans cesse renouvelées"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Elle joue un rôle majeur dans de nombreux processus physiologiques comme la morphogenèse cellulaire.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 16
+  }
+ },
+ {
+  "id": "bc05-q020",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "extrémités + stabilisées par protéines de coiffage",
+  "enonce": "Par quoi les extrémités + des microtubules sont-elles stabilisées ?",
+  "propositions": [
+   "Les lamines",
+   "Le centre organisateur des microtubules",
+   "Les histones",
+   "Des protéines de coiffage fixées à la membrane plasmique"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les extrémités − sont stabilisées par le centre organisateur des microtubules.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 16
+  }
+ },
+ {
+  "id": "bc05-q021",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "coiffage : orientation de la croissance",
+  "enonce": "Que permet la stabilisation des extrémités + par des protéines de coiffage ?",
+  "propositions": [
+   "Orienter la croissance des microtubules dans une direction de la cellule et participer à sa forme",
+   "Produire de l’énergie",
+   "Dégrader les microtubules",
+   "Fixer le noyau"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Cela participe à la forme de la cellule in vivo.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 16
+  }
+ },
+ {
+  "id": "bc05-q022",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "MAP : stabilisation et déstabilisation",
+  "enonce": "Que peuvent faire les MAP (Microtubule-Associated Proteins) en se liant aux microtubules ?",
+  "propositions": [
+   "Remplacer l’actine",
+   "Les stabiliser ou les déstabiliser",
+   "Fabriquer des lipides",
+   "Dégrader le noyau"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Elles interviennent aussi dans des interactions avec d’autres composants cellulaires.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc05-q023",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "déplacement d’organites : énergie de l’ATP",
+  "enonce": "Que requiert le déplacement d’organites le long des microtubules par les MAP (Microtubule-Associated Proteins) ?",
+  "propositions": [
+   "Du calcium seul",
+   "De l’énergie, sous forme d’ATP (adénosine triphosphate)",
+   "De la lumière",
+   "Aucune énergie"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les MAP permettent le déplacement d’organites le long des microtubules.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc05-q024",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "dynéine : vers l’extrémité −",
+  "enonce": "Vers quelle extrémité des microtubules la dynéine transporte-t-elle les organites ?",
+  "propositions": [
+   "L’extrémité −",
+   "L’extrémité +",
+   "La membrane uniquement",
+   "Le noyau uniquement"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "La kinésine transporte vers l’extrémité +.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc05-q025",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "kinésine : extrémité +, mitose et méiose",
+  "enonce": "Dans quels contextes la kinésine est-elle impliquée ?",
+  "propositions": [
+   "La phagocytose",
+   "Le transport vers l’extrémité − uniquement",
+   "La contraction musculaire",
+   "Le transport vers l’extrémité + (ex. axone), la mitose et la méiose"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "La kinésine et la dynéine sont des protéines associées aux microtubules (MAP) cytoplasmiques.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc05-q026",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "cas_pratique",
+  "fait": "vésicules synaptiques le long d’un microtubule",
+  "enonce": "Comment les vésicules synaptiques se déplacent-elles dans l’axone d’une cellule nerveuse ?",
+  "propositions": [
+   "Par diffusion libre",
+   "Le long de filaments de kératine",
+   "Le long d’un microtubule",
+   "Le long de lamines"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Exemple du cours : déplacement des vésicules synaptiques le long d’un microtubule constituant l’axone.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 19
+  }
+ },
+ {
+  "id": "bc05-q027",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "cils : 10⁹ par cm²",
+  "enonce": "Combien de cils par cm² se trouvent au pôle apical des cellules épithéliales du tractus respiratoire humain ?",
+  "propositions": [
+   "Environ 10¹⁵",
+   "Environ 10³",
+   "Environ 10⁶",
+   "Environ 10⁹"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les microtubules sont essentiels au fonctionnement des cils et des flagelles.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 20
+  }
+ },
+ {
+  "id": "bc05-q028",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "cas_pratique",
+  "fait": "cils respiratoires : mucus et poussières",
+  "enonce": "Que font les cils du tractus respiratoire ?",
+  "propositions": [
+   "Ils absorbent les nutriments",
+   "Ils synthétisent le mucus",
+   "Ils propulsent les spermatozoïdes",
+   "Ils font remonter le mucus avec les poussières piégées et les cellules mortes jusqu’à la bouche"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les poussières et cellules mortes sont ensuite avalées et éliminées.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 20
+  }
+ },
+ {
+  "id": "bc05-q029",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "microfilaments d’actine : 8 nm",
+  "enonce": "Quelle est la largeur d’un microfilament d’actine ?",
+  "propositions": [
+   "80 nm",
+   "0,8 nm",
+   "8 nm",
+   "25 nm"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les filaments intermédiaires mesurent entre 8 et 10 nm.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 24
+  }
+ },
+ {
+  "id": "bc05-q030",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "actine F : hélice d’actine G",
+  "enonce": "Comment est constitué un microfilament d’actine ?",
+  "propositions": [
+   "D’une chaîne de lamines",
+   "D’une hélice serrée (actine F) formée de molécules d’actine globulaire (actine G)",
+   "D’un cordage de protéines fibreuses",
+   "D’un tube creux de tubuline"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "L’actine G pèse 42 000 Da.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 24
+  }
+ },
+ {
+  "id": "bc05-q031",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "polarité des microfilaments d’actine",
+  "enonce": "Quelles caractéristiques ont les deux extrémités d’un microfilament d’actine ?",
+  "propositions": [
+   "Aucune polarité",
+   "Deux extrémités identiques",
+   "Deux extrémités à croissance lente",
+   "Une extrémité − à croissance lente et une extrémité + à croissance rapide"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les microfilaments d’actine sont des structures polarisées.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 24
+  }
+ },
+ {
+  "id": "bc05-q032",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "ordre",
+  "fait": "phases de la polymérisation de l’actine",
+  "enonce": "Quelles phases suit la polymérisation de l’actine ?",
+  "propositions": [
+   "Latence, puis dépolymérisation",
+   "Nucléation, latence, puis dépolymérisation",
+   "Croissance, nucléation, puis latence",
+   "Latence, nucléation, puis croissance"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "L’instabilité dynamique de l’actine correspond à un mouvement de « tapis roulant ».",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 25
+  }
+ },
+ {
+  "id": "bc05-q033",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "tapis roulant de l’actine",
+  "enonce": "À quoi correspond le « tapis roulant » (treadmilling) de l’actine ?",
+  "propositions": [
+   "À la fusion de deux filaments",
+   "À la dégradation lysosomale",
+   "Au déplacement de l’extrémité − vers l’extrémité +",
+   "Au déplacement d’une molécule d’actine de l’extrémité + vers l’extrémité −"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les microfilaments d’actine sont essentiels au système de contraction des cellules musculaires.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 26
+  }
+ },
+ {
+  "id": "bc05-q034",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "actine et contraction musculaire",
+  "enonce": "Dans quelles cellules les microfilaments d’actine sont-ils des composants essentiels du système de contraction ?",
+  "propositions": [
+   "Les cellules sans noyau",
+   "Les cellules procaryotes",
+   "Les hématies",
+   "Les cellules musculaires"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Le mouvement de tapis roulant est lié à l’instabilité dynamique.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 26
+  }
+ },
+ {
+  "id": "bc05-q035",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "protéines de coiffage de l’actine : extrémité +",
+  "enonce": "Où se situent toujours les protéines de coiffage des filaments d’actine ?",
+  "propositions": [
+   "À l’extrémité −",
+   "À l’extrémité +, souvent au niveau de la membrane plasmique",
+   "Au centre du filament",
+   "Dans le noyau"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Elles contrôlent l’assemblage des filaments d’actine au niveau de la membrane.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 27
+  }
+ },
+ {
+  "id": "bc05-q036",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "filamine",
+  "enonce": "Que fait la filamine ?",
+  "propositions": [
+   "Elle fragmente l’actine",
+   "Elle relie deux microfilaments parallèles",
+   "Elle relie deux microfilaments d’actine perpendiculaires pour former un réseau résistant aux chocs",
+   "Elle déplace les organites"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Exemple du cours : la ceinture de sécurité.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 28
+  }
+ },
+ {
+  "id": "bc05-q037",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "fasciculine",
+  "enonce": "Que fait la fasciculine ?",
+  "propositions": [
+   "Elle fixe le noyau",
+   "Elle fragmente l’actine",
+   "Elle associe deux microfilaments d’actine parallèles",
+   "Elle associe deux microfilaments perpendiculaires"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "La filamine relie des filaments perpendiculaires.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 28
+  }
+ },
+ {
+  "id": "bc05-q038",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "protéines d’ancrage",
+  "enonce": "Que relient les protéines d’ancrage de l’actine ?",
+  "propositions": [
+   "Les microfilaments d’actine à la membrane plasmique, via des protéines intrinsèques transmembranaires",
+   "Les microfilaments aux mitochondries",
+   "Les filaments intermédiaires aux lysosomes",
+   "Les microtubules au noyau"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Elles renforcent la membrane et peuvent tirer sur la membrane plasmique.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 30
+  }
+ },
+ {
+  "id": "bc05-q039",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "gelsoline : fragmentation",
+  "enonce": "Quelle protéine fragmente les filaments d’actine ?",
+  "propositions": [
+   "La profiline",
+   "La myosine",
+   "La gelsoline",
+   "La thymosine"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les protéines de fragmentation décomposent les filaments d’actine.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 31
+  }
+ },
+ {
+  "id": "bc05-q040",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "profiline : stimule la polymérisation",
+  "enonce": "Que fait la profiline ?",
+  "propositions": [
+   "Elle séquestre l’actine G et inhibe la polymérisation",
+   "Elle fragmente les filaments",
+   "Elle déplace les organites",
+   "Elle se fixe à l’actine G et stimule la polymérisation à l’extrémité +"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Le complexe formé s’appelle la profilactine.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 31
+  }
+ },
+ {
+  "id": "bc05-q041",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "thymosine : séquestration",
+  "enonce": "Que fait la thymosine ?",
+  "propositions": [
+   "Elle stimule la polymérisation",
+   "Elle fragmente l’actine",
+   "Elle séquestre l’actine G liée à l’ATP (adénosine triphosphate) et inhibe la polymérisation",
+   "Elle relie les filaments"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "C’est une protéine de rétention.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 31
+  }
+ },
+ {
+  "id": "bc05-q042",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "myosines : ATPases",
+  "enonce": "Que sont les myosines cytoplasmiques ?",
+  "propositions": [
+   "Des phosphatases",
+   "Des protéines de coiffage",
+   "Des kinases",
+   "Des ATPases qui utilisent l’énergie de l’ATP (adénosine triphosphate) pour provoquer le mouvement"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Il existe des myosines de type I et de type II.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 32
+  }
+ },
+ {
+  "id": "bc05-q043",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "myosine II : 2 têtes et une queue",
+  "enonce": "Comment est constituée une myosine de type II ?",
+  "propositions": [
+   "De 2 têtes motrices (ATPase) et d’une queue",
+   "De 3 queues",
+   "D’aucune tête",
+   "D’une tête et d’une queue courte"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "La queue s’associe à d’autres molécules de myosine.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 32
+  }
+ },
+ {
+  "id": "bc05-q044",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "myosine II : déplacement vers l’extrémité +",
+  "enonce": "Vers quelle extrémité du filament d’actine les têtes de myosine II se déplacent-elles ?",
+  "propositions": [
+   "L’extrémité +",
+   "Le noyau",
+   "L’extrémité −",
+   "Le centre du filament"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Le mouvement est permis par l’hydrolyse de l’énergie stockée.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 32
+  }
+ },
+ {
+  "id": "bc05-q045",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "ordre",
+  "fait": "trois étapes de la migration cellulaire",
+  "enonce": "Quelles sont les trois étapes de la migration des cellules animales dépendantes de l’actine ?",
+  "propositions": [
+   "Traction, protrusion, division",
+   "Protrusion, attachement, traction",
+   "Attachement, division, fusion",
+   "Protrusion, fusion, apoptose"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Lors de la protrusion, les lamellipodes s’étendent en avant de la cellule.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 35
+  }
+ },
+ {
+  "id": "bc05-q046",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "cas_pratique",
+  "fait": "calcium et gelsoline",
+  "enonce": "Quel ion active la gelsoline lors de la phagocytose ?",
+  "propositions": [
+   "Le magnésium",
+   "Le sodium",
+   "Le potassium",
+   "Le calcium (Ca²⁺)"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Des signaux cellulaires augmentent la concentration locale en calcium.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 36
+  }
+ },
+ {
+  "id": "bc05-q047",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "gelsoline : transition gel-sol",
+  "enonce": "Que provoque la gelsoline lors de la phagocytose ?",
+  "propositions": [
+   "Une transition gel-sol : fragmentation puis dépolymérisation de l’actine",
+   "Une dégradation du noyau",
+   "Une fusion des vésicules",
+   "Une polymérisation rapide de l’actine"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Le cytosquelette se reconstitue ensuite différemment.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 36
+  }
+ },
+ {
+  "id": "bc05-q048",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "pseudopodes : entourer la bactérie",
+  "enonce": "Que forme le cytosquelette lors de la phagocytose après sa reconstitution ?",
+  "propositions": [
+   "Des microvillosités",
+   "Des cils",
+   "Des pseudopodes qui s’allongent jusqu’à entourer complètement la bactérie",
+   "Des flagelles"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les pseudopodes sont des extensions cytoplasmiques.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 36
+  }
+ },
+ {
+  "id": "bc05-q049",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "microvillosités : surface d’échange",
+  "enonce": "À quoi servent les microvillosités ?",
+  "propositions": [
+   "À la contraction",
+   "À la division cellulaire",
+   "À augmenter la surface d’échange de la cellule",
+   "À la sécrétion de mucus"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les microvillosités sont constituées de faisceaux de microfilaments d’actine.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 37
+  }
+ },
+ {
+  "id": "bc05-q050",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "microvillosités : muqueuse intestinale",
+  "enonce": "Où se trouvent les microvillosités citées dans le cours ?",
+  "propositions": [
+   "Dans les neurones",
+   "Dans les hématies",
+   "Au niveau des cellules épithéliales de la muqueuse intestinale",
+   "Dans le muscle"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Elles servent à l’absorption des nutriments.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 37
+  }
+ },
+ {
+  "id": "bc05-q051",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "filaments intermédiaires : 8 à 10 nm",
+  "enonce": "Quel est le diamètre des filaments intermédiaires ?",
+  "propositions": [
+   "25 nm",
+   "1 nm",
+   "80 nm",
+   "Entre 8 et 10 nm"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Ce sont des fibres résistantes et stables.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 40
+  }
+ },
+ {
+  "id": "bc05-q052",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "corbeille autour du noyau",
+  "enonce": "Quel rôle jouent les filaments intermédiaires autour du noyau ?",
+  "propositions": [
+   "Ils le dupliquent",
+   "Ils le déplacent",
+   "Ils le dissolvent",
+   "Ils forment une « corbeille » qui le protège des chocs mécaniques"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Ils sont présents dans la plupart des cellules eucaryotes.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 40
+  }
+ },
+ {
+  "id": "bc05-q053",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "monomères des filaments intermédiaires : protéines fibreuses",
+  "enonce": "Que sont les monomères des filaments intermédiaires, à la différence des microtubules et des microfilaments ?",
+  "propositions": [
+   "Des lipides",
+   "Des protéines fibreuses avec un domaine central commun",
+   "Des sucres",
+   "Des protéines globulaires"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Ils sont organisés en cordage.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 41
+  }
+ },
+ {
+  "id": "bc05-q054",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "kératines : type I",
+  "enonce": "Quels filaments intermédiaires sont présents dans tous les épithéliums et les dérivés épidermiques (cheveux, ongles) ?",
+  "propositions": [
+   "Les neurofilaments (type III)",
+   "Les lamines (type IV)",
+   "Les kératines (type I)",
+   "La desmine (type II)"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Il existe quatre classes de filaments intermédiaires.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 42
+  }
+ },
+ {
+  "id": "bc05-q055",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "desmine : cellules musculaires",
+  "enonce": "Dans quelles cellules trouve-t-on la desmine ?",
+  "propositions": [
+   "Les neurones",
+   "Les hématies",
+   "Les cellules musculaires",
+   "Les épithéliums"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "La desmine correspond aux filaments de type II.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 42
+  }
+ },
+ {
+  "id": "bc05-q056",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "lamines : réseau autour du noyau",
+  "enonce": "Quels filaments intermédiaires forment un réseau autour du noyau ?",
+  "propositions": [
+   "Les lamines (type IV)",
+   "Les kératines (type I)",
+   "Les neurofilaments (type III)",
+   "La desmine (type II)"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Les lamines sont les filaments de type IV.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 42
+  }
+ },
+ {
+  "id": "bc05-q057",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "jonctions communicantes (gap)",
+  "enonce": "Par quelles jonctions les cellules proches échangent-elles des signaux à courte distance, sans sécrétion ?",
+  "propositions": [
+   "Les desmosomes",
+   "Les jonctions communicantes (gap)",
+   "Les pores nucléaires",
+   "Les synapses"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "La signalisation peut aussi passer par des molécules d’adhérence.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 46
+  }
+ },
+ {
+  "id": "bc05-q058",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "communication autocrine",
+  "enonce": "Quel type de signalisation agit sur la cellule émettrice ?",
+  "propositions": [
+   "La signalisation paracrine",
+   "La signalisation endocrine",
+   "La signalisation neuronale",
+   "La signalisation autocrine"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Le médiateur local passe par le milieu extracellulaire : facteurs de croissance, cytokines.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 51
+  }
+ },
+ {
+  "id": "bc05-q059",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "communication endocrine : sang",
+  "enonce": "Quelle signalisation passe par une sécrétion dans le courant sanguin, avec action lente ?",
+  "propositions": [
+   "La signalisation endocrine",
+   "La signalisation paracrine",
+   "La signalisation autocrine",
+   "La signalisation neuronale"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Exemple : les hormones ; la concentration est faible (< 10⁻⁸ mol).",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 52
+  }
+ },
+ {
+  "id": "bc05-q060",
+  "chapitre": "bc05",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "communication neuronale : rapide",
+  "enonce": "Quelle signalisation est très rapide (millisecondes) et utilise des neurotransmetteurs à une synapse chimique ?",
+  "propositions": [
+   "La signalisation paracrine",
+   "La signalisation endocrine",
+   "La signalisation neuronale (synaptique)",
+   "La signalisation autocrine"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Exemple : l’acétylcholine ; la concentration est haute (> 10⁻⁴ mol).",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 53
+  }
+ },
+ {
+  "id": "bc05-q061",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "cytosquelette : présence et rôles",
+  "enonce": "Parmi ces affirmations sur le cytosquelette, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il donne leur forme aux cellules.",
+   "Il est présent uniquement dans les cellules eucaryotes.",
+   "Il intervient dans la division cellulaire.",
+   "Il est présent dans les bactéries.",
+   "Il permet les mouvements cellulaires."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "Il est formé de trois types de filaments.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc05-q062",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "filaments : localisation et rôles",
+  "enonce": "Quelles associations filament – localisation ou rôle sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Filaments intermédiaires : protègent des contraintes externes",
+   "Filaments intermédiaires : contrôlent les mouvements associés aux membranes",
+   "Microfilaments d’actine : longent la membrane plasmique",
+   "Microtubules : longent la membrane plasmique",
+   "Microtubules : rayonnent à partir du noyau"
+  ],
+  "bonnes": [
+   0,
+   2,
+   4
+  ],
+  "explication": "Les microtubules contrôlent aussi les mouvements cellulaires.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc05-q063",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "propriétés des filaments du cytosquelette",
+  "enonce": "Parmi ces affirmations sur les filaments du cytosquelette, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Leurs monomères s’associent par des liaisons non covalentes.",
+   "Ils se visualisent par immunocytochimie en fluorescence.",
+   "Ils sont tous protéiques.",
+   "Leurs monomères sont liés par des liaisons covalentes.",
+   "Les associations et dissociations de monomères expliquent la dynamique du cytosquelette."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "Les anticorps sont marqués par un fluorochrome.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 6
+  }
+ },
+ {
+  "id": "bc05-q064",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "microtubules : constitution",
+  "enonce": "Parmi ces affirmations sur les microtubules, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ils sont des tubes creux de tubuline.",
+   "La tubuline est un hétérodimère de tubuline α et β.",
+   "Ils sont présents dans toutes les cellules eucaryotes sauf les globules rouges.",
+   "Leurs monomères sont assemblés par des liaisons covalentes.",
+   "Ce sont des filaments pleins d’actine."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "Les tubulines s’associent de façon non covalente pour former des protofilaments.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc05-q065",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "polarité des microtubules : vitesses",
+  "enonce": "Quelles affirmations sur la polarité des microtubules sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Leurs deux extrémités ne sont pas équivalentes.",
+   "Les deux extrémités croissent à la même vitesse.",
+   "L’extrémité − croît plus vite.",
+   "L’extrémité à croissance rapide est définie comme l’extrémité +.",
+   "L’extrémité + croît environ 5 fois plus vite que l’extrémité −."
+  ],
+  "bonnes": [
+   0,
+   3,
+   4
+  ],
+  "explication": "L’autre extrémité est définie comme l’extrémité −.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 13
+  }
+ },
+ {
+  "id": "bc05-q066",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "formation in vitro : éléments",
+  "enonce": "Quels éléments interviennent dans la formation d’un microtubule in vitro ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Le Mg²⁺ (magnésium)",
+   "Une phase de nucléation suivie d’une phase de croissance",
+   "Des lipides membranaires",
+   "La tubuline α et β",
+   "Le GTP (guanosine triphosphate)"
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "La concentration en tubuline reste identique pendant l’observation.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 12
+  }
+ },
+ {
+  "id": "bc05-q067",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "centrosome",
+  "enonce": "Parmi ces affirmations sur le centrosome, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "C’est le site principal de nucléation des microtubules dans les cellules animales.",
+   "L’extrémité − des microtubules lui est associée in vivo.",
+   "Les centrioles sont noyés dans la matrice centrosomique.",
+   "Il est situé dans le noyau.",
+   "Il est constitué de deux centrioles."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "La nucléation a lieu à partir de la matrice centrosomique.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 14
+  }
+ },
+ {
+  "id": "bc05-q068",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "dynamique des microtubules",
+  "enonce": "Quelles affirmations sur la dynamique des microtubules sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Cette instabilité joue un rôle dans la morphogenèse cellulaire.",
+   "Leurs extrémités + sont stabilisées par le centrosome.",
+   "Leurs extrémités + sont stabilisées par des protéines de coiffage.",
+   "Ils se polymérisent et se dépolymérisent sans cesse.",
+   "Leurs extrémités − sont stabilisées par le centre organisateur des microtubules."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explication": "Les protéines de coiffage sont fixées à la membrane plasmique.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 16
+  }
+ },
+ {
+  "id": "bc05-q069",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "MAP : rôles",
+  "enonce": "Parmi ces affirmations sur les MAP (Microtubule-Associated Proteins), lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elles forment le fuseau de division à elles seules.",
+   "Elles peuvent stabiliser ou déstabiliser les microtubules.",
+   "Elles permettent le déplacement d’organites le long des microtubules.",
+   "Elles interviennent dans des interactions avec d’autres éléments du cytosquelette.",
+   "Elles déplacent les organites sans consommer d’énergie."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "Le déplacement requiert de l’énergie.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc05-q070",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "kinésine et dynéine",
+  "enonce": "Quelles associations protéine motrice – déplacement sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Kinésine : transport vers l’extrémité +",
+   "Dynéine : transport vers l’extrémité +",
+   "Dynéine : transport vers l’extrémité −",
+   "Kinésine : contraction musculaire",
+   "Kinésine : implication dans la mitose et la méiose"
+  ],
+  "bonnes": [
+   0,
+   2,
+   4
+  ],
+  "explication": "Ce sont des protéines associées aux microtubules (MAP) cytoplasmiques qui dirigent le mouvement des organites.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc05-q071",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "cils du tractus respiratoire",
+  "enonce": "Parmi ces affirmations sur les cils du tractus respiratoire, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il y en a environ 10⁹ par cm² au pôle apical des cellules épithéliales.",
+   "Ils se situent dans le noyau.",
+   "Les cellules mortes sont éliminées après avoir été avalées.",
+   "Ils font remonter le mucus et les poussières piégées.",
+   "Ils propulsent les spermatozoïdes."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3
+  ],
+  "explication": "Les microtubules sont essentiels aux cils.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 20
+  }
+ },
+ {
+  "id": "bc05-q072",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "identification",
+  "fait": "structures à microtubules",
+  "enonce": "Quelles structures mobiles reposent sur des microtubules ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les lamellipodes",
+   "Les flagelles",
+   "Les cils",
+   "Les microvillosités",
+   "Les pseudopodes"
+  ],
+  "bonnes": [
+   1,
+   2
+  ],
+  "explication": "Les microvillosités, les lamellipodes et les pseudopodes dépendent de l’actine.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 22
+  }
+ },
+ {
+  "id": "bc05-q073",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "microfilaments d’actine : constitution",
+  "enonce": "Parmi ces affirmations sur les microfilaments d’actine, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ils forment une hélice serrée d’actine F.",
+   "L’actine G a une masse de 42 000 Da (daltons).",
+   "Ils mesurent 8 nm de large.",
+   "Ils sont des tubes creux.",
+   "Ils sont polarisés."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "L’actine F est formée de molécules d’actine G.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 24
+  }
+ },
+ {
+  "id": "bc05-q074",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "dynamique de l’actine",
+  "enonce": "Quelles affirmations sur la dynamique de l’actine sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Le tapis roulant déplace des molécules de l’extrémité − vers l’extrémité +.",
+   "Les filaments d’actine sont essentiels à la contraction des cellules musculaires.",
+   "Le « tapis roulant » déplace des molécules d’actine de l’extrémité + vers l’extrémité −.",
+   "Elle suit une phase de latence, une nucléation puis une croissance."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "L’instabilité dynamique de l’actine correspond à un mouvement de tapis roulant.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 26
+  }
+ },
+ {
+  "id": "bc05-q075",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "protéines de coiffage de l’actine",
+  "enonce": "Parmi ces affirmations sur les protéines de coiffage de l’actine, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elles sont souvent au niveau de la membrane plasmique.",
+   "Elles sont toujours situées à l’extrémité +.",
+   "Elles contrôlent l’assemblage des filaments au niveau de la membrane.",
+   "Elles sont situées à l’extrémité −.",
+   "Elles fragmentent l’actine."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "La gelsoline est une protéine de fragmentation.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 27
+  }
+ },
+ {
+  "id": "bc05-q076",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "filamine et fasciculine",
+  "enonce": "Quelles associations protéine de réticulation – action sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Filamine : relie 2 microfilaments perpendiculaires",
+   "Filamine : relie 2 microfilaments parallèles",
+   "Fasciculine : fragmente l’actine",
+   "La filamine forme un réseau résistant aux chocs",
+   "Fasciculine : relie 2 microfilaments parallèles"
+  ],
+  "bonnes": [
+   0,
+   3,
+   4
+  ],
+  "explication": "Exemple de résistance : la ceinture de sécurité.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 28
+  }
+ },
+ {
+  "id": "bc05-q077",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "protéines d’ancrage de l’actine",
+  "enonce": "Parmi ces affirmations sur les protéines d’ancrage, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elles relient l’actine à la lamina nucléaire.",
+   "Elles peuvent tirer sur la membrane plasmique (puits et bourgeons).",
+   "Elles renforcent la membrane cellulaire.",
+   "Elles peuvent relier des filaments d’actine entre eux.",
+   "Elles relient l’actine à la membrane via des protéines intrinsèques."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explication": "Ce sont des protéines associées à l’actine.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 30
+  }
+ },
+ {
+  "id": "bc05-q078",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "gelsoline, profiline, thymosine",
+  "enonce": "Quelles associations protéine – rôle sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Profiline : stimulation de la polymérisation à l’extrémité +",
+   "Thymosine : stimulation de la polymérisation",
+   "Gelsoline : polymérisation",
+   "Gelsoline : fragmentation de l’actine",
+   "Thymosine : séquestration de l’actine G et inhibition de la polymérisation"
+  ],
+  "bonnes": [
+   0,
+   3,
+   4
+  ],
+  "explication": "Ce sont des protéines associées à l’actine.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 31
+  }
+ },
+ {
+  "id": "bc05-q079",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "myosines",
+  "enonce": "Parmi ces affirmations sur les myosines, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "L’hydrolyse de l’ATP (adénosine triphosphate) fait bouger la tête vers l’extrémité +.",
+   "La queue de la myosine II est motrice.",
+   "Ce sont des ATPases.",
+   "La myosine II possède 2 têtes et une queue.",
+   "La myosine I a une seule tête motrice et une queue plus courte."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explication": "La queue de la myosine II s’associe à d’autres molécules de myosine.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 32
+  }
+ },
+ {
+  "id": "bc05-q080",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "têtes de la myosine II",
+  "enonce": "Quelles affirmations sur les têtes de la myosine II sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elles ont une activité motrice.",
+   "Elles ont une activité ATPase.",
+   "Elles déplacent l’actine vers l’extrémité −.",
+   "Elles s’associent à d’autres molécules de myosine."
+  ],
+  "bonnes": [
+   0,
+   1
+  ],
+  "explication": "La queue s’associe à d’autres myosines.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 32
+  }
+ },
+ {
+  "id": "bc05-q081",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "ordre",
+  "fait": "migration cellulaire",
+  "enonce": "Quelles étapes de la migration cellulaire dépendent de l’actine ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La division du noyau",
+   "La traction : le corps de la cellule se déplace vers l’avant",
+   "La digestion du substrat",
+   "La protrusion : les lamellipodes s’étendent en avant",
+   "L’attachement : connexion du cytosquelette d’actine avec le substrat"
+  ],
+  "bonnes": [
+   1,
+   3,
+   4
+  ],
+  "explication": "La migration comporte trois étapes distinctes.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 35
+  }
+ },
+ {
+  "id": "bc05-q082",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "ordre",
+  "fait": "phagocytose",
+  "enonce": "Parmi ces étapes de la phagocytose, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Le cytosquelette se reconstitue pour former des pseudopodes.",
+   "La gelsoline fragmente puis dépolymérise l’actine.",
+   "Le Ca²⁺ active la gelsoline.",
+   "La profiline fragmente l’actine.",
+   "Des signaux cellulaires augmentent la concentration locale en Ca²⁺ (ion calcium)."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "Les pseudopodes entourent la bactérie à ingérer.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 36
+  }
+ },
+ {
+  "id": "bc05-q083",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "microvillosités",
+  "enonce": "Parmi ces affirmations sur les microvillosités, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elles sont formées de faisceaux de microfilaments d’actine.",
+   "Elles se situent dans les cellules épithéliales de la muqueuse intestinale.",
+   "Elles augmentent la surface d’échange.",
+   "Elles sont formées de microtubules.",
+   "Les faisceaux sont reliés entre eux et à la membrane par des protéines de liaison."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "Elles servent à l’absorption des nutriments.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 37
+  }
+ },
+ {
+  "id": "bc05-q084",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "filaments intermédiaires : propriétés",
+  "enonce": "Parmi ces affirmations sur les filaments intermédiaires, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ce sont des fibres protéiques de 8 à 10 nm de diamètre.",
+   "Elles sont creuses.",
+   "Elles forment une corbeille autour du noyau.",
+   "Elles sont résistantes et stables.",
+   "Elles sont absentes de la plupart des cellules eucaryotes."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3
+  ],
+  "explication": "Elles sont présentes dans la plupart des cellules eucaryotes.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 40
+  }
+ },
+ {
+  "id": "bc05-q085",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "filaments intermédiaires vs microtubules/actine",
+  "enonce": "Quelles affirmations opposant les filaments intermédiaires aux microtubules et aux microfilaments sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ils sont organisés en tubes creux.",
+   "Leurs monomères sont des protéines globulaires.",
+   "Ils ont un domaine central commun.",
+   "Ils sont organisés en forme de cordage.",
+   "Les monomères des filaments intermédiaires sont des protéines fibreuses."
+  ],
+  "bonnes": [
+   2,
+   3,
+   4
+  ],
+  "explication": "Ils peuvent interagir avec les organites, la membrane et d’autres filaments.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 41
+  }
+ },
+ {
+  "id": "bc05-q086",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "classes de filaments intermédiaires",
+  "enonce": "Quelles associations classe – localisation sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Type I : kératines, dans tous les épithéliums",
+   "Type II : desmine, dans les cellules musculaires",
+   "Type I : neurofilaments",
+   "Type IV : lamines, réseau autour du noyau",
+   "Type III : neurofilaments, dans les neurones"
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "Il existe quatre classes de filaments intermédiaires.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 42
+  }
+ },
+ {
+  "id": "bc05-q087",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "kératines : localisations",
+  "enonce": "Dans quels éléments trouve-t-on des kératines ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les neurones",
+   "Tous les épithéliums",
+   "Les cheveux",
+   "Les ongles",
+   "Les cellules musculaires"
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "Les kératines forment les filaments de type I.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 42
+  }
+ },
+ {
+  "id": "bc05-q088",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "desmosomes",
+  "enonce": "Parmi ces affirmations sur les desmosomes, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ils sont présents uniquement dans les neurones.",
+   "Les filaments intermédiaires y interviennent.",
+   "Ils sont présents au niveau des cellules épithéliales.",
+   "Les microtubules y sont le composant principal.",
+   "Ce sont des jonctions cellulaires."
+  ],
+  "bonnes": [
+   1,
+   2,
+   4
+  ],
+  "explication": "Les filaments intermédiaires interviennent au niveau des jonctions cellulaires.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 43
+  }
+ },
+ {
+  "id": "bc05-q089",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "signalisation entre cellules proches",
+  "enonce": "Quelles affirmations sur la signalisation entre cellules proches sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle nécessite toujours une sécrétion dans le sang.",
+   "Elle peut passer par des molécules d’adhérence.",
+   "Elle peut se faire sans sécrétion.",
+   "Elle peut passer par des jonctions communicantes (gap).",
+   "Les molécules d’adhérence assurent reconnaissance et adhérence entre cellules."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explication": "Il s’agit de signaux à courte distance.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 47
+  }
+ },
+ {
+  "id": "bc05-q090",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "signalisation paracrine",
+  "enonce": "Parmi ces propositions, lesquelles décrivent la signalisation paracrine ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Sécrétion dans le milieu extracellulaire",
+   "Cellule réceptrice en voisinage",
+   "Sécrétion dans le courant sanguin",
+   "Diffusion passive : médiateur local",
+   "Concentration faible"
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "Exemple de médiateur : les facteurs de croissance.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 50
+  }
+ },
+ {
+  "id": "bc05-q091",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "signalisation autocrine",
+  "enonce": "Parmi ces affirmations sur la signalisation autocrine, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Le signal agit sur la cellule émettrice.",
+   "Le médiateur circule dans le sang.",
+   "Le signal agit uniquement sur des cellules éloignées.",
+   "Le médiateur est local, via le milieu extracellulaire.",
+   "Exemples : facteurs de croissance, cytokines."
+  ],
+  "bonnes": [
+   0,
+   3,
+   4
+  ],
+  "explication": "C’est un médiateur local.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 51
+  }
+ },
+ {
+  "id": "bc05-q092",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "signalisation endocrine",
+  "enonce": "Quelles caractéristiques décrivent une signalisation endocrine ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Concentration faible (< 10⁻⁸ mol)",
+   "Action lente (secondes, minutes)",
+   "Action très rapide (millisecondes)",
+   "Cellule réceptrice à grande distance",
+   "Sécrétion dans le courant sanguin"
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "Exemple de médiateur : les hormones.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 52
+  }
+ },
+ {
+  "id": "bc05-q093",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "signalisation neuronale",
+  "enonce": "Quelles caractéristiques décrivent une signalisation neuronale (synaptique) ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Concentration haute (> 10⁻⁴ mol)",
+   "Sécrétion par l’élément présynaptique",
+   "Médiateur : neurotransmetteur, par exemple l’acétylcholine",
+   "Action très rapide (millisecondes)",
+   "Sécrétion dans le sang"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explication": "La synapse chimique permet la communication entre neurones.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 53
+  }
+ },
+ {
+  "id": "bc05-q094",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "quatre modes de signalisation",
+  "enonce": "Quelles associations signal – caractéristique sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Neuronal : synapse chimique",
+   "Paracrine : médiateur local à diffusion passive",
+   "Autocrine : agit sur la cellule émettrice",
+   "Endocrine : transport par le sang",
+   "Endocrine : action très rapide"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explication": "Les cellules ont développé des stratégies de communication par des signaux chimiques.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 52
+  }
+ },
+ {
+  "id": "bc05-q095",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "éléments intervenant dans la phagocytose",
+  "enonce": "Quels éléments du cytosquelette ou de la signalisation interviennent dans la phagocytose ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les kératines",
+   "La gelsoline",
+   "Le calcium (Ca²⁺)",
+   "Les lamines",
+   "Les microfilaments d’actine"
+  ],
+  "bonnes": [
+   1,
+   2,
+   4
+  ],
+  "explication": "La gelsoline provoque une transition gel-sol.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 36
+  }
+ },
+ {
+  "id": "bc05-q096",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "techniques et notions d’observation",
+  "enonce": "Quelles méthodes ou notions sont citées pour visualiser le cytosquelette ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Anticorps marqués par un fluorochrome",
+   "Immunocytochimie",
+   "Cryofracture",
+   "Microscopie optique à fluorescence",
+   "Coloration de Gram"
+  ],
+  "bonnes": [
+   0,
+   1,
+   3
+  ],
+  "explication": "La visualisation est très facile en microscopie à fluorescence.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 6
+  }
+ },
+ {
+  "id": "bc05-q097",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "identification",
+  "fait": "extensions dépendant de l’actine",
+  "enonce": "Quelles extensions cellulaires dépendent de l’actine ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les flagelles",
+   "Les microvillosités",
+   "Les lamellipodes (migration)",
+   "Les cils",
+   "Les pseudopodes (phagocytose)"
+  ],
+  "bonnes": [
+   1,
+   2,
+   4
+  ],
+  "explication": "Les cils et les flagelles reposent sur des microtubules.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 36
+  }
+ },
+ {
+  "id": "bc05-q098",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "protéines motrices des microtubules",
+  "enonce": "Quelles molécules dirigent le mouvement des organites le long des microtubules ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La kinésine",
+   "La filamine",
+   "La gelsoline",
+   "La dynéine",
+   "La thymosine"
+  ],
+  "bonnes": [
+   0,
+   3
+  ],
+  "explication": "Ce sont des protéines associées aux microtubules (MAP) cytoplasmiques.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc05-q099",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "actine : caractéristiques",
+  "enonce": "Quels éléments caractérisent l’actine ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Phase de latence, puis nucléation, puis croissance",
+   "Hétérodimère α et β",
+   "Actine G : actine globulaire",
+   "Polarité + et −",
+   "Actine F : hélice serrée"
+  ],
+  "bonnes": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explication": "Les microfilaments d’actine mesurent 8 nm.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 24
+  }
+ },
+ {
+  "id": "bc05-q100",
+  "chapitre": "bc05",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "protéines et polymérisation de l’actine",
+  "enonce": "Quelles protéines associées à l’actine agissent sur sa polymérisation ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La filamine fragmente l’actine",
+   "La profiline stimule la polymérisation",
+   "La thymosine l’inhibe",
+   "La gelsoline fragmente le filament",
+   "Les protéines de coiffage contrôlent l’assemblage à la membrane"
+  ],
+  "bonnes": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explication": "La filamine relie des filaments d’actine perpendiculaires.",
+  "source": {
+   "chapitre": "bc05",
+   "diapo": 31
+  }
+ }
+]

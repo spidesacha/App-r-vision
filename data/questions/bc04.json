@@ -1,0 +1,2316 @@
+[
+ {
+  "id": "bc04-q001",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "apparition du noyau : passage procaryotes → eucaryotes",
+  "enonce": "Quel événement évolutif majeur est associé à l’apparition du noyau ?",
+  "propositions": [
+   "L’apparition des mitochondries",
+   "Le passage des cellules unicellulaires aux cellules multicellulaires",
+   "L’apparition de la photosynthèse",
+   "Le passage des procaryotes aux eucaryotes"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "L’apparition du noyau est un événement majeur de l’évolution qui a permis le passage des procaryotes aux eucaryotes.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc04-q002",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "noyau = organite interphasique",
+  "enonce": "Que signifie « organite interphasique » pour le noyau ?",
+  "propositions": [
+   "Il n’existe que pendant la mitose",
+   "Il est présent uniquement dans les cellules en division",
+   "Il disparaît en fin de métaphase",
+   "Il est présent en interphase et disparaît en fin de prophase"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Le noyau est interphasique : il disparaît en fin de prophase.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc04-q003",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "intrus",
+  "fait": "ADN mitochondrial et chloroplastique hors du noyau",
+  "enonce": "Quel ADN (acide désoxyribonucléique) ne se trouve pas dans le noyau ?",
+  "propositions": [
+   "L’ADN des chromosomes nucléaires",
+   "L’ADN du génome nucléaire",
+   "L’ADN des mitochondries",
+   "L’ADN associé aux histones"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Le noyau contient le génome de la cellule, sauf l’ADN mitochondrial et chloroplastique.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc04-q004",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "transcription nucléaire : ARNm, ARNr, ARNt",
+  "enonce": "Quels types d’ARN (acide ribonucléique) sont synthétisés dans le noyau lors de la transcription ?",
+  "propositions": [
+   "Des ARN messagers et des ARN ribosomiques seulement",
+   "Uniquement des ARN messagers",
+   "Aucun : la transcription a lieu dans le cytoplasme",
+   "ARN messager, ARN ribosomique et ARN de transfert"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Le noyau est le siège de la transcription : synthèse des ARN messagers, ribosomiques et de transfert.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc04-q005",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "noyau : réplication et transcription",
+  "enonce": "Quels deux processus le noyau permet-il pour le maintien et l’expression de l’information génétique ?",
+  "propositions": [
+   "La traduction et la glycosylation",
+   "La phagocytose et l’exocytose",
+   "La respiration et la photosynthèse",
+   "La réplication et la transcription"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Le noyau stocke l’information génétique (réplication) et exprime cette information (transcription).",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc04-q006",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "comparaison",
+  "fait": "noyau = organite le plus volumineux",
+  "enonce": "Parmi ces organites, lequel est le plus volumineux de la cellule ?",
+  "propositions": [
+   "Le lysosome",
+   "Le noyau",
+   "L’appareil de Golgi",
+   "La mitochondrie"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Le noyau est l’organite le plus volumineux de la cellule.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 6
+  }
+ },
+ {
+  "id": "bc04-q007",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "membrane nucléaire : deux membranes",
+  "enonce": "Combien de membranes composent la membrane nucléaire ?",
+  "propositions": [
+   "Aucune : elle est formée de protéines",
+   "Trois",
+   "Deux : une externe et une interne",
+   "Une seule"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "La membrane nucléaire est une double membrane (externe et interne), percée de pores.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 6
+  }
+ },
+ {
+  "id": "bc04-q008",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "contenu du nucléoplasme",
+  "enonce": "Que renferme le nucléoplasme ?",
+  "propositions": [
+   "Des protéines et de l’acide désoxyribonucléique organisés en chromatine ou en chromosomes, des nucléoles et un squelette nucléaire",
+   "Du cytosol et des lysosomes",
+   "Uniquement de l’acide désoxyribonucléique libre",
+   "Des ribosomes complets et des mitochondries"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Le nucléoplasme renferme la chromatine ou les chromosomes, les nucléoles et un squelette nucléaire (charpente fibreuse).",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 6
+  }
+ },
+ {
+  "id": "bc04-q009",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "hématies sans noyau",
+  "enonce": "Quelle cellule ne possède aucun noyau ?",
+  "propositions": [
+   "L’adipocyte",
+   "La cellule musculaire",
+   "L’hépatocyte",
+   "L’hématie"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les hématies et les kératinocytes n’ont aucun noyau.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 8
+  }
+ },
+ {
+  "id": "bc04-q010",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "cellules multinucléées : musculaires, hépatocytes",
+  "enonce": "Parmi ces cellules, laquelle peut contenir plusieurs noyaux ?",
+  "propositions": [
+   "La cellule épithéliale cubique",
+   "Le kératinocyte",
+   "La cellule musculaire",
+   "L’hématie"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Normalement, une cellule contient un noyau ; certaines en ont plusieurs : cellules musculaires et hépatocytes (parfois binucléés).",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 8
+  }
+ },
+ {
+  "id": "bc04-q011",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "noyau allongé : cellules fusiformes",
+  "enonce": "Quelle forme de noyau est typique des cellules musculaires lisses (cellules fusiformes) ?",
+  "propositions": [
+   "Lobulée",
+   "Sphérique",
+   "Allongée",
+   "Discoïde"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Noyau allongé : cellules fusiformes comme les cellules musculaires lisses.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 9
+  }
+ },
+ {
+  "id": "bc04-q012",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "noyau lobulé : granulocytes",
+  "enonce": "Quel type cellulaire possède un noyau lobulé (ou convoluté) ?",
+  "propositions": [
+   "La cellule épithéliale cubique",
+   "Le granulocyte",
+   "La cellule pavimenteuse",
+   "La cellule musculaire lisse"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Le noyau lobulé ou convoluté est celui des granulocytes.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 9
+  }
+ },
+ {
+  "id": "bc04-q013",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "noyau discoïde : cellules pavimenteuses",
+  "enonce": "Quelle forme de noyau observe-t-on dans les cellules pavimenteuses ?",
+  "propositions": [
+   "Sphérique",
+   "Allongée",
+   "Discoïde",
+   "Lobulée"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Noyau discoïde : cellules pavimenteuses. Sphérique : cellules épithéliales cubiques ou polyédriques.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 9
+  }
+ },
+ {
+  "id": "bc04-q014",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "association",
+  "fait": "noyau périphérique : adipocytes",
+  "enonce": "Où se situe le noyau dans un adipocyte ?",
+  "propositions": [
+   "Il n’y a pas de noyau",
+   "Au centre géométrique",
+   "En périphérie de la cellule",
+   "À la base de la cellule"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Position périphérique dans les adipocytes.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc04-q015",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "association",
+  "fait": "noyau basal : cellules glandulaires exocrines",
+  "enonce": "Où se situe le noyau dans les cellules glandulaires à sécrétion exocrine ?",
+  "propositions": [
+   "À la base de la cellule (position basale)",
+   "Au centre géométrique",
+   "Au pôle apical",
+   "En périphérie, contre la membrane"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Position basale dans les cellules glandulaires à sécrétion exocrine.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc04-q016",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "association",
+  "fait": "noyau central : cellules embryonnaires",
+  "enonce": "Quelle position du noyau caractérise les cellules embryonnaires ?",
+  "propositions": [
+   "La base de la cellule",
+   "Le centre géométrique de la cellule",
+   "Le pôle apical",
+   "La périphérie"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les cellules embryonnaires ont un noyau au centre géométrique.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc04-q017",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "volume nucléaire fixe par type cellulaire",
+  "enonce": "Que dit-on du volume du noyau ?",
+  "propositions": [
+   "Il varie au hasard dans un même type cellulaire",
+   "Il est identique dans toutes les cellules",
+   "Il est fixe pour un même type cellulaire mais varie d’un type à l’autre",
+   "Il dépend uniquement de la taille de l’organisme"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Le volume est fixe pour un type cellulaire, variable d’un type à l’autre (petit dans les glandes salivaires, volumineux dans les cellules multipolaires de la corne antérieure de la moelle).",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc04-q018",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "cas_pratique",
+  "fait": "mitose : pas de métabolisme de l’ADN",
+  "enonce": "Pendant la mitose, que devient l’ADN (acide désoxyribonucléique) du point de vue métabolique ?",
+  "propositions": [
+   "Il n’a plus de métabolisme : il se condense en chromosomes et se sépare",
+   "Il reste sous forme de chromatine décondensée",
+   "Il est répliqué et transcrit",
+   "Il est réparé en continu"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "En mitose, pas de métabolisme de l’ADN : condensation sous forme de chromosomes et séparation.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 13
+  }
+ },
+ {
+  "id": "bc04-q019",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "échanges nucléo-cytoplasmiques bidirectionnels",
+  "enonce": "Quelle est la nature des échanges nucléo-cytoplasmiques ?",
+  "propositions": [
+   "Ils se font par fusion de vésicules avec l’enveloppe",
+   "Ils sont bidirectionnels et se font par les pores nucléaires",
+   "Ils sont unidirectionnels, du cytoplasme vers le noyau",
+   "Ils sont unidirectionnels, du noyau vers le cytoplasme"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les échanges nucléo-cytoplasmiques passent par les pores nucléaires et sont bidirectionnels.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 13
+  }
+ },
+ {
+  "id": "bc04-q020",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "euchromatine : peu condensée, accessible",
+  "enonce": "Qu’est-ce que l’euchromatine ?",
+  "propositions": [
+   "Une chromatine localisée uniquement dans le nucléole",
+   "Une chromatine peu condensée, accessible à la transcription, codante",
+   "Un matériel génétique dépourvu d’histones",
+   "Une chromatine très condensée, inaccessible à la transcription, non codante"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "L’euchromatine est peu condensée et accessible aux ARN (acide ribonucléique) polymérases ; elle est codante.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc04-q021",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "hétérochromatine : très condensée, inactive",
+  "enonce": "Qu’est-ce que l’hétérochromatine ?",
+  "propositions": [
+   "Un matériel génétique libre, sans histones",
+   "Une chromatine peu condensée, accessible à la transcription",
+   "Une chromatine très condensée, inaccessible à la transcription, dite « inactive »",
+   "Le matériel du nucléole"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "L’hétérochromatine est très condensée et inaccessible aux ARN (acide ribonucléique) polymérases ; elle est non codante.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc04-q022",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "taille d’une histone : 100 à 200 aa",
+  "enonce": "Quelle est la taille d’une histone ?",
+  "propositions": [
+   "10 à 20 acides aminés",
+   "1 000 à 2 000 acides aminés",
+   "100 à 200 acides aminés",
+   "Plus de 10 000 acides aminés"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les histones sont de petites protéines nucléaires de 100 à 200 acides aminés.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc04-q023",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "H1 = histone non nucléosomique",
+  "enonce": "Quelle histone est qualifiée de non nucléosomique ?",
+  "propositions": [
+   "H2A",
+   "H1",
+   "H4",
+   "H3"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les histones nucléosomiques sont H2A, H2B, H3 et H4 ; H1 est non nucléosomique.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc04-q024",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "histones interagissent avec l’ADN",
+  "enonce": "Quelle est la relation des histones avec l’ADN (acide désoxyribonucléique) ?",
+  "propositions": [
+   "Elles interagissent avec l’ADN pour le compacter en nucléosomes",
+   "Elles synthétisent l’ADN",
+   "Elles transportent l’ADN hors du noyau",
+   "Elles forment la charpente du nucléole"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Les histones sont des protéines nucléaires qui interagissent avec l’ADN ; la chromatine est compactée en nucléosomes.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc04-q025",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "nucléosome : 150 pb en 2 tours",
+  "enonce": "Quelle longueur d’ADN (acide désoxyribonucléique) est enroulée autour de l’octamère d’un nucléosome ?",
+  "propositions": [
+   "Environ 1 500 paires de bases, en 10 tours",
+   "Environ 150 paires de bases, en 2 tours",
+   "Environ 15 paires de bases, en 1 tour",
+   "Environ 50 paires de bases, en 2 tours"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Un nucléosome comporte 150 paires de bases d’ADN en 2 tours autour de 8 histones.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc04-q026",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "nucléosome : 8 histones",
+  "enonce": "Combien d’histones forment le cœur d’un nucléosome ?",
+  "propositions": [
+   "4",
+   "6",
+   "8",
+   "10"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Le nucléosome est formé de 8 histones : 2 H2A, 2 H2B, 2 H3 et 2 H4.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc04-q027",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "rôle de H1",
+  "enonce": "Quel est le rôle de l’histone H1 ?",
+  "propositions": [
+   "Faire partie de l’octamère",
+   "Détacher le matériel génétique des histones",
+   "Replier le matériel génétique dans le nucléole",
+   "Permettre l’association des nucléosomes entre eux"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "H1 relie les nucléosomes ; ce n’est pas une histone du cœur nucléosomique.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc04-q028",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "solénoïde : 6 groupes de nucléosomes",
+  "enonce": "Combien de nucléosomes forment un groupe appelé solénoïde ?",
+  "propositions": [
+   "100",
+   "6",
+   "2",
+   "10"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "6 groupes de nucléosomes forment les solénoïdes.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 20
+  }
+ },
+ {
+  "id": "bc04-q029",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "ordre",
+  "fait": "ordre de compaction de l’ADN",
+  "enonce": "Quel est l’ordre croissant de compaction de l’ADN (acide désoxyribonucléique) ?",
+  "propositions": [
+   "Double hélice, collier de perles, boucles, fibre chromatinienne, chromosome",
+   "Collier de perles, double hélice, fibre chromatinienne, boucles, chromosome",
+   "Double hélice, collier de perles, fibre chromatinienne, boucles, chromosome",
+   "Double hélice, fibre chromatinienne, collier de perles, boucles, chromosome"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Double hélice (2 nm), nucléosomes en collier de perles, fibre chromatinienne (30 nm), boucles (300 nm), puis repliement jusqu’au chromosome.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 20
+  }
+ },
+ {
+  "id": "bc04-q030",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "fibre de solénoïdes : 30 nm",
+  "enonce": "Sur le schéma de compaction de la chromatine, quelle taille correspond à la fibre de nucléosomes en solénoïde ?",
+  "propositions": [
+   "1 400 nm",
+   "300 nm",
+   "30 nm",
+   "11 nm"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Tailles du schéma : 2 nm, 30 nm, 300 nm, 700 nm et 1 400 nm.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 19
+  }
+ },
+ {
+  "id": "bc04-q031",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "chromosome : 1 400 nm",
+  "enonce": "Quel niveau de compaction de la chromatine correspond à la taille de 1 400 nm ?",
+  "propositions": [
+   "La double hélice",
+   "Le chromosome entier",
+   "Le nucléosome",
+   "La fibre de 30 nm"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Le chromosome est le stade le plus dense de repliement de la chromatine.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 19
+  }
+ },
+ {
+  "id": "bc04-q032",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "boucles : 10 000 à 100 000 pb",
+  "enonce": "Quelle est la longueur des boucles de chromatine fixées sur l’axe protéique de la charpente nucléaire ?",
+  "propositions": [
+   "1 à 10 millions de paires de bases",
+   "10 000 à 100 000 paires de bases",
+   "10 à 100 paires de bases",
+   "150 paires de bases"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les boucles de 10 000 à 100 000 paires de bases sont sur un axe protéique non histone de la charpente nucléaire.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 21
+  }
+ },
+ {
+  "id": "bc04-q033",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "SMAR : régions non codantes",
+  "enonce": "Que sont les régions SMAR (Scaffold Matrix Attachment Regions) ?",
+  "propositions": [
+   "Des histones non nucléosomiques",
+   "Des gènes codant les lamines",
+   "Des régions non codantes de l’ADN (acide désoxyribonucléique) qui s’associent préférentiellement à la matrice nucléaire, à la base des boucles",
+   "Des zones du nucléole riches en ribonucléoprotéines"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les régions SMAR sont non codantes et se situent à la base des boucles.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 21
+  }
+ },
+ {
+  "id": "bc04-q034",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "humain : 23 paires de chromosomes",
+  "enonce": "Combien de paires de chromosomes possède l’être humain ?",
+  "propositions": [
+   "22 paires",
+   "46 paires",
+   "23 chromosomes au total",
+   "23 paires"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "L’être humain a 23 paires de chromosomes : 22 paires d’autosomes et 1 paire de chromosomes sexuels.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 26
+  }
+ },
+ {
+  "id": "bc04-q035",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "paire sexuelle : XX ou XY",
+  "enonce": "Comment est constituée la 23e paire de chromosomes humains ?",
+  "propositions": [
+   "Des chromosomes sexuels, XX ou XY",
+   "Des chromosomes mitochondriaux",
+   "Un autosome et un chromosome sexuel",
+   "Deux autosomes"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "La 23e paire est la paire de chromosomes sexuels (XX ou XY).",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 26
+  }
+ },
+ {
+  "id": "bc04-q036",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "caryotype : autosomes en taille décroissante",
+  "enonce": "Dans un caryotype, comment sont classées les 22 paires d’autosomes ?",
+  "propositions": [
+   "Par ordre alphabétique des gènes",
+   "Par couleur",
+   "Par taille croissante",
+   "Par taille décroissante"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Le classement par paire en taille décroissante des 22 paires d’autosomes constitue le caryotype.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 26
+  }
+ },
+ {
+  "id": "bc04-q037",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "bras long du chromosome = q",
+  "enonce": "Comment désigne-t-on le bras long d’un chromosome ?",
+  "propositions": [
+   "q",
+   "p",
+   "c",
+   "l"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Le bras court est noté p et le bras long q.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 26
+  }
+ },
+ {
+  "id": "bc04-q038",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "centromère = étranglement",
+  "enonce": "Qu’est-ce que le centromère d’un chromosome ?",
+  "propositions": [
+   "Un étranglement du chromosome entre ses deux bras",
+   "L’extrémité d’un chromosome",
+   "Un gène du nucléole",
+   "Une histone"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Le centromère est l’étranglement ; il sépare le bras court (p) et le bras long (q).",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 26
+  }
+ },
+ {
+  "id": "bc04-q039",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "nucléole : zone condensée sans membrane",
+  "enonce": "Le nucléole est :",
+  "propositions": [
+   "une zone du nucléoplasme plus fortement condensée, sans membrane",
+   "un pore nucléaire",
+   "une invagination de l’enveloppe nucléaire",
+   "un organite entouré d’une double membrane"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Le nucléole est une zone du nucléoplasme plus condensée, non délimitée par une membrane.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 29
+  }
+ },
+ {
+  "id": "bc04-q040",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "nucléole : Nucleolar Organizer",
+  "enonce": "Quelle partie de chromosome le nucléole contient-il ?",
+  "propositions": [
+   "Le Nucleolar Organizer (NO)",
+   "Le bras long",
+   "Le centromère",
+   "La lamina"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Le nucléole contient la partie de chromosome appelée Nucleolar Organizer (NO) et des ARN (acide ribonucléique) ribosomiques.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 29
+  }
+ },
+ {
+  "id": "bc04-q041",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "ribosome : 82 protéines et 4 ARNr",
+  "enonce": "Un ribosome, complexe multienzymatique, est constitué de combien de protéines et d’ARN (acide ribonucléique) ribosomiques ?",
+  "propositions": [
+   "32 protéines et 3 ARN ribosomiques",
+   "50 protéines et 2 ARN ribosomiques",
+   "4 protéines et 82 ARN ribosomiques",
+   "82 protéines et 4 ARN ribosomiques"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Le ribosome comprend 82 protéines et 4 ARN ribosomiques, répartis en deux sous-unités.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 30
+  }
+ },
+ {
+  "id": "bc04-q042",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "ribosome eucaryote : sous-unités 60S et 40S",
+  "enonce": "Quelles sont les deux sous-unités d’un ribosome, selon le cours sur le noyau ?",
+  "propositions": [
+   "La sous-unité 50S et la sous-unité 30S",
+   "La sous-unité 60S et la sous-unité 40S",
+   "La sous-unité 80S et la sous-unité 40S",
+   "La sous-unité 70S et la sous-unité 30S"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Le ribosome comprend deux parties distinctes : la sous-unité 60S et la sous-unité 40S.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 30
+  }
+ },
+ {
+  "id": "bc04-q043",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "zone fibrillaire du nucléole",
+  "enonce": "Quelle est la caractéristique de la zone fibrillaire du nucléole ?",
+  "propositions": [
+   "Elle contient les lamines nucléaires",
+   "Elle contient des ribosomes complets",
+   "Elle accumule les ribonucléoprotéines constituant les unités des ribosomes",
+   "Elle contient les transcriptions actives de gènes codant les pré-ARNr (précurseurs des ARN ribosomiques)"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "La zone fibrillaire est le siège de transcriptions actives de nombreux gènes d’ARN (acide ribonucléique) ribosomiques.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 31
+  }
+ },
+ {
+  "id": "bc04-q044",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "zone granulaire du nucléole",
+  "enonce": "Que contient la zone granulaire du nucléole ?",
+  "propositions": [
+   "Les transcriptions actives des gènes ribosomiques",
+   "Des ribosomes complets prêts à traduire",
+   "Les lamines et les protéines NuMA (Nuclear Mitotic Apparatus)",
+   "Des ribonucléoprotéines constituant les unités des ribosomes"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Cette zone accumule des ribonucléoprotéines (acide ribonucléique et petits acides ribonucléiques nucléaires) qui constituent les unités des ribosomes.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 31
+  }
+ },
+ {
+  "id": "bc04-q045",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "intrus",
+  "fait": "pas de ribosome complet dans le nucléole",
+  "enonce": "Quel élément ne se trouve pas dans le nucléole ?",
+  "propositions": [
+   "Des ribonucléoprotéines",
+   "Le Nucleolar Organizer (NO)",
+   "Des ribosomes complets",
+   "Des transcriptions actives de gènes ribosomiques"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Il n’y a pas de ribosome complet dans le nucléole, seulement les unités qui le constituent.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 31
+  }
+ },
+ {
+  "id": "bc04-q046",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "matrice nucléaire : définition globale",
+  "enonce": "Comment définit-on globalement la matrice nucléaire, par rapport à l’ADN (acide désoxyribonucléique) ?",
+  "propositions": [
+   "L’ensemble de l’ADN et des histones",
+   "L’ensemble du matériel nucléaire différent de l’ADN",
+   "Le nucléole et ses ribosomes",
+   "Le nucléoplasme sans les lamines"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "La matrice nucléaire comprend les lamines nucléaires, des protéines fibrillaires et un réseau fibreux.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 33
+  }
+ },
+ {
+  "id": "bc04-q047",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "lamines = filaments intermédiaires",
+  "enonce": "À quelle famille de protéines appartiennent les lamines nucléaires ?",
+  "propositions": [
+   "Les microtubules",
+   "Les histones",
+   "Les microfilaments d’actine",
+   "Les filaments intermédiaires"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les lamines sont des nucléofilaments de la famille des filaments intermédiaires.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 34
+  }
+ },
+ {
+  "id": "bc04-q048",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "lamines A et C : lamina nucléaris",
+  "enonce": "Quelles lamines forment la lamina nucléaris, réseau de filaments à maille carrée ?",
+  "propositions": [
+   "Uniquement la lamine C, des cellules embryonnaires",
+   "Les lamines A et B, des cellules indifférenciées",
+   "Les lamines A et C, des cellules différenciées",
+   "Les lamines B, des cellules indifférenciées"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les lamines A et C (cellules différenciées) forment un réseau à maille carrée appelé lamina nucléaris.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 34
+  }
+ },
+ {
+  "id": "bc04-q049",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "lamines B : cellules indifférenciées",
+  "enonce": "Dans quel type de cellules trouve-t-on la lamine B ?",
+  "propositions": [
+   "Les cellules différenciées",
+   "Uniquement les cellules musculaires",
+   "Les hématies",
+   "Les cellules indifférenciées"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "La lamine B est présente dans les cellules indifférenciées.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 34
+  }
+ },
+ {
+  "id": "bc04-q050",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "cas_pratique",
+  "fait": "phosphorylation des lamines en mitose",
+  "enonce": "Pourquoi la lamina nucléaire se désassemble-t-elle lors de la mitose ?",
+  "propositions": [
+   "Les lamines sont glycosylées",
+   "Les lamines migrent dans le nucléole",
+   "Des résidus de sérine des lamines sont phosphorylés",
+   "Les lamines sont digérées par les lysosomes"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Lors de la mitose, la phosphorylation de résidus de sérine des lamines provoque le désassemblage de la lamina nucléaire.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 34
+  }
+ },
+ {
+  "id": "bc04-q051",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "NuMA : G1, mitose, reconstitution du noyau",
+  "enonce": "Quelles protéines du réseau fibreux de la matrice nucléaire sont présentes en phase G1 et interviennent dans la mitose et la reconstitution du noyau ?",
+  "propositions": [
+   "Les protéines NuMA (Nuclear Mitotic Apparatus)",
+   "Les histones H1",
+   "Les nucléoporines",
+   "Les lamines B"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Les protéines NuMA sont présentes dans le noyau pendant la phase G1 ; elles interviennent au cours de la mitose et lors de la reconstitution du noyau.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 36
+  }
+ },
+ {
+  "id": "bc04-q052",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "espace périnucléaire : 30 nm",
+  "enonce": "Quelle est la largeur de l’espace périnucléaire ?",
+  "propositions": [
+   "3 µm",
+   "300 nm",
+   "30 nm",
+   "3 nm"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "L’espace périnucléaire de 30 nm sépare les deux bicouches lipidiques de la membrane nucléaire.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 40
+  }
+ },
+ {
+  "id": "bc04-q053",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "association",
+  "fait": "membrane externe en continuité avec le RE",
+  "enonce": "Avec quelle structure la membrane nucléaire externe est-elle en continuité ?",
+  "propositions": [
+   "L’appareil de Golgi",
+   "Le réticulum endoplasmique",
+   "La lamina nucléaire",
+   "La membrane plasmique"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "La membrane externe est en continu avec le réticulum endoplasmique.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 44
+  }
+ },
+ {
+  "id": "bc04-q054",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "association",
+  "fait": "membrane interne fixée sur la lamina",
+  "enonce": "À quoi la membrane nucléaire interne est-elle fixée ?",
+  "propositions": [
+   "Le réticulum endoplasmique",
+   "La lamina nucléaire",
+   "Le nucléole",
+   "Un réseau de microfilaments d’actine"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "La membrane interne est fixée sur la lamina nucléaire.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 44
+  }
+ },
+ {
+  "id": "bc04-q055",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "comparaison",
+  "fait": "export noyau → cytosol : sous-unités ribosomales",
+  "enonce": "Parmi ces molécules, laquelle est exportée du noyau vers le cytosol ?",
+  "propositions": [
+   "Les sous-unités ribosomales",
+   "Les lamines libres",
+   "Les polymérases nécessaires à la transcription",
+   "Les histones"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Du noyau vers le cytosol : divers ARN (acide ribonucléique) et sous-unités ribosomales. Du cytosol vers le noyau : histones et polymérases.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 44
+  }
+ },
+ {
+  "id": "bc04-q056",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "comparaison",
+  "fait": "import cytosol → noyau : histones",
+  "enonce": "Quelle molécule est importée du cytosol vers le noyau ?",
+  "propositions": [
+   "Les ribosomes complets",
+   "Les pré-ribosomes",
+   "Les sous-unités ribosomales",
+   "Les histones"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les histones et les polymérases passent du cytosol vers le noyau.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 44
+  }
+ },
+ {
+  "id": "bc04-q057",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "pores nucléaires : 3 à 4 000",
+  "enonce": "Combien de pores nucléaires un noyau peut-il contenir ?",
+  "propositions": [
+   "De 3 à 4 000, selon la cellule",
+   "Un seul",
+   "De 3 à 4 millions",
+   "Aucun : la membrane est continue"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Le nombre de pores est variable : de 3 à 4 000.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 45
+  }
+ },
+ {
+  "id": "bc04-q058",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "pores : un tiers de la surface",
+  "enonce": "Quelle fraction de la surface nucléaire les pores peuvent-ils occuper ?",
+  "propositions": [
+   "Presque toute la surface",
+   "Environ 1 %",
+   "Environ la moitié",
+   "Environ un tiers"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les pores occupent environ 1/3 de la surface du noyau.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 45
+  }
+ },
+ {
+  "id": "bc04-q059",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "pore : cinquantaine de protéines, canal central et latéraux",
+  "enonce": "De quoi un pore nucléaire est-il constitué ?",
+  "propositions": [
+   "D’une cinquantaine de protéines (comme les nucléoporines), avec un canal central et des canaux latéraux",
+   "De molécules d’acide désoxyribonucléique",
+   "D’une seule protéine géante",
+   "De phospholipides formant un canal"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Le pore est un très gros complexe protéique d’une cinquantaine de protéines.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 45
+  }
+ },
+ {
+  "id": "bc04-q060",
+  "chapitre": "bc04",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "transport actif : canal central",
+  "enonce": "Quel canal du pore nucléaire assure le transport actif de macromolécules ?",
+  "propositions": [
+   "Le canal central",
+   "Les canaux latéraux",
+   "Les deux types de canaux, indifféremment",
+   "Aucun : le transport est toujours passif"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Le transport actif utilise le canal central, concerne les macromolécules et nécessite de l’énergie.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 48
+  }
+ },
+ {
+  "id": "bc04-q061",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "noyau : disparaît, siège de transcription, génome",
+  "enonce": "Parmi ces affirmations sur le noyau, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il n’existe que pendant la mitose.",
+   "Il disparaît en fin de prophase.",
+   "Il contient le génome, sauf l’ADN (acide désoxyribonucléique) mitochondrial et chloroplastique.",
+   "Il est le siège de la transcription.",
+   "Il est dépourvu de pores nucléaires."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "Le noyau est un organite interphasique qui contient le génome et où a lieu la transcription ; il communique avec le cytoplasme par les pores nucléaires.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc04-q062",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "processus nucléaires : réplication, transcription, réparation",
+  "enonce": "Quels processus ont lieu dans le noyau en interphase ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La réparation",
+   "La réplication",
+   "La glycosylation des protéines",
+   "La transcription",
+   "La traduction"
+  ],
+  "bonnes": [
+   0,
+   1,
+   3
+  ],
+  "explication": "En interphase, le noyau est le siège de la réplication, de la transcription et de la réparation de l’ADN (acide désoxyribonucléique).",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 13
+  }
+ },
+ {
+  "id": "bc04-q063",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "constituants du noyau",
+  "enonce": "Parmi ces éléments, lesquels appartiennent au noyau ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La membrane nucléaire avec ses pores",
+   "Un squelette nucléaire (charpente fibreuse)",
+   "Le nucléoplasme",
+   "Un ou plusieurs nucléoles",
+   "Des mitochondries"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explication": "Le noyau se compose de la membrane nucléaire (double membrane, pores) et du nucléoplasme (chromatine, nucléoles, squelette nucléaire).",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 6
+  }
+ },
+ {
+  "id": "bc04-q064",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "nombre de noyaux par cellule",
+  "enonce": "Quelles cellules ont un nombre de noyaux différent de un ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les hématies, qui n’en ont aucun",
+   "Les adipocytes",
+   "Certaines cellules musculaires, qui en ont plusieurs",
+   "Les cellules épithéliales cubiques",
+   "Les kératinocytes, qui n’en ont aucun"
+  ],
+  "bonnes": [
+   0,
+   2,
+   4
+  ],
+  "explication": "Aucun noyau : hématies et kératinocytes. Plusieurs noyaux : hépatocytes (parfois binucléés) et cellules musculaires.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 8
+  }
+ },
+ {
+  "id": "bc04-q065",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "formes du noyau selon le type cellulaire",
+  "enonce": "Quelles associations forme du noyau – type cellulaire sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Discoïde : cellules pavimenteuses",
+   "Discoïde : granulocytes",
+   "Sphérique : cellules épithéliales cubiques",
+   "Lobulé : granulocytes",
+   "Allongé : cellules musculaires lisses"
+  ],
+  "bonnes": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explication": "La forme du noyau diffère selon le type cellulaire mais aussi selon l’étape du cycle cellulaire.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 9
+  }
+ },
+ {
+  "id": "bc04-q066",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "positions du noyau",
+  "enonce": "Parmi ces affirmations sur la position du noyau, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle est basale dans les cellules glandulaires à sécrétion exocrine.",
+   "Elle est périphérique dans les cellules embryonnaires.",
+   "Elle est au centre géométrique dans les cellules embryonnaires.",
+   "Elle est basale dans les adipocytes.",
+   "Elle est périphérique dans les adipocytes."
+  ],
+  "bonnes": [
+   0,
+   2,
+   4
+  ],
+  "explication": "La position du noyau dépend du type cellulaire.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc04-q067",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "métabolisme de l’ADN : interphase et mitose",
+  "enonce": "Parmi ces affirmations sur le métabolisme de l’ADN (acide désoxyribonucléique), lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "En interphase, il y a réplication, transcription et réparation.",
+   "En interphase, l’ADN est toujours sous forme de chromosomes.",
+   "En mitose, l’ADN est condensé sous forme de chromosomes.",
+   "En mitose, l’ADN est transcrit activement.",
+   "En mitose, il n’y a pas de métabolisme de l’ADN."
+  ],
+  "bonnes": [
+   0,
+   2,
+   4
+  ],
+  "explication": "Le métabolisme de l’ADN est synchronisé avec le cycle cellulaire.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 13
+  }
+ },
+ {
+  "id": "bc04-q068",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "hétérochromatine : caractéristiques",
+  "enonce": "Quelles caractéristiques correspondent à l’hétérochromatine ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle est dite « inactive ».",
+   "Elle est accessible à la transcription.",
+   "Elle est peu condensée.",
+   "Elle est inaccessible à la transcription.",
+   "Elle est très condensée."
+  ],
+  "bonnes": [
+   0,
+   3,
+   4
+  ],
+  "explication": "L’hétérochromatine est très condensée, inaccessible aux polymérases, non codante.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc04-q069",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "euchromatine : caractéristiques",
+  "enonce": "Parmi ces propositions, lesquelles décrivent l’euchromatine ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle est très condensée.",
+   "Elle est peu condensée.",
+   "Elle est non codante.",
+   "Elle est accessible à la transcription.",
+   "Elle est codante."
+  ],
+  "bonnes": [
+   1,
+   3,
+   4
+  ],
+  "explication": "L’euchromatine est peu condensée, accessible, codante ; l’hétérochromatine est son contraire.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc04-q070",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "histones : taille, localisation, types",
+  "enonce": "Parmi ces affirmations sur les histones, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ce sont des protéines du cytosquelette.",
+   "H1 fait partie de l’octamère nucléosomique.",
+   "Les histones nucléosomiques sont H2A, H2B, H3 et H4.",
+   "Ce sont des protéines nucléaires qui interagissent avec l’ADN (acide désoxyribonucléique).",
+   "Ce sont de petites protéines de 100 à 200 acides aminés."
+  ],
+  "bonnes": [
+   2,
+   3,
+   4
+  ],
+  "explication": "H1 est l’histone non nucléosomique.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc04-q071",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "octamère : 2 H2A, 2 H2B, 2 H3, 2 H4",
+  "enonce": "Quels éléments composent l’octamère d’histones d’un nucléosome ? (plusieurs réponses possibles)",
+  "propositions": [
+   "2 histones H1",
+   "2 histones H4",
+   "2 histones H2A",
+   "2 histones H3",
+   "2 histones H2B"
+  ],
+  "bonnes": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explication": "8 histones forment un cylindre autour duquel s’enroule l’ADN (acide désoxyribonucléique).",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc04-q072",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "nucléosome : 150 pb, 2 tours, H1",
+  "enonce": "Parmi ces affirmations sur l’ADN (acide désoxyribonucléique) et le nucléosome, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Un nucléosome comprend 15 000 paires de bases.",
+   "L’histone H1 permet l’association des nucléosomes.",
+   "L’ADN fait 8 tours autour de 2 histones.",
+   "L’ADN fait 2 tours autour de 8 histones.",
+   "Un nucléosome comprend environ 150 paires de bases d’ADN."
+  ],
+  "bonnes": [
+   1,
+   3,
+   4
+  ],
+  "explication": "Nucléosome : 150 paires de bases d’ADN, 2 tours autour de 8 histones ; H1 associe les nucléosomes.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 18
+  }
+ },
+ {
+  "id": "bc04-q073",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "collier de perles, solénoïdes, H1",
+  "enonce": "Parmi ces affirmations sur la chromatine, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "H1 relie les nucléosomes entre eux.",
+   "6 groupes de nucléosomes forment un solénoïde.",
+   "Les histones sont absentes du solénoïde.",
+   "Le collier de perles est le dernier stade de compaction.",
+   "La succession de nucléosomes donne un aspect en « collier de perles »."
+  ],
+  "bonnes": [
+   0,
+   1,
+   4
+  ],
+  "explication": "Étapes : double hélice, nucléosome, fibre chromatinienne, puis repliement jusqu’au chromosome.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 20
+  }
+ },
+ {
+  "id": "bc04-q074",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "tailles des niveaux de compaction",
+  "enonce": "Quelles associations niveau de compaction – taille (schéma du cours) sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Chromosome : 1 400 nm",
+   "Double hélice : 2 nm",
+   "Boucles : 300 nm",
+   "Fibre de nucléosomes en solénoïde : 30 nm",
+   "Double hélice : 30 nm"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explication": "Tailles du schéma : 2 nm, 30 nm, 300 nm, 700 nm, 1 400 nm.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 19
+  }
+ },
+ {
+  "id": "bc04-q075",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "SMAR : non codantes, matrice, base des boucles",
+  "enonce": "Parmi ces affirmations sur les SMAR (Scaffold Matrix Attachment Regions), lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ce sont des régions non codantes.",
+   "Elles s’associent à la matrice nucléaire.",
+   "Elles se situent uniquement dans le nucléole.",
+   "Ce sont des histones.",
+   "Elles se situent à la base des boucles de chromatine."
+  ],
+  "bonnes": [
+   0,
+   1,
+   4
+  ],
+  "explication": "Les boucles font 10 000 à 100 000 paires de bases.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 21
+  }
+ },
+ {
+  "id": "bc04-q076",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "chromosomes humains : autosomes, paire sexuelle, caryotype",
+  "enonce": "Parmi ces affirmations sur les chromosomes humains, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il y a 22 paires d’autosomes.",
+   "Le bras long d’un chromosome est noté p.",
+   "Il y a 23 paires d’autosomes.",
+   "Le caryotype classe les autosomes par taille décroissante.",
+   "La paire de chromosomes sexuels est XX ou XY."
+  ],
+  "bonnes": [
+   0,
+   3,
+   4
+  ],
+  "explication": "23 paires au total ; bras court p, bras long q.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 26
+  }
+ },
+ {
+  "id": "bc04-q077",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "structure d’un chromosome",
+  "enonce": "Quels éléments décrivent la structure d’un chromosome ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Un centromère formant un étranglement",
+   "Un bras court noté p",
+   "Un bras long noté q",
+   "Un nucléole central",
+   "Trois bras notés p, q et r"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "Le centromère sépare les deux bras du chromosome.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 26
+  }
+ },
+ {
+  "id": "bc04-q078",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "nucléole : sans membrane, NO, zone condensée",
+  "enonce": "Parmi ces affirmations sur le nucléole, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il contient des ribosomes complets.",
+   "Il est entouré d’une double membrane.",
+   "C’est une zone du nucléoplasme plus fortement condensée.",
+   "Il contient le Nucleolar Organizer (NO).",
+   "Il n’est pas délimité par une membrane."
+  ],
+  "bonnes": [
+   2,
+   3,
+   4
+  ],
+  "explication": "Le nucléole contient aussi des ARN (acide ribonucléique) ribosomiques.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 29
+  }
+ },
+ {
+  "id": "bc04-q079",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "contenu du nucléole : pré-ARNr et ribonucléoprotéines",
+  "enonce": "Quelles structures retrouve-t-on dans le nucléole ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Des ribonucléoprotéines constituant les unités des ribosomes",
+   "Des lamines",
+   "Des transcriptions actives de gènes codant les pré-ARNr (précurseurs des ARN ribosomiques)",
+   "Des nucléosomes organisés en solénoïdes",
+   "Des ribosomes complets"
+  ],
+  "bonnes": [
+   0,
+   2
+  ],
+  "explication": "La zone fibrillaire concerne les transcrits, la zone granulaire les ribonucléoprotéines.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 31
+  }
+ },
+ {
+  "id": "bc04-q080",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "lamines : filaments intermédiaires, types, sérine",
+  "enonce": "Parmi ces affirmations sur les lamines, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elles appartiennent à la famille des filaments intermédiaires.",
+   "Elles forment les pores nucléaires.",
+   "Leurs résidus de sérine sont phosphorylés lors de la mitose.",
+   "Il existe 3 types : A, B et C.",
+   "Les lamines A et C sont présentes dans les cellules indifférenciées."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3
+  ],
+  "explication": "La phosphorylation provoque le désassemblage de la lamina nucléaire.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 34
+  }
+ },
+ {
+  "id": "bc04-q081",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "types de lamines et état de différenciation",
+  "enonce": "Quelles associations type de lamine – cellules sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Lamine B : cellules indifférenciées",
+   "Lamine B : réseau à maille carrée des cellules différenciées",
+   "Lamines A et C : cellules indifférenciées",
+   "Lamines A et C : cellules différenciées"
+  ],
+  "bonnes": [
+   0,
+   3
+  ],
+  "explication": "La lamina nucléaris, à maille carrée, est formée des lamines A et C.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 34
+  }
+ },
+ {
+  "id": "bc04-q082",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "constituants de la matrice nucléaire",
+  "enonce": "Quels éléments constituent la matrice nucléaire ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les histones H2A et H2B",
+   "Les protéines fibrillaires disposées sous la membrane",
+   "Le matériel génétique du nucléole",
+   "Un réseau fibreux comprenant les protéines NuMA (Nuclear Mitotic Apparatus)",
+   "Les lamines nucléaires"
+  ],
+  "bonnes": [
+   1,
+   3,
+   4
+  ],
+  "explication": "La matrice nucléaire est l’ensemble du matériel nucléaire différent de l’ADN (acide désoxyribonucléique).",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 33
+  }
+ },
+ {
+  "id": "bc04-q083",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "NuMA : G1, mitose, reconstitution",
+  "enonce": "Parmi ces affirmations sur les protéines NuMA (Nuclear Mitotic Apparatus), lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elles forment les pores nucléaires.",
+   "Elles interviennent lors de la reconstitution du noyau.",
+   "Elles interviennent au cours de la mitose.",
+   "Elles sont présentes dans le noyau pendant la phase G1.",
+   "Elles sont absentes du noyau en G1."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "Elles font partie du réseau fibreux de la matrice nucléaire.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 36
+  }
+ },
+ {
+  "id": "bc04-q084",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "membrane nucléaire : bicouches, 30 nm, lamines",
+  "enonce": "Parmi ces affirmations sur la structure de la membrane nucléaire (bicouches, espace périnucléaire, lamines), lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle est formée d’une seule bicouche lipidique.",
+   "Les lamines persistent pendant toute la mitose.",
+   "Elle est formée de deux bicouches lipidiques.",
+   "Son armature interne de protéines est constituée de lamines.",
+   "L’espace périnucléaire mesure 30 nm."
+  ],
+  "bonnes": [
+   2,
+   3,
+   4
+  ],
+  "explication": "Les lamines disparaissent lors de la mitose ; elles interagissent avec la chromatine.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 40
+  }
+ },
+ {
+  "id": "bc04-q085",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "export noyau → cytosol",
+  "enonce": "Quelles molécules traversent les pores nucléaires dans le sens noyau → cytosol ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les polymérases nécessaires à la transcription",
+   "Divers ARN (acide ribonucléique)",
+   "Les histones",
+   "Les sous-unités ribosomales"
+  ],
+  "bonnes": [
+   1,
+   3
+  ],
+  "explication": "Du cytosol vers le noyau : histones et polymérases.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 44
+  }
+ },
+ {
+  "id": "bc04-q086",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "import cytosol → noyau",
+  "enonce": "Quelles molécules sont importées du cytosol vers le noyau ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les histones",
+   "Les sous-unités ribosomales",
+   "Divers acides ribonucléiques",
+   "Les polymérases de l’acide désoxyribonucléique et de l’acide ribonucléique"
+  ],
+  "bonnes": [
+   0,
+   3
+  ],
+  "explication": "Du noyau vers le cytosol : divers ARN (acide ribonucléique) et sous-unités ribosomales.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 44
+  }
+ },
+ {
+  "id": "bc04-q087",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "membranes nucléaires et transport sélectif",
+  "enonce": "Parmi ces affirmations sur les relations de la membrane nucléaire avec la lamina, le réticulum endoplasmique et le transport, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Le transport y est uniquement passif.",
+   "Elle est le siège d’un transport bidirectionnel sélectif.",
+   "La membrane interne est en continuité avec le réticulum endoplasmique.",
+   "La membrane interne est fixée sur la lamina nucléaire.",
+   "La membrane externe est en continuité avec le réticulum endoplasmique."
+  ],
+  "bonnes": [
+   1,
+   3,
+   4
+  ],
+  "explication": "Le transport est passif et actif.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 44
+  }
+ },
+ {
+  "id": "bc04-q088",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "pores : nombre, protéines, canaux",
+  "enonce": "Parmi ces affirmations sur les pores nucléaires, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ils sont constitués d’une cinquantaine de protéines, dont les nucléoporines.",
+   "Ils sont constitués de phospholipides.",
+   "Leur nombre varie de 3 à 4 000 selon la cellule.",
+   "Ils forment un petit complexe de quelques protéines.",
+   "Ils comprennent un canal central et des canaux latéraux."
+  ],
+  "bonnes": [
+   0,
+   2,
+   4
+  ],
+  "explication": "Ils permettent les échanges entre le nucléoplasme et le cytoplasme.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 45
+  }
+ },
+ {
+  "id": "bc04-q089",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "transport passif par les pores",
+  "enonce": "Quelles caractéristiques décrivent le transport passif par les pores nucléaires ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il concerne de petites molécules (moins de 50 kDa (kilodaltons)).",
+   "Il passe par les canaux latéraux.",
+   "Il ne nécessite pas d’énergie.",
+   "Il nécessite un signal de localisation nucléaire.",
+   "Il passe par le canal central."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "Le transport actif concerne les macromolécules et nécessite de l’énergie.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 48
+  }
+ },
+ {
+  "id": "bc04-q090",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "transport actif par les pores",
+  "enonce": "Parmi ces propositions, lesquelles décrivent le transport actif à travers un pore nucléaire ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il passe par les canaux latéraux.",
+   "Il concerne des macromolécules.",
+   "Il passe par le canal central.",
+   "Il nécessite de l’énergie.",
+   "Il concerne les molécules de moins de 50 kDa (kilodaltons)."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "Le transport actif se fait en 2 étapes : reconnaissance et fixation, puis translocation.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 48
+  }
+ },
+ {
+  "id": "bc04-q091",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "ordre",
+  "fait": "étapes et signal du transport actif nucléaire",
+  "enonce": "Quels éléments caractérisent le transport actif d’une protéine à travers un pore nucléaire ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La reconnaissance et la fixation",
+   "La glycosylation de la protéine",
+   "Un signal de localisation nucléaire, ou NLS (Nuclear Localization Signal)",
+   "La translocation",
+   "La transcription de la protéine"
+  ],
+  "bonnes": [
+   0,
+   2,
+   3
+  ],
+  "explication": "Le transport nécessite un signal de localisation nucléaire.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 48
+  }
+ },
+ {
+  "id": "bc04-q092",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "schema_decrit",
+  "fait": "planche : enveloppe nucléaire et pores",
+  "enonce": "Sur une planche de microscopie électronique, l’enveloppe d’un noyau est interrompue par des ouvertures régulières. Quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La membrane externe de l’enveloppe est en continuité avec le réticulum endoplasmique.",
+   "Ces ouvertures sont des fusions avec la membrane plasmique.",
+   "L’enveloppe est formée d’une seule bicouche.",
+   "Ces ouvertures sont des pores nucléaires.",
+   "Elles permettent des échanges entre le nucléoplasme et le cytoplasme."
+  ],
+  "bonnes": [
+   0,
+   3,
+   4
+  ],
+  "explication": "Les pores nucléaires sont des complexes protéiques.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 45
+  }
+ },
+ {
+  "id": "bc04-q093",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "rôle du noyau",
+  "enonce": "Parmi ces affirmations sur le rôle du noyau, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il est le siège de la traduction.",
+   "Il stocke l’information génétique.",
+   "Il est le siège de la synthèse des ARN (acide ribonucléique) messagers, ribosomiques et de transfert.",
+   "Il est présent chez les procaryotes.",
+   "Il contrôle les échanges avec le cytoplasme via les pores nucléaires."
+  ],
+  "bonnes": [
+   1,
+   2,
+   4
+  ],
+  "explication": "Le noyau est le siège de la réplication et de la transcription.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc04-q094",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "facteurs influençant la forme du noyau",
+  "enonce": "Quels facteurs font varier la forme du noyau ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Le nombre de pores nucléaires",
+   "L’étape du cycle cellulaire",
+   "Le type cellulaire",
+   "La taille des nucléoles"
+  ],
+  "bonnes": [
+   1,
+   2
+  ],
+  "explication": "La forme, le volume et la position du noyau diffèrent selon le type cellulaire.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 9
+  }
+ },
+ {
+  "id": "bc04-q095",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "volume du noyau",
+  "enonce": "Parmi ces affirmations sur le volume du noyau, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il est volumineux dans les cellules multipolaires de la corne antérieure de la moelle.",
+   "Il est petit dans les cellules des muqueuses des glandes salivaires.",
+   "Il est fixe pour un même type cellulaire.",
+   "Il est identique dans tous les types cellulaires.",
+   "Il varie d’un type cellulaire à l’autre."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "Le volume est une caractéristique du type cellulaire.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc04-q096",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "définition de la chromatine",
+  "enonce": "Quelles affirmations définissent correctement la chromatine, par rapport à l’ADN (acide désoxyribonucléique) ? (plusieurs réponses possibles)",
+  "propositions": [
+   "L’ADN libre dans le cytoplasme",
+   "L’ADN compacté en nucléosomes",
+   "La forme de l’ADN associée aux histones",
+   "Le matériel du nucléole"
+  ],
+  "bonnes": [
+   1,
+   2
+  ],
+  "explication": "On distingue l’euchromatine et l’hétérochromatine.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc04-q097",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "composition de la membrane nucléaire",
+  "enonce": "Quelles structures composent la membrane nucléaire ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Une membrane interne",
+   "Un squelette de microtubules",
+   "Un nucléole",
+   "Une membrane externe",
+   "Des pores"
+  ],
+  "bonnes": [
+   0,
+   3,
+   4
+  ],
+  "explication": "La membrane nucléaire comporte deux bicouches lipidiques et des pores.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 6
+  }
+ },
+ {
+  "id": "bc04-q098",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "éléments structuraux de la chromatine",
+  "enonce": "Quels sont les éléments structuraux de la chromatine ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les ribosomes",
+   "Les protéines non histones",
+   "L’acide désoxyribonucléique (ADN)",
+   "Les protéines histones",
+   "Les lipides membranaires"
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "La chromatine est l’association de protéines et d’acide désoxyribonucléique.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc04-q099",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "ribosome : composition et sous-unités",
+  "enonce": "Parmi ces affirmations sur le ribosome, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il comprend 82 protéines et 4 ARN (acide ribonucléique) ribosomiques.",
+   "C’est un complexe multienzymatique.",
+   "Il est entouré d’une membrane.",
+   "Il comprend une sous-unité 60S et une sous-unité 40S.",
+   "Il comprend une sous-unité 50S et une sous-unité 30S."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3
+  ],
+  "explication": "Le nucléole ne contient pas de ribosome complet.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 30
+  }
+ },
+ {
+  "id": "bc04-q100",
+  "chapitre": "bc04",
+  "type": "QCM",
+  "angle": "chiffre",
+  "fait": "caractéristiques chiffrées des pores nucléaires",
+  "enonce": "Quelles caractéristiques des pores nucléaires sont données dans le cours ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Un nombre variable, de 3 à 4 000",
+   "Une surface totale négligeable",
+   "Un complexe protéique très volumineux (106 kDa (kilodaltons))",
+   "Environ un tiers de la surface nucléaire",
+   "Un diamètre de 30 nm"
+  ],
+  "bonnes": [
+   0,
+   2,
+   3
+  ],
+  "explication": "Les pores permettent les échanges entre le nucléoplasme et le cytoplasme.",
+  "source": {
+   "chapitre": "bc04",
+   "diapo": 45
+  }
+ }
+]

@@ -1,0 +1,2318 @@
+[
+ {
+  "id": "bc07-q001",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "cellules somatiques : 2n = 46",
+  "enonce": "Combien de chromosomes les cellules somatiques humaines possèdent-elles ?",
+  "propositions": [
+   "n = 46",
+   "n = 23",
+   "4n = 92",
+   "2n = 46"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Ce sont des cellules diploïdes.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc07-q002",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "diploïde : un exemplaire de chaque chromosome de chaque parent",
+  "enonce": "Que signifie qu’une cellule somatique est diploïde ?",
+  "propositions": [
+   "Elle possède un seul exemplaire de chaque chromosome",
+   "Elle possède un exemplaire de chaque chromosome de la mère et un exemplaire de chaque chromosome du père",
+   "Elle possède deux exemplaires du seul chromosome de la mère",
+   "Elle possède 4n chromosomes"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Chaque lot (maternel et paternel) comprend n = 23 chromosomes.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc07-q003",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "gamète humain : n = 23",
+  "enonce": "Combien de chromosomes un gamète humain possède-t-il ?",
+  "propositions": [
+   "n = 46",
+   "2n = 46",
+   "n = 23",
+   "4n = 92"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les gamètes sont haploïdes.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc07-q004",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "gamètes = cellules germinales haploïdes",
+  "enonce": "Comment appelle-t-on les cellules sexuelles haploïdes ?",
+  "propositions": [
+   "Les cellules somatiques",
+   "Les cellules diploïdes",
+   "Les cellules germinales, ou gamètes",
+   "Les cellules souches embryonnaires"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Elles ne possèdent qu’un seul exemplaire des 23 chromosomes humains.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc07-q005",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "cas_pratique",
+  "fait": "sans méiose : 4n puis 8n",
+  "enonce": "Que se passerait-il si l’on transmettait aux enfants le patrimoine génétique des cellules somatiques ?",
+  "propositions": [
+   "Ils n’auraient aucun chromosome",
+   "Ils auraient 4n chromosomes, puis 8n à la génération suivante, ce qui est impossible",
+   "Ils auraient n chromosomes, puis n/2",
+   "Ils auraient toujours 2n chromosomes"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les gamètes haploïdes évitent ce doublement.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc07-q006",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "ovule : 23 chromosomes maternels",
+  "enonce": "Combien de chromosomes l’ovule transmet-il à l’enfant ?",
+  "propositions": [
+   "23 chromosomes maternels",
+   "46 chromosomes maternels",
+   "12 chromosomes maternels",
+   "23 chromosomes paternels"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "L’ovule est une cellule haploïde.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc07-q007",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "spermatozoïde : 23 chromosomes paternels",
+  "enonce": "Combien de chromosomes le spermatozoïde transmet-il à l’enfant ?",
+  "propositions": [
+   "23 chromosomes paternels",
+   "46 chromosomes paternels",
+   "46 chromosomes maternels",
+   "12 chromosomes paternels"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Le spermatozoïde est une cellule haploïde.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc07-q008",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "zygote : 2n = 46",
+  "enonce": "Combien de chromosomes un œuf (zygote) humain possède-t-il ?",
+  "propositions": [
+   "n = 46",
+   "n = 23",
+   "2n = 46",
+   "4n = 92"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Le nombre de chromosomes de l’espèce humaine est ainsi conservé.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc07-q009",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "définition de la méiose",
+  "enonce": "La méiose est :",
+  "propositions": [
+   "un type de division des cellules germinales qui produit les gamètes lors de la reproduction sexuée",
+   "un type de division des cellules somatiques",
+   "une division des bactéries",
+   "une fusion de deux cellules diploïdes"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Chez les animaux, elle produit les spermatozoïdes et les ovocytes.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc07-q010",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "identification",
+  "fait": "gamètes animaux : spermatozoïdes et ovocytes",
+  "enonce": "Quels gamètes la méiose produit-elle chez les animaux ?",
+  "propositions": [
+   "Les œufs et les zygotes",
+   "Les spermatozoïdes et les ovocytes",
+   "Les hématies et les leucocytes",
+   "Les cellules souches et les neurones"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Elle intervient lors de la reproduction sexuée.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc07-q011",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "méiose réductionnelle",
+  "enonce": "Pourquoi la méiose est-elle une division réductionnelle ?",
+  "propositions": [
+   "Elle donne des cellules haploïdes à partir de cellules diploïdes",
+   "Elle double le nombre de chromosomes",
+   "Elle produit deux cellules identiques",
+   "Elle supprime l’ADN (acide désoxyribonucléique)"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "2n devient n.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc07-q012",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "brassage des gènes",
+  "enonce": "Que permet également la méiose ?",
+  "propositions": [
+   "La fusion des gamètes",
+   "La réplication de l’ADN (acide désoxyribonucléique)",
+   "La production de cellules identiques",
+   "Le brassage des gènes : chaque gamète est génétiquement différent de ses semblables"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les gamètes portent des combinaisons d’allèles différentes.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc07-q013",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "méiose : 4 cellules filles",
+  "enonce": "Combien de cellules filles obtient-on à partir d’une cellule germinale ?",
+  "propositions": [
+   "2",
+   "4",
+   "1",
+   "8"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Elles portent des combinaisons d’allèles différentes.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc07-q014",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "cellules filles : combinaisons d’allèles différentes",
+  "enonce": "Que portent les 4 cellules filles issues d’une méiose ?",
+  "propositions": [
+   "Aucun chromosome",
+   "Deux fois plus de chromosomes",
+   "Le même nombre de chromosomes et les mêmes combinaisons d’allèles",
+   "Le même nombre de chromosomes, mais des combinaisons d’allèles différentes"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "La méiose permet le brassage des gènes.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc07-q015",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "méiose : deux divisions successives",
+  "enonce": "Combien de divisions successives comporte la méiose ?",
+  "propositions": [
+   "Deux",
+   "Une",
+   "Quatre",
+   "Trois"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "La méiose I est réductionnelle, la méiose II équationnelle.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc07-q016",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "méiose I réductionnelle",
+  "enonce": "Quelle division de la méiose est réductionnelle ?",
+  "propositions": [
+   "Aucune",
+   "Les deux",
+   "La méiose II",
+   "La méiose I"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "La première division donne des cellules haploïdes.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc07-q017",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "méiose II équationnelle",
+  "enonce": "Quelle division de la méiose est équationnelle ?",
+  "propositions": [
+   "La prophase I",
+   "La méiose II",
+   "La méiose I",
+   "La mitose précédant la méiose"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "La deuxième division est comparable à une mitose.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc07-q018",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "méiose I : quatre phases",
+  "enonce": "Quelles phases la méiose I comporte-t-elle ?",
+  "propositions": [
+   "Interphase et mitose",
+   "Prophase, métaphase, anaphase et télophase",
+   "Seulement prophase et anaphase",
+   "Prophase et télophase"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Chaque division comporte ces phases.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc07-q019",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "prophase I : 90 % de la durée",
+  "enonce": "Quelle part de la durée totale de la méiose la prophase I représente-t-elle ?",
+  "propositions": [
+   "50 %",
+   "90 %",
+   "1 %",
+   "10 %"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "De nombreux phénomènes s’y produisent.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc07-q020",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "prophase I longue : de nombreux phénomènes",
+  "enonce": "Pourquoi la prophase I est-elle si longue ?",
+  "propositions": [
+   "De nombreux phénomènes s’y produisent",
+   "Elle attend la fécondation",
+   "Elle inclut la cytocinèse",
+   "Elle inclut la réplication de l’ADN (acide désoxyribonucléique)"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Elle représente à elle seule 90 % de la durée de la méiose.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc07-q021",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "condensation progressive comme en mitose",
+  "enonce": "Comment les chromosomes dupliqués se condensent-ils en prophase I ?",
+  "propositions": [
+   "Brutalement",
+   "Progressivement, comme dans la mitose",
+   "Jamais",
+   "Après l’anaphase"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Ils s’unissent ensuite deux par deux.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc07-q022",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "bivalents = paires d’homologues",
+  "enonce": "Comment appelle-t-on les paires d’homologues formées en prophase I ?",
+  "propositions": [
+   "Des fuseaux",
+   "Des monovalents",
+   "Des kinétochores",
+   "Des bivalents"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les chromosomes s’unissent deux par deux.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc07-q023",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "protéines de reconnaissance des homologues",
+  "enonce": "Qu’assurent les protéines spécifiques de la prophase I ?",
+  "propositions": [
+   "La séparation des chromatides",
+   "La réplication de l’ADN (acide désoxyribonucléique)",
+   "La reconnaissance des homologues et leur assemblage",
+   "La lyse du noyau"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Elles évitent les erreurs d’appariement.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc07-q024",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "crossing-over : échanges réciproques",
+  "enonce": "Que sont les crossing-over ?",
+  "propositions": [
+   "Des fusions de noyaux",
+   "Des duplications de chromosomes",
+   "Des délétions de chromosomes",
+   "Des échanges réciproques de fragments de chromosomes"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Ils ont lieu en prophase I.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 9
+  }
+ },
+ {
+  "id": "bc07-q025",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "homologues : mêmes gènes, allèles différents",
+  "enonce": "Que sait-on de deux chromosomes homologues ?",
+  "propositions": [
+   "Ils sont identiques",
+   "Ils portent les mêmes allèles",
+   "Les gènes sont placés différemment",
+   "Les gènes y sont placés de la même façon ; ce sont les allèles qui changent"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les crossing-over modifient donc la répartition des allèles.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 9
+  }
+ },
+ {
+  "id": "bc07-q026",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "crossing-over modifient la répartition des allèles",
+  "enonce": "Que modifient les crossing-over ?",
+  "propositions": [
+   "Le nombre de chromosomes",
+   "Le nombre de chromatides",
+   "La répartition des allèles, pas la succession des gènes",
+   "La succession des gènes"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les gènes restent dans le même ordre.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 9
+  }
+ },
+ {
+  "id": "bc07-q027",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "crossing-over ne modifient pas la succession des gènes",
+  "enonce": "Que ne modifient pas les crossing-over ?",
+  "propositions": [
+   "La succession des gènes sur le chromosome",
+   "Le brassage des gènes",
+   "La recombinaison",
+   "La répartition des allèles"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Ils ne modifient que la répartition des allèles.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 9
+  }
+ },
+ {
+  "id": "bc07-q028",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "coupure puis soudure de fragments",
+  "enonce": "Comment se font les crossing-over au niveau moléculaire ?",
+  "propositions": [
+   "Par coupure puis soudure de fragments d’ADN (acide désoxyribonucléique)",
+   "Par fusion de noyaux",
+   "Par duplication de gènes",
+   "Par traduction de protéines"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Ils sont réalisés par des enzymes de recombinaison.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc07-q029",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "enzymes de recombinaison rigoureuses",
+  "enonce": "Quelles enzymes réalisent les crossing-over ?",
+  "propositions": [
+   "Des protéases lysosomales",
+   "Des kinésines",
+   "Des enzymes de recombinaison très rigoureuses",
+   "Des lipases"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Elles ne permettent que des échanges entre régions strictement homologues.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc07-q030",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "échanges entre régions strictement homologues",
+  "enonce": "Entre quelles régions les échanges sont-ils possibles ?",
+  "propositions": [
+   "Entre régions strictement homologues",
+   "Entre chromatides sœurs uniquement",
+   "Entre n’importe quelles régions",
+   "Entre chromosomes non homologues"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Les enzymes de recombinaison sont rigoureuses.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc07-q031",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "3 crossing-over par bivalent",
+  "enonce": "Combien de crossing-over (enjambements) y a-t-il en moyenne par bivalent ?",
+  "propositions": [
+   "10",
+   "0",
+   "1",
+   "3"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Ce phénomène est déterminant pour la recombinaison génétique.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc07-q032",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "chromosomes recombinés",
+  "enonce": "Comment appelle-t-on les chromosomes issus des crossing-over ?",
+  "propositions": [
+   "Des chromosomes identiques",
+   "Des chromosomes haploïdes",
+   "Des chromosomes sans centromère",
+   "Des chromosomes recombinés"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Ils brouillent la constitution génétique des gamètes.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc07-q033",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "métaphase I : complexes centriolaires aux pôles",
+  "enonce": "Où se trouvent les complexes centriolaires en métaphase I ?",
+  "propositions": [
+   "Dans le nucléole",
+   "À l’équateur",
+   "Dans le noyau",
+   "Aux pôles, diamétralement opposés"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Ils se sont déplacés vers les pôles.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 13
+  }
+ },
+ {
+  "id": "bc07-q034",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "métaphase I : bivalents et chiasmas",
+  "enonce": "Qu’est-ce qui caractérise la métaphase I ?",
+  "propositions": [
+   "Les chromatides sœurs sont séparées",
+   "Les bivalents sont dissociés",
+   "Les chromosomes sont décondensés",
+   "Les chromosomes restent assemblés en bivalents, retenus entre autres par leurs chiasmas"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les chiasmas retiennent les bivalents.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 13
+  }
+ },
+ {
+  "id": "bc07-q035",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "métaphase I : plan équatorial",
+  "enonce": "Où se rassemblent les bivalents en métaphase I ?",
+  "propositions": [
+   "Dans le nucléole",
+   "Aux pôles",
+   "Sur le plan équatorial",
+   "Dans le cytosol"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Ils s’orientent vers les pôles.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 13
+  }
+ },
+ {
+  "id": "bc07-q036",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "chiffre",
+  "fait": "un kinétochore par chromosome en métaphase I",
+  "enonce": "Combien de kinétochores y a-t-il par chromosome en métaphase I ?",
+  "propositions": [
+   "Aucun",
+   "Deux",
+   "Un seul, car les kinétochores des deux chromatides sœurs ont fusionné",
+   "Quatre"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Chaque bivalent a donc deux kinétochores, un par chromosome.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 13
+  }
+ },
+ {
+  "id": "bc07-q037",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "orientation des kinétochores",
+  "enonce": "Comment sont orientés les kinétochores d’un bivalent en métaphase I ?",
+  "propositions": [
+   "Les deux vers le même pôle",
+   "Vers le noyau",
+   "Les deux vers l’équateur",
+   "Un kinétochore est dirigé vers un pôle, l’autre vers l’autre pôle"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les bivalents s’orientent sur le plan équatorial.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 13
+  }
+ },
+ {
+  "id": "bc07-q038",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "microtubules kinétochoriens en métaphase I",
+  "enonce": "Que font les microtubules kinétochoriens en métaphase I ?",
+  "propositions": [
+   "Ils fusionnent entre eux",
+   "Ils s’allongent et rejoignent les pôles, parallèlement aux microtubules polaires",
+   "Ils disparaissent",
+   "Ils se brisent"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Ils relient les kinétochores aux pôles.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 13
+  }
+ },
+ {
+  "id": "bc07-q039",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "anaphase I : chromosomes entiers",
+  "enonce": "Qu’est-ce qui migre vers les pôles en anaphase I ?",
+  "propositions": [
+   "Des chromosomes à une chromatide",
+   "Des centromères",
+   "Des chromatides isolées",
+   "Des chromosomes entiers, à 2 chromatides"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Elle est fondamentalement différente de l’anaphase de la mitose.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc07-q040",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "comparaison",
+  "fait": "anaphase de mitose : séparation des chromatides",
+  "enonce": "Qu’est-ce qui migre vers les pôles lors de l’anaphase d’une mitose ?",
+  "propositions": [
+   "Des chromatides, chacune allant vers un pôle ou l’autre",
+   "Des chromosomes entiers à 2 chromatides",
+   "Des centrosomes",
+   "Des bivalents"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "En anaphase I, ce sont des chromosomes entiers.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc07-q041",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "pas de nouvelle synthèse d’ADN",
+  "enonce": "Une nouvelle synthèse d’ADN (acide désoxyribonucléique) est-elle nécessaire entre la méiose I et la méiose II ?",
+  "propositions": [
+   "Oui, en phase G1",
+   "Oui, en phase S",
+   "Non, car les chromosomes ont déjà 2 chromatides",
+   "Oui, en phase G2"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "La prophase II peut débuter sans attendre.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 16
+  }
+ },
+ {
+  "id": "bc07-q042",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "division I : n chromosomes à 2 chromatides",
+  "enonce": "Que donne une cellule 2n à 2 chromatides par chromosome après la division I ?",
+  "propositions": [
+   "4 cellules à n chromosomes à 1 chromatide",
+   "2 cellules filles à n chromosomes, toujours à 2 chromatides",
+   "2 cellules à n chromosomes à 1 chromatide",
+   "2 cellules à 2n chromosomes"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Ce sont deux cellules haploïdes.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 16
+  }
+ },
+ {
+  "id": "bc07-q043",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "division I : conservation du nombre à la fécondation",
+  "enonce": "Pourquoi la division I est-elle qualifiée de réductionnelle ?",
+  "propositions": [
+   "Elle réduit le nombre de chromosomes, ce qui permet de conserver le nombre (46) à la fécondation",
+   "Elle supprime les crossing-over",
+   "Elle réduit la taille des cellules",
+   "Elle réduit le nombre de chromatides"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Cette réduction compense la fusion des gamètes.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 16
+  }
+ },
+ {
+  "id": "bc07-q044",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "cellules filles haploïdes après la division I",
+  "enonce": "Après la division I, les 2 cellules filles sont :",
+  "propositions": [
+   "diploïdes",
+   "tétraploïdes",
+   "haploïdes",
+   "anucléées"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Elles ont n chromosomes à 2 chromatides.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 16
+  }
+ },
+ {
+  "id": "bc07-q045",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "homologues tirés au hasard",
+  "enonce": "Comment les homologues sont-ils tirés vers les pôles en anaphase I ?",
+  "propositions": [
+   "Tous vers le même pôle",
+   "Par les lamines",
+   "Par les microfilaments d’actine",
+   "Chacun vers un pôle différent, au hasard, par les microtubules kinétochoriens"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Les microtubules kinétochoriens raccourcissent.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc07-q046",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "fuseau s’allonge, kinétochoriens raccourcissent",
+  "enonce": "Que font le fuseau et les microtubules kinétochoriens en anaphase I ?",
+  "propositions": [
+   "Le fuseau se dédouble",
+   "Le fuseau s’allonge pendant que les microtubules kinétochoriens raccourcissent",
+   "Le fuseau raccourcit",
+   "Le fuseau disparaît"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les homologues sont ainsi tirés vers les pôles.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc07-q047",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "brassage intrachromosomique : chromatides non identiques",
+  "enonce": "Pourquoi le brassage intrachromosomique prend-il tout son sens en anaphase I ?",
+  "propositions": [
+   "Parce que l’enveloppe nucléaire est reformée",
+   "Parce que les 2 chromatides sœurs d’un même chromosome ne sont plus identiques",
+   "Parce que l’ADN (acide désoxyribonucléique) est répliqué",
+   "Parce que les chromatides sont identiques"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Le brassage a eu lieu pendant la prophase par crossing-over.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc07-q048",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "télophase I : enveloppes nucléaires et noyaux haploïdes",
+  "enonce": "Que reconstitue-t-on en télophase I ?",
+  "propositions": [
+   "Un noyau diploïde unique",
+   "Les enveloppes nucléaires autour des bivalents réunis à chaque pôle, formant deux noyaux haploïdes",
+   "Aucune enveloppe",
+   "Un noyau à 4n chromosomes"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Une cytocinèse divise ensuite la cellule.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 19
+  }
+ },
+ {
+  "id": "bc07-q049",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "télophase I : n paires de chromatides",
+  "enonce": "Que contient chaque noyau issu de la télophase I ?",
+  "propositions": [
+   "n paires de chromatides",
+   "4 chromatides",
+   "2n chromosomes à 1 chromatide",
+   "Aucune chromatide"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Chaque noyau est haploïde.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 19
+  }
+ },
+ {
+  "id": "bc07-q050",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "télophase I : cytocinèse",
+  "enonce": "Que se passe-t-il à la fin de la télophase I au niveau de la cellule ?",
+  "propositions": [
+   "Une cytocinèse la divise en deux cellules filles",
+   "Elle se transforme en gamète",
+   "Elle double sa taille",
+   "Elle fusionne avec une autre cellule"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Les deux cellules filles sont haploïdes.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 19
+  }
+ },
+ {
+  "id": "bc07-q051",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "prophase II sans attendre",
+  "enonce": "Quand la prophase II peut-elle débuter ?",
+  "propositions": [
+   "Sans attendre, car il n’y a pas de nouvelle synthèse d’ADN (acide désoxyribonucléique)",
+   "Après une nouvelle phase S",
+   "Après une phase G1",
+   "Après la fécondation"
+  ],
+  "bonnes": [
+   0
+  ],
+  "explication": "Les chromosomes ont déjà 2 chromatides.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 19
+  }
+ },
+ {
+  "id": "bc07-q052",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "méiose II comparable à une mitose",
+  "enonce": "À quoi la méiose II est-elle comparable ?",
+  "propositions": [
+   "À une traduction",
+   "À une transcription",
+   "À une mitose",
+   "À une réplication"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "La seule vraie différence : un seul exemplaire de chaque chromosome.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc07-q053",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "métaphase II : un kinétochore par chromatide",
+  "enonce": "Comment les chromosomes se placent-ils en métaphase II ?",
+  "propositions": [
+   "En bivalents",
+   "Sur le plan équatorial du fuseau, avec un kinétochore par chromatide",
+   "Aux pôles",
+   "Sur un kinétochore par chromosome"
+  ],
+  "bonnes": [
+   1
+  ],
+  "explication": "Les centromères s’accrochent aux kinétochores.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc07-q054",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "anaphase II : allongement et rupture des kinétochores",
+  "enonce": "Qu’est-ce qui caractérise l’anaphase II ?",
+  "propositions": [
+   "La duplication de l’ADN (acide désoxyribonucléique)",
+   "La formation des bivalents",
+   "L’allongement des cellules et la brusque rupture des kinétochores",
+   "Les crossing-over"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les chromatides sœurs sont entraînées vers les pôles.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc07-q055",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "anaphase II : chromatides entraînées au hasard",
+  "enonce": "Comment les chromatides sœurs sont-elles entraînées vers les pôles en anaphase II ?",
+  "propositions": [
+   "Selon leur taille",
+   "Toujours vers le même pôle",
+   "Par les lamines",
+   "Au hasard, ce qui augmente la diversité génétique"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Ce brassage s’ajoute à celui de la prophase I.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc07-q056",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "méiose II vs mitose : un seul exemplaire",
+  "enonce": "Quelle est la seule vraie différence entre la méiose II et la mitose ?",
+  "propositions": [
+   "La durée",
+   "La présence du noyau",
+   "Les chromosomes ne sont présents qu’en un seul exemplaire au lieu de deux",
+   "Le fuseau"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les cellules sont haploïdes.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc07-q057",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "definition",
+  "fait": "un seul exemplaire : conservation du nombre",
+  "enonce": "À quoi sert le fait que les chromosomes de la méiose II ne soient présents qu’en un seul exemplaire ?",
+  "propositions": [
+   "À supprimer le brassage",
+   "À éviter les crossing-over",
+   "À doubler le nombre de chromosomes",
+   "À conserver le nombre de chromosomes de l’espèce lors de la fusion avec l’autre gamète"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Chaque gamète transmet n chromosomes.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc07-q058",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "cas_pratique",
+  "fait": "cas : anaphase I d’une cellule 2n = 46",
+  "enonce": "Une cellule humaine 2n = 46 est en anaphase I de méiose. Que migre vers chaque pôle ?",
+  "propositions": [
+   "46 chromosomes, chacun à 2 chromatides",
+   "46 chromosomes, chacun à 1 chromatide",
+   "23 chromosomes, chacun à 1 chromatide",
+   "23 chromosomes, chacun à 2 chromatides"
+  ],
+  "bonnes": [
+   3
+  ],
+  "explication": "Ce sont des chromosomes entiers : la division I est réductionnelle.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 16
+  }
+ },
+ {
+  "id": "bc07-q059",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "cas_pratique",
+  "fait": "cas : fin de méiose II",
+  "enonce": "Combien de chromatides une cellule fille humaine possède-t-elle à la fin de la méiose II ?",
+  "propositions": [
+   "92 chromatides",
+   "46 chromatides",
+   "23 chromatides, une par chromosome",
+   "12 chromatides"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Les chromatides sœurs se sont séparées en anaphase II.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc07-q060",
+  "chapitre": "bc07",
+  "type": "QCS",
+  "angle": "cas_pratique",
+  "fait": "cas : fin de télophase I",
+  "enonce": "Combien de chromosomes y a-t-il dans chaque noyau à la fin de la télophase I chez l’Homme ?",
+  "propositions": [
+   "46 chromosomes à 1 chromatide",
+   "23 chromosomes à 1 chromatide",
+   "23 chromosomes, chacun à 2 chromatides",
+   "46 chromosomes à 2 chromatides"
+  ],
+  "bonnes": [
+   2
+  ],
+  "explication": "Chaque noyau contient n paires de chromatides.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 19
+  }
+ },
+ {
+  "id": "bc07-q061",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "cellules somatiques humaines",
+  "enonce": "Parmi ces affirmations sur les cellules somatiques humaines, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elles sont diploïdes.",
+   "Elles possèdent un exemplaire de chaque chromosome de la mère et du père.",
+   "Elles sont haploïdes.",
+   "Elles ont 2n = 46 chromosomes.",
+   "Elles ont n = 23 chromosomes."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3
+  ],
+  "explication": "Les gamètes sont haploïdes.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc07-q062",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "cellules germinales",
+  "enonce": "Parmi ces affirmations sur les gamètes humains, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ce sont des cellules somatiques.",
+   "Ils ont un seul exemplaire des 23 chromosomes humains.",
+   "Ils ne possèdent que n chromosomes.",
+   "Ils ont 2n chromosomes.",
+   "Ils sont haploïdes."
+  ],
+  "bonnes": [
+   1,
+   2,
+   4
+  ],
+  "explication": "Les gamètes sont aussi appelés cellules germinales.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc07-q063",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "fécondation : conservation du nombre",
+  "enonce": "Parmi ces affirmations sur la conservation du nombre de chromosomes, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "L’ovule apporte 46 chromosomes.",
+   "Le spermatozoïde apporte 23 chromosomes paternels.",
+   "L’œuf a n = 23 chromosomes.",
+   "L’ovule apporte 23 chromosomes maternels.",
+   "L’œuf (zygote) a 2n = 46 chromosomes."
+  ],
+  "bonnes": [
+   1,
+   3,
+   4
+  ],
+  "explication": "Le nombre de chromosomes de l’espèce humaine est conservé.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc07-q064",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "nombre de chromosomes par type cellulaire",
+  "enonce": "Quelles associations cellule – nombre de chromosomes sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Gamète : n = 23",
+   "Cellule somatique : 2n = 46",
+   "Zygote : 2n = 46",
+   "Zygote : n = 23",
+   "Gamète : 2n = 46"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "La méiose permet de passer de 2n à n.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc07-q065",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "sans méiose : doublement",
+  "enonce": "Parmi ces affirmations sur la transmission des chromosomes sans méiose, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ce doublement est impossible.",
+   "La génération suivante en aurait 8n.",
+   "Les enfants auraient 4n chromosomes.",
+   "Le nombre de chromosomes resterait stable."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "La méiose produit des gamètes haploïdes.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc07-q066",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "méiose : définition et rôle",
+  "enonce": "Parmi ces affirmations sur la méiose, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "C’est la division des cellules somatiques.",
+   "C’est la division des cellules germinales.",
+   "Elle produit les gamètes lors de la reproduction sexuée.",
+   "Elle est réductionnelle.",
+   "Elle donne 2 cellules identiques."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "Elle donne des cellules haploïdes à partir de cellules diploïdes.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc07-q067",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "méiose : bilan",
+  "enonce": "Parmi ces affirmations sur le bilan de la méiose, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle donne 2 cellules diploïdes.",
+   "Elle donne 4 cellules filles.",
+   "Les cellules filles portent des combinaisons d’allèles différentes.",
+   "Chaque gamète est génétiquement différent de ses semblables.",
+   "Elle comprend deux divisions successives."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explication": "La méiose permet le brassage des gènes.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc07-q068",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "méiose I et II : nature",
+  "enonce": "Quelles associations division – nature sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Méiose I : réductionnelle",
+   "Méiose I : équationnelle",
+   "Méiose II : réductionnelle",
+   "Méiose II : équationnelle"
+  ],
+  "bonnes": [
+   0,
+   3
+  ],
+  "explication": "La méiose II est comparable à une mitose.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc07-q069",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "prophase I : événements",
+  "enonce": "Parmi ces affirmations sur la prophase I, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les chromosomes dupliqués se condensent progressivement.",
+   "Les homologues s’unissent en bivalents.",
+   "Elle dure 10 % de la méiose.",
+   "Des protéines spécifiques assurent la reconnaissance des homologues.",
+   "Elle représente 90 % de la durée totale de la méiose."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "De nombreux phénomènes s’y produisent.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc07-q070",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "crossing-over : effets",
+  "enonce": "Parmi ces affirmations sur les crossing-over, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ils modifient la répartition des allèles.",
+   "Ils ne modifient pas la succession des gènes.",
+   "Ce sont des échanges réciproques de fragments de chromosomes.",
+   "Ils modifient le nombre de chromosomes.",
+   "Ils modifient l’ordre des gènes."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "Ils ont lieu en prophase I.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 9
+  }
+ },
+ {
+  "id": "bc07-q071",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "chromosomes homologues",
+  "enonce": "Parmi ces affirmations sur deux chromosomes homologues, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les crossing-over portent sur des régions homologues.",
+   "Les gènes y sont placés différemment.",
+   "Ce sont les allèles qui changent.",
+   "Les allèles sont identiques.",
+   "Les gènes y sont placés de la même façon."
+  ],
+  "bonnes": [
+   0,
+   2,
+   4
+  ],
+  "explication": "Les gènes restent dans le même ordre.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 9
+  }
+ },
+ {
+  "id": "bc07-q072",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "crossing-over : mécanisme",
+  "enonce": "Parmi ces affirmations sur le mécanisme des crossing-over, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ils sont réalisés par des enzymes de recombinaison très rigoureuses.",
+   "Les échanges consistent en une coupure puis une soudure de fragments d’ADN (acide désoxyribonucléique).",
+   "Ils ne permettent que des échanges de régions strictement homologues.",
+   "Ils sont réalisés par des enzymes digestives lysosomiales."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "Ils sont déterminants pour la recombinaison génétique.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc07-q073",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "enjambements et recombinaison",
+  "enonce": "Parmi ces affirmations sur les enjambements, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il n’y en a jamais plus d’un par bivalent.",
+   "On compte en moyenne 3 crossing-over par bivalent.",
+   "Ils sont aussi appelés enjambements.",
+   "Ils donnent des chromosomes recombinés.",
+   "Ils permettent la recombinaison génétique."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explication": "Cela brouille la constitution génétique des chromosomes des gamètes.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc07-q074",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "métaphase I : événements",
+  "enonce": "Parmi ces affirmations sur la métaphase I, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les chromatides sœurs sont séparées.",
+   "Les chromosomes restent assemblés en bivalents.",
+   "Les bivalents sont sur le plan équatorial.",
+   "Les microtubules kinétochoriens rejoignent les pôles.",
+   "Les complexes centriolaires sont aux pôles."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explication": "Les chiasmas retiennent les bivalents.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 13
+  }
+ },
+ {
+  "id": "bc07-q075",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "métaphase I : kinétochores",
+  "enonce": "Parmi ces affirmations sur les kinétochores en métaphase I, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il y a un kinétochore par chromosome.",
+   "Les kinétochores des chromatides sœurs ont fusionné.",
+   "Un kinétochore est dirigé vers un pôle, l’autre vers l’autre pôle.",
+   "Les deux kinétochores sont dirigés vers le même pôle.",
+   "Il y a un kinétochore par chromatide en métaphase I."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "Il y a un kinétochore par chromatide en métaphase II.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 13
+  }
+ },
+ {
+  "id": "bc07-q076",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "anaphase I vs anaphase de mitose",
+  "enonce": "Quelles associations anaphase – événement sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Anaphase I : chromosomes entiers à 2 chromatides",
+   "Anaphase de mitose : séparation des chromatides",
+   "Anaphase de mitose : chromosomes entiers à 2 chromatides",
+   "Anaphase I : séparation des chromatides"
+  ],
+  "bonnes": [
+   0,
+   1
+  ],
+  "explication": "L’anaphase I est fondamentalement différente de l’anaphase de mitose.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 15
+  }
+ },
+ {
+  "id": "bc07-q077",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "bilan de la division I",
+  "enonce": "Parmi ces affirmations sur la division I, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les 2 cellules filles ont n chromosomes.",
+   "Les cellules filles sont haploïdes.",
+   "Les chromosomes ont toujours 2 chromatides.",
+   "Les cellules filles ont 2n chromosomes.",
+   "Aucune nouvelle synthèse d’ADN (acide désoxyribonucléique) n’est nécessaire."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "C’est la division réductionnelle.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 16
+  }
+ },
+ {
+  "id": "bc07-q078",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "division réductionnelle : caractéristiques",
+  "enonce": "Quelles caractéristiques décrivent la division réductionnelle (méiose I) ? (plusieurs réponses possibles)",
+  "propositions": [
+   "2n chromosomes → n chromosomes",
+   "Chromosomes à 2 chromatides conservés",
+   "Doublement du nombre de chromosomes",
+   "Conservation du nombre (46) à la fécondation",
+   "Séparation des chromatides sœurs"
+  ],
+  "bonnes": [
+   0,
+   1,
+   3
+  ],
+  "explication": "Les chromatides sœurs se séparent en méiose II.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 16
+  }
+ },
+ {
+  "id": "bc07-q079",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "anaphase I : mouvements",
+  "enonce": "Parmi ces affirmations sur l’anaphase I, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les chromatides sœurs sont séparées.",
+   "Les homologues vont au même pôle.",
+   "Les homologues sont tirés vers des pôles différents, au hasard.",
+   "Les microtubules kinétochoriens raccourcissent.",
+   "Le fuseau s’allonge."
+  ],
+  "bonnes": [
+   2,
+   3,
+   4
+  ],
+  "explication": "Ce sont des chromosomes entiers qui migrent.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc07-q080",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "brassage intrachromosomique",
+  "enonce": "Parmi ces affirmations sur le brassage intrachromosomique, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il a lieu en anaphase II.",
+   "Il résulte des crossing-over.",
+   "Les chromatides sœurs restent identiques.",
+   "Il a lieu en prophase.",
+   "Les 2 chromatides sœurs d’un chromosome ne sont plus identiques."
+  ],
+  "bonnes": [
+   1,
+   3,
+   4
+  ],
+  "explication": "Il prend tout son sens en anaphase I.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc07-q081",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "télophase I",
+  "enonce": "Parmi ces affirmations sur la télophase I, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Chaque noyau contient n paires de chromatides.",
+   "Il se forme deux noyaux haploïdes.",
+   "Une nouvelle synthèse d’ADN (acide désoxyribonucléique) est indispensable.",
+   "Une cytocinèse divise la cellule en deux cellules filles.",
+   "Les enveloppes nucléaires se reconstituent autour des bivalents réunis à chaque pôle."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explication": "La prophase II peut débuter sans attendre.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 19
+  }
+ },
+ {
+  "id": "bc07-q082",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "passage de la méiose I à la méiose II",
+  "enonce": "Quelles affirmations sur le passage de la méiose I à la méiose II sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il n’y a pas de nouvelle phase S.",
+   "Les chromosomes ont déjà 2 chromatides.",
+   "La prophase II peut débuter sans attendre.",
+   "Une phase S est nécessaire.",
+   "Une phase G1 est nécessaire."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "La première division est réductionnelle.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 19
+  }
+ },
+ {
+  "id": "bc07-q083",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "méiose II : événements",
+  "enonce": "Parmi ces affirmations sur la méiose II, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle est en tous points comparable à une mitose.",
+   "En métaphase, les centromères s’accrochent aux kinétochores (un par chromatide).",
+   "En anaphase, les chromatides sœurs sont entraînées vers les pôles.",
+   "Elle comprend des crossing-over.",
+   "Elle forme des bivalents."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "Les bivalents et les crossing-over concernent la prophase I.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc07-q084",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "anaphase II",
+  "enonce": "Parmi ces affirmations sur l’anaphase II, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elle est marquée par l’allongement des cellules.",
+   "Les homologues se séparent.",
+   "Les chromatides sœurs sont entraînées vers les pôles au hasard.",
+   "Les kinétochores se rompent brusquement.",
+   "Cela augmente la diversité génétique."
+  ],
+  "bonnes": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explication": "La séparation des homologues a lieu en anaphase I.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc07-q085",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "méiose II et mitose",
+  "enonce": "Quelles affirmations comparant la méiose II et la mitose sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La seule vraie différence est le nombre d’exemplaires de chaque chromosome.",
+   "La méiose II dure plus longtemps que la mitose.",
+   "La méiose II utilise un fuseau différent.",
+   "Dans la méiose II, il n’y a qu’un exemplaire de chaque chromosome.",
+   "Cette particularité permet de conserver le nombre de chromosomes à la fécondation."
+  ],
+  "bonnes": [
+   0,
+   3,
+   4
+  ],
+  "explication": "La méiose II est en tous points comparable à une mitose.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc07-q086",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "ordre",
+  "fait": "enchaînement des phases de la méiose",
+  "enonce": "Parmi ces enchaînements, lesquels sont exacts ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Télophase I avant prophase II",
+   "Anaphase I avant télophase I",
+   "Prophase I avant métaphase I",
+   "Anaphase II avant métaphase I",
+   "Métaphase I avant anaphase I"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explication": "La méiose I précède la méiose II.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 5
+  }
+ },
+ {
+  "id": "bc07-q087",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "ordre",
+  "fait": "événements de la méiose I",
+  "enonce": "Quelles associations phase – événement sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Anaphase I : migration de chromosomes entiers",
+   "Télophase I : deux noyaux haploïdes",
+   "Métaphase I : bivalents sur le plan équatorial",
+   "Prophase I : crossing-over",
+   "Anaphase I : séparation des chromatides sœurs"
+  ],
+  "bonnes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explication": "La séparation des chromatides sœurs a lieu en méiose II.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc07-q088",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "ordre",
+  "fait": "événements de la méiose II",
+  "enonce": "Quelles associations phase – événement sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Métaphase II : bivalents",
+   "Méiose II : comparable à une mitose",
+   "Métaphase II : un kinétochore par chromatide",
+   "Anaphase II : rupture des kinétochores",
+   "Anaphase II : crossing-over"
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "Les bivalents et crossing-over sont propres à la méiose I.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc07-q089",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "definition",
+  "fait": "termes pour les cellules sexuelles",
+  "enonce": "Quels termes désignent les cellules sexuelles ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Gamètes",
+   "Zygotes",
+   "Cellules germinales",
+   "Cellules somatiques"
+  ],
+  "bonnes": [
+   0,
+   2
+  ],
+  "explication": "Les cellules somatiques sont diploïdes.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc07-q090",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "zygote humain",
+  "enonce": "Quelles affirmations sur un zygote humain sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il provient de la fusion d’un ovule et d’un spermatozoïde.",
+   "Il a 2n = 46 chromosomes.",
+   "Il est haploïde.",
+   "Il a 23 chromosomes maternels et 23 paternels.",
+   "Il a n = 23 chromosomes."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3
+  ],
+  "explication": "Il est diploïde.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 3
+  }
+ },
+ {
+  "id": "bc07-q091",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "identification",
+  "fait": "gamètes animaux",
+  "enonce": "Quels produits de la méiose sont des gamètes animaux ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les hématies",
+   "Les ovocytes",
+   "Les spermatozoïdes",
+   "Les neurones"
+  ],
+  "bonnes": [
+   1,
+   2
+  ],
+  "explication": "La méiose a lieu lors de la reproduction sexuée.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 4
+  }
+ },
+ {
+  "id": "bc07-q092",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "vrai_faux",
+  "fait": "bivalents",
+  "enonce": "Parmi ces affirmations sur les bivalents, lesquelles sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Ses chromosomes sont retenus par leurs chiasmas en métaphase I.",
+   "Un bivalent est une paire de chromosomes homologues.",
+   "Il se forme en prophase I.",
+   "Il se forme en anaphase II.",
+   "Il est formé de chromatides sœurs."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "Les homologues s’unissent deux par deux.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 7
+  }
+ },
+ {
+  "id": "bc07-q093",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "échange de fragments entre homologues",
+  "enonce": "Deux chromosomes homologues échangent des fragments. Quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "L’ordre des gènes reste le même.",
+   "Il s’agit d’un crossing-over.",
+   "Le nombre de chromosomes change.",
+   "La répartition des allèles change.",
+   "L’ordre des gènes change."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3
+  ],
+  "explication": "Un crossing-over ne modifie que la répartition des allèles.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 9
+  }
+ },
+ {
+  "id": "bc07-q094",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "bivalent avec 3 crossing-over",
+  "enonce": "Un bivalent subit 3 crossing-over. Quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les chromosomes obtenus sont recombinés.",
+   "Cela correspond à la moyenne citée dans le cours.",
+   "Cela est exceptionnel.",
+   "Cela favorise la recombinaison génétique.",
+   "Cela diminue la diversité génétique."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3
+  ],
+  "explication": "Les crossing-over sont déterminants pour la recombinaison.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 10
+  }
+ },
+ {
+  "id": "bc07-q095",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "identification",
+  "fait": "éléments de la métaphase I",
+  "enonce": "Parmi ces éléments, lesquels sont observés en métaphase I ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Des chromatides isolées",
+   "Des chiasmas",
+   "Un noyau reformé",
+   "Des complexes centriolaires aux pôles",
+   "Des bivalents"
+  ],
+  "bonnes": [
+   1,
+   3,
+   4
+  ],
+  "explication": "Les chiasmas retiennent les bivalents.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 13
+  }
+ },
+ {
+  "id": "bc07-q096",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "fin de la division I",
+  "enonce": "Une cellule 2n à 2 chromatides par chromosome termine la division I. Quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Elles sont diploïdes.",
+   "Aucune phase S n’est nécessaire avant la division II.",
+   "Elles ont toujours des chromosomes à 2 chromatides.",
+   "Les 2 cellules filles sont haploïdes.",
+   "Leurs chromosomes n’ont qu’une chromatide."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "La division I est réductionnelle.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 16
+  }
+ },
+ {
+  "id": "bc07-q097",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "effet des crossing-over en anaphase I",
+  "enonce": "Pourquoi les crossing-over ont-ils un effet visible en anaphase I ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Les homologues restent assemblés.",
+   "Les chromatides sœurs sont identiques.",
+   "Les homologues sont tirés au hasard vers les pôles.",
+   "Les 2 chromatides sœurs d’un chromosome ne sont plus identiques."
+  ],
+  "bonnes": [
+   2,
+   3
+  ],
+  "explication": "Le brassage intrachromosomique prend tout son sens.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 17
+  }
+ },
+ {
+  "id": "bc07-q098",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "identification",
+  "fait": "noyau en fin de télophase I",
+  "enonce": "Quelles affirmations décrivent un noyau à la fin de la télophase I ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Il est haploïde.",
+   "Il contient n paires de chromatides.",
+   "Il est entouré d’une enveloppe reconstituée.",
+   "Il contient des chromosomes à 1 chromatide.",
+   "Il est diploïde."
+  ],
+  "bonnes": [
+   0,
+   1,
+   2
+  ],
+  "explication": "Chaque noyau contient n paires de chromatides.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 19
+  }
+ },
+ {
+  "id": "bc07-q099",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "cas_pratique",
+  "fait": "cellule haploïde en métaphase II",
+  "enonce": "Une cellule haploïde est en métaphase II. Quelles affirmations sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "Des crossing-over ont lieu.",
+   "Les centromères s’accrochent aux kinétochores.",
+   "Les chromosomes sont sur le plan équatorial.",
+   "Les chromatides sœurs vont se séparer en anaphase II.",
+   "Les chromosomes forment des bivalents."
+  ],
+  "bonnes": [
+   1,
+   2,
+   3
+  ],
+  "explication": "La méiose II est comparable à une mitose.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 23
+  }
+ },
+ {
+  "id": "bc07-q100",
+  "chapitre": "bc07",
+  "type": "QCM",
+  "angle": "comparaison",
+  "fait": "méiose vs mitose",
+  "enonce": "Quelles différences entre méiose et mitose sont exactes ? (plusieurs réponses possibles)",
+  "propositions": [
+   "La méiose comporte deux divisions successives.",
+   "La méiose réduit le nombre de chromosomes, pas la mitose.",
+   "La mitose comporte des crossing-over.",
+   "La méiose donne 4 cellules, la mitose 2."
+  ],
+  "bonnes": [
+   0,
+   1,
+   3
+  ],
+  "explication": "La méiose produit des gamètes génétiquement différents.",
+  "source": {
+   "chapitre": "bc07",
+   "diapo": 4
+  }
+ }
+]

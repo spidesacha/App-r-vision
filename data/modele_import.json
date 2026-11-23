@@ -1,0 +1,19 @@
+{
+  "chapitre": { "id": "bm01", "titre": "Acides nucléiques", "matiere": "Biologie moléculaire" },
+  "questions": [
+    {
+      "enonce": "Quelle base azotée est propre à l’ARN (acide ribonucléique) ?",
+      "propositions": ["La thymine", "L’uracile", "L’adénine", "La guanine"],
+      "bonnes": [1],
+      "explication": "Dans l’ARN, l’uracile remplace la thymine.",
+      "source": { "chapitre": "bm01", "diapo": 29 }
+    },
+    {
+      "enonce": "Quelles sont des bases puriques ? (plusieurs réponses possibles)",
+      "propositions": ["L’adénine", "La guanine", "La cytosine", "La thymine"],
+      "bonnes": [0, 1],
+      "explication": "Les bases puriques sont l’adénine et la guanine.",
+      "source": { "chapitre": "bm01", "diapo": 9 }
+    }
+  ]
+}
